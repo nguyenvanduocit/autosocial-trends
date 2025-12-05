@@ -1,6 +1,6 @@
 {
   "date": "2025-12-06",
-  "generated_at": "2025-12-06T01:02:24.843826+07:00",
+  "generated_at": "2025-12-06T01:03:46.471469+07:00",
   "leaddev": [],
   "first_round": [],
   "devto": [
@@ -370,7 +370,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Unpopular Opinion: The \"Full Stack\" role is a scam to pay you less",
-      "score": 376,
+      "score": 381,
       "num_comments": 135,
       "url": "https://reddit.com/r/cscareerquestions/comments/1peoczv/unpopular_opinion_the_full_stack_role_is_a_scam/",
       "created_utc": 1764917525.0,
@@ -380,7 +380,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "How long can someone stay at a job doing very little work?",
-      "score": 309,
+      "score": 307,
       "num_comments": 142,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pe3tlt/how_long_can_someone_stay_at_a_job_doing_very/",
       "created_utc": 1764864311.0,
@@ -390,7 +390,7 @@
       "source": "reddit",
       "subreddit": "AskEngineers",
       "title": "Why aren’t diesel pumps a triangle or something?",
-      "score": 191,
+      "score": 188,
       "num_comments": 170,
       "url": "https://reddit.com/r/AskEngineers/comments/1pdkgul/why_arent_diesel_pumps_a_triangle_or_something/",
       "created_utc": 1764805485.0,
@@ -400,7 +400,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "How's the job market for people with 2-3 YOE at big tech",
-      "score": 176,
+      "score": 175,
       "num_comments": 62,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pe1ne1/hows_the_job_market_for_people_with_23_yoe_at_big/",
       "created_utc": 1764859149.0,
@@ -408,23 +408,23 @@
     },
     {
       "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "How do you enforce consistent API design across a growing engineering team?",
-      "score": 76,
-      "num_comments": 27,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1pduvrc/how_do_you_enforce_consistent_api_design_across_a/",
-      "created_utc": 1764837203.0,
-      "selftext": "I’m leading a small team (5 devs) and we’re running into a problem that’s becoming more obvious as we ship more services:\nour API designs are drifting in different directions.\n\nEveryone follows the ge"
-    },
-    {
-      "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "My job-hunting strategy that landed me the offer I wanted",
-      "score": 71,
+      "score": 73,
       "num_comments": 12,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pegr29/my_jobhunting_strategy_that_landed_me_the_offer_i/",
       "created_utc": 1764894610.0,
       "selftext": "I was coming from a tech leadership role for a handful of years before sort of burning out and deciding to jump at a startup. Same industry that I know, cool new hook and angle, a \"Head of Product\" ti"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "How do you enforce consistent API design across a growing engineering team?",
+      "score": 70,
+      "num_comments": 27,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pduvrc/how_do_you_enforce_consistent_api_design_across_a/",
+      "created_utc": 1764837203.0,
+      "selftext": "I’m leading a small team (5 devs) and we’re running into a problem that’s becoming more obvious as we ship more services:\nour API designs are drifting in different directions.\n\nEveryone follows the ge"
     },
     {
       "source": "reddit",
@@ -440,7 +440,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Unpopular opinion: it’s better to specialize early and diversify your skills later",
-      "score": 53,
+      "score": 54,
       "num_comments": 52,
       "url": "https://reddit.com/r/cscareerquestions/comments/1peeuhn/unpopular_opinion_its_better_to_specialize_early/",
       "created_utc": 1764889683.0,
@@ -450,7 +450,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Shame on Walmart",
-      "score": 49,
+      "score": 50,
       "num_comments": 29,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pepe5d/shame_on_walmart/",
       "created_utc": 1764921519.0,
@@ -460,7 +460,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Is it the norm for people to be unemployed for a year or more after college due to not being able to get a job?",
-      "score": 35,
+      "score": 36,
       "num_comments": 33,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pezjh7/is_it_the_norm_for_people_to_be_unemployed_for_a/",
       "created_utc": 1764952129.0,
@@ -470,7 +470,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Am I violently underpaid or am I unrealistic",
-      "score": 26,
+      "score": 27,
       "num_comments": 77,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pekwov/am_i_violently_underpaid_or_am_i_unrealistic/",
       "created_utc": 1764906264.0,
@@ -480,7 +480,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Staffing agency owner here: Please stop dividing your salary by 2080 for contract work",
-      "score": 24,
+      "score": 21,
       "num_comments": 7,
       "url": "https://reddit.com/r/cscareerquestions/comments/1penygu/staffing_agency_owner_here_please_stop_dividing/",
       "created_utc": 1764916045.0,
@@ -490,7 +490,7 @@
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Scaling authorization for multitenant SaaS. Avoiding role explosion. What my team and I have learned.",
-      "score": 16,
+      "score": 18,
       "num_comments": 1,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peunki/scaling_authorization_for_multitenant_saas/",
       "created_utc": 1764940190.0,
@@ -500,7 +500,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Can’t print “hello world”",
-      "score": 10,
+      "score": 12,
       "num_comments": 10,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pexh4u/cant_print_hello_world/",
       "created_utc": 1764947329.0,
@@ -510,7 +510,7 @@
       "source": "reddit",
       "subreddit": "AskEngineers",
       "title": "As a rechargeable battery capacity diminishes, does the power required to charge it also diminish?",
-      "score": 10,
+      "score": 11,
       "num_comments": 10,
       "url": "https://reddit.com/r/AskEngineers/comments/1pegp01/as_a_rechargeable_battery_capacity_diminishes/",
       "created_utc": 1764894452.0,
@@ -525,16 +525,6 @@
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peqr33/consumers_projectors_reactors_and_all_that/",
       "created_utc": 1764926858.0,
       "selftext": ""
-    },
-    {
-      "source": "reddit",
-      "subreddit": "AskEngineers",
-      "title": "If electrical current is drawn, and not supplied, how do constant current DC power supplies seem to 'supply' a given current?",
-      "score": 6,
-      "num_comments": 21,
-      "url": "https://reddit.com/r/AskEngineers/comments/1pdwfug/if_electrical_current_is_drawn_and_not_supplied/",
-      "created_utc": 1764843342.0,
-      "selftext": "I ask this in the context of LED lights and lab power supplies, mostly. \n\nI understand they vary their output voltage to the load in order to maintain a constant current, hence why multiple LEDs need "
     },
     {
       "source": "reddit",
@@ -558,6 +548,16 @@
     },
     {
       "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "If electrical current is drawn, and not supplied, how do constant current DC power supplies seem to 'supply' a given current?",
+      "score": 5,
+      "num_comments": 21,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pdwfug/if_electrical_current_is_drawn_and_not_supplied/",
+      "created_utc": 1764843342.0,
+      "selftext": "I ask this in the context of LED lights and lab power supplies, mostly. \n\nI understand they vary their output voltage to the load in order to maintain a constant current, hence why multiple LEDs need "
+    },
+    {
+      "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "When Event Sourcing Makes Sense and How to Approach It",
       "score": 5,
@@ -575,16 +575,6 @@
       "url": "https://reddit.com/r/cscareerquestions/comments/1pf1asu/is_there_like_a_hiring_scam_going_on_in_the/",
       "created_utc": 1764956120.0,
       "selftext": "Every since I joined my current company (Blockchain space) as a TL and added that on my LinkedIn, I started getting a bunch of job offers and interviews that are sketchy. During these calls they would"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "AskEngineers",
-      "title": "Steam vs evaporative  humidifier energy usage",
-      "score": 4,
-      "num_comments": 5,
-      "url": "https://reddit.com/r/AskEngineers/comments/1pey8dn/steam_vs_evaporative_humidifier_energy_usage/",
-      "created_utc": 1764949135.0,
-      "selftext": ""
     },
     {
       "source": "reddit",
@@ -618,6 +608,16 @@
     },
     {
       "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Steam vs evaporative  humidifier energy usage",
+      "score": 3,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pey8dn/steam_vs_evaporative_humidifier_energy_usage/",
+      "created_utc": 1764949135.0,
+      "selftext": ""
+    },
+    {
+      "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "How to classify AWS-related and encryption classes in a traditional layered architecture?",
       "score": 3,
@@ -625,16 +625,6 @@
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pf16q6/how_to_classify_awsrelated_and_encryption_classes/",
       "created_utc": 1764955858.0,
       "selftext": "Hey folks,\n\nI am working on a Spring Boot project that uses ArchUnit to enforce a strict 3-layer architecture:\n\nController → Service → Repository\n\nNow I am implementing a new feature to apply field le"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "When designing data models for a large scale system with a lot of relationships, is it supposed to be an iterative process?",
-      "score": 3,
-      "num_comments": 2,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1peb0gl/when_designing_data_models_for_a_large_scale/",
-      "created_utc": 1764880485.0,
-      "selftext": "Hey guys, basically title.  \nWondering how are large scale systems designed when there are a lot of relationships? It has been extremely hard to design everything upfront, but at the same time wonderi"
     },
     {
       "source": "reddit",
@@ -679,6 +669,16 @@
     {
       "source": "reddit",
       "subreddit": "softwarearchitecture",
+      "title": "When designing data models for a large scale system with a lot of relationships, is it supposed to be an iterative process?",
+      "score": 2,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1peb0gl/when_designing_data_models_for_a_large_scale/",
+      "created_utc": 1764880485.0,
+      "selftext": "Hey guys, basically title.  \nWondering how are large scale systems designed when there are a lot of relationships? It has been extremely hard to design everything upfront, but at the same time wonderi"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
       "title": "What is your experience with innersourcing?",
       "score": 2,
       "num_comments": 1,
@@ -691,7 +691,7 @@
       "subreddit": "AskEngineers",
       "title": "Would a master's degree in Integrated Product Design pair well with a bachelor's degree in mechanical engineering?",
       "score": 1,
-      "num_comments": 12,
+      "num_comments": 13,
       "url": "https://reddit.com/r/AskEngineers/comments/1pezxx2/would_a_masters_degree_in_integrated_product/",
       "created_utc": 1764953035.0,
       "selftext": "I am graduating with a bachelor's degree in mechanical engineering May 2026. I am strongly considering doing grad school. I ran into this degree called \"integrated product design\"\n\nThis is my first ti"
