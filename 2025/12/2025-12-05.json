@@ -1,0 +1,749 @@
+{
+  "date": "2025-12-05",
+  "generated_at": "2025-12-05T23:29:19.128982+07:00",
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Remember XKCD’s legendary dependency comic? I finally built the thing we all joked about.",
+      "score": 1335,
+      "num_comments": 129,
+      "url": "https://reddit.com/r/programming/comments/1pe2quy/remember_xkcds_legendary_dependency_comic_i/",
+      "created_utc": 1764861798.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "'Getting into DevOps'",
+      "score": 1021,
+      "num_comments": 153,
+      "url": "https://reddit.com/r/devops/comments/yjdscp/getting_into_devops/",
+      "created_utc": 1667321129.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Prompt injection within GitHub Actions: Google Gemini and multiple other fortunate 500 companies vulnerable",
+      "score": 642,
+      "num_comments": 84,
+      "url": "https://reddit.com/r/programming/comments/1pe3cew/prompt_injection_within_github_actions_google/",
+      "created_utc": 1764863228.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "I use AI backwards from how everyone tells me I should use it",
+      "score": 626,
+      "num_comments": 132,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pee0ug/i_use_ai_backwards_from_how_everyone_tells_me_i/",
+      "created_utc": 1764887597.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Why is it so hard to hire?",
+      "score": 396,
+      "num_comments": 407,
+      "url": "https://reddit.com/r/webdev/comments/1pdyut8/why_is_it_so_hard_to_hire/",
+      "created_utc": 1764851617.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Why do so many apps use ✨ to represent AI? When did sparkles become the symbol for AI features?",
+      "score": 367,
+      "num_comments": 112,
+      "url": "https://reddit.com/r/webdev/comments/1pesu5d/why_do_so_many_apps_use_to_represent_ai_when_did/",
+      "created_utc": 1764934604.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Glad I took the advice to change my job title.",
+      "score": 298,
+      "num_comments": 44,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pea0ot/glad_i_took_the_advice_to_change_my_job_title/",
+      "created_utc": 1764878178.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI",
+      "score": 247,
+      "num_comments": 77,
+      "url": "https://reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/",
+      "created_utc": 1764885106.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Here we go again ! Cloudflare down again!",
+      "score": 244,
+      "num_comments": 18,
+      "url": "https://reddit.com/r/webdev/comments/1peqv8m/here_we_go_again_cloudflare_down_again/",
+      "created_utc": 1764927312.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "This alone makes me want to use something besides Stripe",
+      "score": 244,
+      "num_comments": 62,
+      "url": "https://reddit.com/r/webdev/comments/1ped5cj/this_alone_makes_me_want_to_use_something_besides/",
+      "created_utc": 1764885473.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D][R] Paper Completely Ripped Off",
+      "score": 182,
+      "num_comments": 54,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pehf5w/dr_paper_completely_ripped_off/",
+      "created_utc": 1764896421.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Distributed Lock Failure: How Long GC Pauses Break Concurrency",
+      "score": 173,
+      "num_comments": 53,
+      "url": "https://reddit.com/r/programming/comments/1pege3b/distributed_lock_failure_how_long_gc_pauses_break/",
+      "created_utc": 1764893673.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Looks like cloudflare is down again",
+      "score": 168,
+      "num_comments": 48,
+      "url": "https://reddit.com/r/webdev/comments/1peq70x/looks_like_cloudflare_is_down_again/",
+      "created_utc": 1764924706.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Bitbucket bait-and-switched, now charging $15/month per self-hosted runner",
+      "score": 154,
+      "num_comments": 58,
+      "url": "https://reddit.com/r/devops/comments/1pe8wzd/bitbucket_baitandswitched_now_charging_15month/",
+      "created_utc": 1764875558.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Florida teacher who used AI to make child pornography of students gets 135-year sentence",
+      "score": 129,
+      "num_comments": 43,
+      "url": "https://reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/",
+      "created_utc": 1764877826.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "This guy built an AI for your ear that you talk to and it literally changes what you hear",
+      "score": 127,
+      "num_comments": 45,
+      "url": "https://reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/",
+      "created_utc": 1764883111.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
+      "score": 126,
+      "num_comments": 171,
+      "url": "https://reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/",
+      "created_utc": 1764863192.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Why WinQuake exists and how it works",
+      "score": 102,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/programming/comments/1peb6vv/why_winquake_exists_and_how_it_works/",
+      "created_utc": 1764880892.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Why I Ignore The Spotlight as a Staff Engineer",
+      "score": 90,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/programming/comments/1pekdhi/why_i_ignore_the_spotlight_as_a_staff_engineer/",
+      "created_utc": 1764904710.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Cloudflare is down again",
+      "score": 84,
+      "num_comments": 40,
+      "url": "https://reddit.com/r/devops/comments/1peqa4c/cloudflare_is_down_again/",
+      "created_utc": 1764925028.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "After years in the field, a small FaceSeek-style system caused me to consider the evolution of code.",
+      "score": 74,
+      "num_comments": 11,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pevjyt/after_years_in_the_field_a_small_faceseekstyle/",
+      "created_utc": 1764942614.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "what are some good startup programmes for early founders?",
+      "score": 70,
+      "num_comments": 21,
+      "url": "https://reddit.com/r/startup/comments/1pc8brz/what_are_some_good_startup_programmes_for_early/",
+      "created_utc": 1764681824.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Experiences calling out excessive vibe coding to prevent wasting time reviewing bad PRs?",
+      "score": 64,
+      "num_comments": 87,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pem6eg/experiences_calling_out_excessive_vibe_coding_to/",
+      "created_utc": 1764910170.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Is it an IC engineer’s job to keep people accountable of deadlines? What does that look like?",
+      "score": 60,
+      "num_comments": 52,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1peo1py/is_it_an_ic_engineers_job_to_keep_people/",
+      "created_utc": 1764916372.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "How should this sub respond to reddit's api changes, part 2",
+      "score": 49,
+      "num_comments": 31,
+      "url": "https://reddit.com/r/devops/comments/14n6ghq/how_should_this_sub_respond_to_reddits_api/",
+      "created_utc": 1688145703.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Unprofessional or aggressive behaviour when handing in notice",
+      "score": 40,
+      "num_comments": 51,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1peseg5/unprofessional_or_aggressive_behaviour_when/",
+      "created_utc": 1764933059.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] We stress-tested the idea of “LLMs with thousands of tools.” The results challenge some assumptions.",
+      "score": 37,
+      "num_comments": 13,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pei5vc/d_we_stresstested_the_idea_of_llms_with_thousands/",
+      "created_utc": 1764898450.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "score": 35,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pb25zo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "created_utc": 1764559853.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "AI Slop Is Ruining Reddit for Everyone",
+      "score": 31,
+      "num_comments": 45,
+      "url": "https://reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/",
+      "created_utc": 1764940874.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Avoiding space leaks at all costs",
+      "score": 27,
+      "num_comments": 12,
+      "url": "https://reddit.com/r/programming/comments/1pepwg8/avoiding_space_leaks_at_all_costs/",
+      "created_utc": 1764923536.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "What are things you wish your team leader did, but won't do?",
+      "score": 20,
+      "num_comments": 18,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1peubui/what_are_things_you_wish_your_team_leader_did_but/",
+      "created_utc": 1764939268.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "When to Use Which Design Pattern? A Complete Guide to All 23 GoF Design Patterns",
+      "score": 18,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/programming/comments/1pepblq/when_to_use_which_design_pattern_a_complete_guide/",
+      "created_utc": 1764921240.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database",
+      "score": 18,
+      "num_comments": 12,
+      "url": "https://reddit.com/r/artificial/comments/1pet67v/huge_trove_of_nude_images_leaked_by_ai_image/",
+      "created_utc": 1764935736.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Looking for a developer-friendly SMS API (Twilio feels heavy)",
+      "score": 16,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/webdev/comments/1pet1lg/looking_for_a_developerfriendly_sms_api_twilio/",
+      "created_utc": 1764935296.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Cloudflare Down again?",
+      "score": 16,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/webdev/comments/1peqkei/cloudflare_down_again/",
+      "created_utc": 1764926116.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Struggling with my job",
+      "score": 16,
+      "num_comments": 13,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1persjl/struggling_with_my_job/",
+      "created_utc": 1764930831.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Yea.. its DataDog again, how you cope with that?",
+      "score": 14,
+      "num_comments": 19,
+      "url": "https://reddit.com/r/devops/comments/1peoe0x/yea_its_datadog_again_how_you_cope_with_that/",
+      "created_utc": 1764917633.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "So what does the career path of a really good DevOps engineer look like?",
+      "score": 13,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/devops/comments/1peorui/so_what_does_the_career_path_of_a_really_good/",
+      "created_utc": 1764919061.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
+      "score": 13,
+      "num_comments": 56,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1paxm9u/ask_experienced_devs_weekly_thread_a_weekly/",
+      "created_utc": 1764547255.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "I made a \"Wrapped\" for people who use AI to code",
+      "score": 12,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/webdev/comments/1pex54j/i_made_a_wrapped_for_people_who_use_ai_to_code/",
+      "created_utc": 1764946545.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Code editor Zed adds long-awaited rainbow brackets for improved nested code readability",
+      "score": 10,
+      "num_comments": 11,
+      "url": "https://reddit.com/r/programming/comments/1pepjco/code_editor_zed_adds_longawaited_rainbow_brackets/",
+      "created_utc": 1764922047.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Are there any emerging LLM related directions that do not require too expensive computing?",
+      "score": 10,
+      "num_comments": 10,
+      "url": "https://reddit.com/r/MachineLearning/comments/1perrq2/d_are_there_any_emerging_llm_related_directions/",
+      "created_utc": 1764930745.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
+      "score": 10,
+      "num_comments": 35,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1p523h6/ask_experienced_devs_weekly_thread_a_weekly/",
+      "created_utc": 1763942443.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Someone submitted a PR for Firefox compatibility",
+      "score": 9,
+      "num_comments": 14,
+      "url": "https://reddit.com/r/webdev/comments/1pey2qk/someone_submitted_a_pr_for_firefox_compatibility/",
+      "created_utc": 1764948759.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "finally cut our CI/CD test time from 45min to 12min, here's how",
+      "score": 9,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/devops/comments/1pev57u/finally_cut_our_cicd_test_time_from_45min_to/",
+      "created_utc": 1764941541.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[P] Visualizing emergent structure in the Dragon Hatchling (BDH): a brain-inspired alternative to transformers",
+      "score": 7,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/MachineLearning/comments/1perpzl/p_visualizing_emergent_structure_in_the_dragon/",
+      "created_utc": 1764930565.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "How did you reduce testing overhead at your startup without sacrificing quality?",
+      "score": 7,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/devops/comments/1peu9wa/how_did_you_reduce_testing_overhead_at_your/",
+      "created_utc": 1764939103.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "score": 5,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/webdev/comments/1pbaypd/monthly_getting_started_web_dev_career_thread/",
+      "created_utc": 1764590448.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[R] Multiview Image Generation using Flow Models",
+      "score": 5,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pesg7s/r_multiview_image_generation_using_flow_models/",
+      "created_utc": 1764933235.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "The only simple geometric constraint solver on the internet",
+      "score": 4,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/programming/comments/1pexv0f/the_only_simple_geometric_constraint_solver_on/",
+      "created_utc": 1764948234.0
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "hackernews",
+      "title": "Netflix to Acquire Warner Bros",
+      "score": 739,
+      "num_comments": 602,
+      "url": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
+      "hn_url": "https://news.ycombinator.com/item?id=46160315",
+      "by": "meetpateltech",
+      "time": 1764937279
+    },
+    {
+      "source": "hackernews",
+      "title": "Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality",
+      "score": 121,
+      "num_comments": 84,
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305",
+      "hn_url": "https://news.ycombinator.com/item?id=46162262",
+      "by": "bpierre",
+      "time": 1764947262
+    },
+    {
+      "source": "hackernews",
+      "title": "Jolla Phone Pre-Order",
+      "score": 96,
+      "num_comments": 36,
+      "url": "https://commerce.jolla.com/products/jolla-phone-preorder",
+      "hn_url": "https://news.ycombinator.com/item?id=46162368",
+      "by": "jhoho",
+      "time": 1764947712
+    },
+    {
+      "source": "hackernews",
+      "title": "Cloudflare outage on December 5, 2025",
+      "score": 112,
+      "num_comments": 80,
+      "url": "https://blog.cloudflare.com/5-december-2025-outage/",
+      "hn_url": "https://news.ycombinator.com/item?id=46162656",
+      "by": "meetpateltech",
+      "time": 1764948943
+    },
+    {
+      "source": "hackernews",
+      "title": "UniFi 5G",
+      "score": 241,
+      "num_comments": 197,
+      "url": "https://blog.ui.com/article/introducing-unifi-5g",
+      "hn_url": "https://news.ycombinator.com/item?id=46157594",
+      "by": "janandonly",
+      "time": 1764918398
+    },
+    {
+      "source": "hackernews",
+      "title": "Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit",
+      "score": 33,
+      "num_comments": 12,
+      "url": "https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46162872",
+      "by": "woodrowbarlow",
+      "time": 1764949796
+    },
+    {
+      "source": "hackernews",
+      "title": "Making RSS More Fun",
+      "score": 71,
+      "num_comments": 44,
+      "url": "https://matduggan.com/making-rss-more-fun/",
+      "hn_url": "https://news.ycombinator.com/item?id=46160698",
+      "by": "salmon",
+      "time": 1764939628
+    },
+    {
+      "source": "hackernews",
+      "title": "Most technical problems are people problems",
+      "score": 144,
+      "num_comments": 134,
+      "url": "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46160773",
+      "by": "mooreds",
+      "time": 1764940079
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Kraa – Writing App for Everything",
+      "score": 55,
+      "num_comments": 32,
+      "url": "https://kraa.io/about",
+      "hn_url": "https://news.ycombinator.com/item?id=46144801",
+      "by": "levmiseri",
+      "time": 1764833710
+    },
+    {
+      "source": "hackernews",
+      "title": "Netflix’s AV1 Journey: From Android to TVs and Beyond",
+      "score": 446,
+      "num_comments": 233,
+      "url": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
+      "hn_url": "https://news.ycombinator.com/item?id=46155135",
+      "by": "CharlesW",
+      "time": 1764893397
+    },
+    {
+      "source": "hackernews",
+      "title": "BMW PHEV: Safety fuse replacement is extremely expensive",
+      "score": 353,
+      "num_comments": 363,
+      "url": "https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/",
+      "hn_url": "https://news.ycombinator.com/item?id=46155619",
+      "by": "mikelabatt",
+      "time": 1764896757
+    },
+    {
+      "source": "hackernews",
+      "title": "I have been writing a niche history blog for 15 years",
+      "score": 204,
+      "num_comments": 33,
+      "url": "https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history",
+      "hn_url": "https://news.ycombinator.com/item?id=46151299",
+      "by": "benbreen",
+      "time": 1764874160
+    },
+    {
+      "source": "hackernews",
+      "title": "Nimony (Nim 3.0) Design Principles",
+      "score": 82,
+      "num_comments": 46,
+      "url": "https://nim-lang.org/araq/nimony.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46115758",
+      "by": "andsoitis",
+      "time": 1764635981
+    },
+    {
+      "source": "hackernews",
+      "title": "Influential study on glyphosate safety retracted 25 years after publication",
+      "score": 117,
+      "num_comments": 93,
+      "url": "https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46161125",
+      "by": "isolli",
+      "time": 1764941944
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "score": 9,
+      "num_comments": 2,
+      "url": "https://news.ycombinator.com/item?id=46163121",
+      "hn_url": "https://news.ycombinator.com/item?id=46163121",
+      "by": "proberts",
+      "time": 1764950660
+    },
+    {
+      "source": "hackernews",
+      "title": "After 40 years of adventure games, Ron Gilbert pivots to outrunning Death",
+      "score": 147,
+      "num_comments": 60,
+      "url": "https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/",
+      "hn_url": "https://news.ycombinator.com/item?id=46109978",
+      "by": "mikhael",
+      "time": 1764609209
+    },
+    {
+      "source": "hackernews",
+      "title": "New 3D scan reveals a hidden network of moai carvers on Easter Island",
+      "score": 15,
+      "num_comments": 3,
+      "url": "https://www.sciencedaily.com/releases/2025/11/251130050717.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=46099739",
+      "by": "saikatsg",
+      "time": 1764531959
+    },
+    {
+      "source": "hackernews",
+      "title": "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
+      "score": 275,
+      "num_comments": 40,
+      "url": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
+      "hn_url": "https://news.ycombinator.com/item?id=46155085",
+      "by": "spartanatreyu",
+      "time": 1764893016
+    },
+    {
+      "source": "hackernews",
+      "title": "Kenyan court declares law banning seed sharing unconstitutional",
+      "score": 198,
+      "num_comments": 53,
+      "url": "https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80",
+      "hn_url": "https://news.ycombinator.com/item?id=46158578",
+      "by": "thunderbong",
+      "time": 1764925765
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Tacopy – Tail Call Optimization for Python",
+      "score": 71,
+      "num_comments": 34,
+      "url": "https://github.com/raaidrt/tacopy",
+      "hn_url": "https://news.ycombinator.com/item?id=46094330",
+      "by": "raaid-rt",
+      "time": 1764483537
+    },
+    {
+      "source": "hackernews",
+      "title": "Ephemeral Infrastructure: Why Short-Lived Is a Good Thing",
+      "score": 22,
+      "num_comments": 10,
+      "url": "https://lukasniessen.medium.com/ephemeral-infrastructure-why-short-lived-is-a-good-thing-2cf26afd75ef",
+      "hn_url": "https://news.ycombinator.com/item?id=46095602",
+      "by": "birdculture",
+      "time": 1764499832
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Pbnj – A minimal, self-hosted pastebin you can deploy in 60 seconds",
+      "score": 9,
+      "num_comments": 2,
+      "url": "https://pbnj.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=46160824",
+      "by": "bhavnicksm",
+      "time": 1764940383
+    },
+    {
+      "source": "hackernews",
+      "title": "Sugars, Gum, Stardust Found in NASA's Asteroid Bennu Samples",
+      "score": 84,
+      "num_comments": 23,
+      "url": "https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/",
+      "hn_url": "https://news.ycombinator.com/item?id=46160239",
+      "by": "jnord",
+      "time": 1764936772
+    },
+    {
+      "source": "hackernews",
+      "title": "CSS now has an if() conditional function",
+      "score": 221,
+      "num_comments": 178,
+      "url": "https://caniuse.com/?search=if",
+      "hn_url": "https://news.ycombinator.com/item?id=46092198",
+      "by": "aanthonymax",
+      "time": 1764462079
+    },
+    {
+      "source": "hackernews",
+      "title": "Reframing Impact",
+      "score": 6,
+      "num_comments": 0,
+      "url": "https://turntrout.com/reframing-impact",
+      "hn_url": "https://news.ycombinator.com/item?id=46079151",
+      "by": "jxmorris12",
+      "time": 1764341559
+    },
+    {
+      "source": "hackernews",
+      "title": "Transparent leadership beats servant leadership",
+      "score": 484,
+      "num_comments": 217,
+      "url": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
+      "hn_url": "https://news.ycombinator.com/item?id=46147540",
+      "by": "ibobev",
+      "time": 1764855600
+    },
+    {
+      "source": "hackernews",
+      "title": "How elites could shape mass preferences as AI reduces persuasion costs",
+      "score": 637,
+      "num_comments": 594,
+      "url": "https://arxiv.org/abs/2512.04047",
+      "hn_url": "https://news.ycombinator.com/item?id=46145180",
+      "by": "50kIters",
+      "time": 1764837497
+    },
+    {
+      "source": "hackernews",
+      "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "score": 307,
+      "num_comments": 255,
+      "url": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
+      "hn_url": "https://news.ycombinator.com/item?id=46154491",
+      "by": "cheeseblubber",
+      "time": 1764889705
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I was reintroduced to computers: Raspberry Pi",
+      "score": 67,
+      "num_comments": 26,
+      "url": "https://airoboticist.blog/2025/12/01/i-was-reintroduced-to-computers-raspberry-pi/",
+      "hn_url": "https://news.ycombinator.com/item?id=46119234",
+      "by": "observer2022",
+      "time": 1764666840
+    }
+  ],
+  "google_trends": []
+}
