@@ -1,9 +1,8 @@
 {
   "date": "2025-12-06",
-  "generated_at": "2025-12-06T01:00:25.231879+07:00",
+  "generated_at": "2025-12-06T01:02:24.843826+07:00",
   "leaddev": [],
   "first_round": [],
-  "medium": [],
   "devto": [
     {
       "source": "devto",
@@ -371,7 +370,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Unpopular Opinion: The \"Full Stack\" role is a scam to pay you less",
-      "score": 382,
+      "score": 376,
       "num_comments": 135,
       "url": "https://reddit.com/r/cscareerquestions/comments/1peoczv/unpopular_opinion_the_full_stack_role_is_a_scam/",
       "created_utc": 1764917525.0,
@@ -381,7 +380,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "How long can someone stay at a job doing very little work?",
-      "score": 305,
+      "score": 309,
       "num_comments": 142,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pe3tlt/how_long_can_someone_stay_at_a_job_doing_very/",
       "created_utc": 1764864311.0,
@@ -391,7 +390,7 @@
       "source": "reddit",
       "subreddit": "AskEngineers",
       "title": "Why aren’t diesel pumps a triangle or something?",
-      "score": 189,
+      "score": 191,
       "num_comments": 170,
       "url": "https://reddit.com/r/AskEngineers/comments/1pdkgul/why_arent_diesel_pumps_a_triangle_or_something/",
       "created_utc": 1764805485.0,
@@ -409,9 +408,19 @@
     },
     {
       "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "How do you enforce consistent API design across a growing engineering team?",
+      "score": 76,
+      "num_comments": 27,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pduvrc/how_do_you_enforce_consistent_api_design_across_a/",
+      "created_utc": 1764837203.0,
+      "selftext": "I’m leading a small team (5 devs) and we’re running into a problem that’s becoming more obvious as we ship more services:\nour API designs are drifting in different directions.\n\nEveryone follows the ge"
+    },
+    {
+      "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "My job-hunting strategy that landed me the offer I wanted",
-      "score": 75,
+      "score": 71,
       "num_comments": 12,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pegr29/my_jobhunting_strategy_that_landed_me_the_offer_i/",
       "created_utc": 1764894610.0,
@@ -420,18 +429,8 @@
     {
       "source": "reddit",
       "subreddit": "softwarearchitecture",
-      "title": "How do you enforce consistent API design across a growing engineering team?",
-      "score": 71,
-      "num_comments": 27,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1pduvrc/how_do_you_enforce_consistent_api_design_across_a/",
-      "created_utc": 1764837203.0,
-      "selftext": "I’m leading a small team (5 devs) and we’re running into a problem that’s becoming more obvious as we ship more services:\nour API designs are drifting in different directions.\n\nEveryone follows the ge"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "softwarearchitecture",
       "title": "Senior+ engineers who interview - what are we actually evaluating in system design rounds?",
-      "score": 59,
+      "score": 61,
       "num_comments": 28,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peiwbt/senior_engineers_who_interview_what_are_we/",
       "created_utc": 1764900503.0,
@@ -441,7 +440,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Unpopular opinion: it’s better to specialize early and diversify your skills later",
-      "score": 57,
+      "score": 53,
       "num_comments": 52,
       "url": "https://reddit.com/r/cscareerquestions/comments/1peeuhn/unpopular_opinion_its_better_to_specialize_early/",
       "created_utc": 1764889683.0,
@@ -461,8 +460,8 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Is it the norm for people to be unemployed for a year or more after college due to not being able to get a job?",
-      "score": 34,
-      "num_comments": 31,
+      "score": 35,
+      "num_comments": 33,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pezjh7/is_it_the_norm_for_people_to_be_unemployed_for_a/",
       "created_utc": 1764952129.0,
       "selftext": "I graduated in May 2025 and still no job. And I sent out hundreds of applications. I will probably hit the one year mark and not have a job. I also graduated from a good school for CS (UCLA) and have "
@@ -471,7 +470,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Am I violently underpaid or am I unrealistic",
-      "score": 29,
+      "score": 26,
       "num_comments": 77,
       "url": "https://reddit.com/r/cscareerquestions/comments/1pekwov/am_i_violently_underpaid_or_am_i_unrealistic/",
       "created_utc": 1764906264.0,
@@ -481,7 +480,7 @@
       "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Staffing agency owner here: Please stop dividing your salary by 2080 for contract work",
-      "score": 19,
+      "score": 24,
       "num_comments": 7,
       "url": "https://reddit.com/r/cscareerquestions/comments/1penygu/staffing_agency_owner_here_please_stop_dividing/",
       "created_utc": 1764916045.0,
@@ -491,11 +490,21 @@
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Scaling authorization for multitenant SaaS. Avoiding role explosion. What my team and I have learned.",
-      "score": 15,
+      "score": 16,
       "num_comments": 1,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peunki/scaling_authorization_for_multitenant_saas/",
       "created_utc": 1764940190.0,
       "selftext": "Hey everyone! Wanted to share something my team and I have been seeing with a lot of B2B SaaS teams as they scale.\n\nThe scenario that keeps coming up: \n\nTeam builds a solid product, start adding custo"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Can’t print “hello world”",
+      "score": 10,
+      "num_comments": 10,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pexh4u/cant_print_hello_world/",
+      "created_utc": 1764947329.0,
+      "selftext": "IT rolled out a new security feature and it blocks both Python from running and the files from running. Some people can’t even access PDFs on their computer.\n\nI knew this company was not the greatest "
     },
     {
       "source": "reddit",
@@ -511,7 +520,7 @@
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Consumers, projectors, reactors and all that messaging jazz",
-      "score": 10,
+      "score": 9,
       "num_comments": 0,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peqr33/consumers_projectors_reactors_and_all_that/",
       "created_utc": 1764926858.0,
@@ -519,19 +528,9 @@
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Can’t print “hello world”",
-      "score": 9,
-      "num_comments": 10,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pexh4u/cant_print_hello_world/",
-      "created_utc": 1764947329.0,
-      "selftext": "IT rolled out a new security feature and it blocks both Python from running and the files from running. Some people can’t even access PDFs on their computer.\n\nI knew this company was not the greatest "
-    },
-    {
-      "source": "reddit",
       "subreddit": "AskEngineers",
       "title": "If electrical current is drawn, and not supplied, how do constant current DC power supplies seem to 'supply' a given current?",
-      "score": 7,
+      "score": 6,
       "num_comments": 21,
       "url": "https://reddit.com/r/AskEngineers/comments/1pdwfug/if_electrical_current_is_drawn_and_not_supplied/",
       "created_utc": 1764843342.0,
@@ -541,7 +540,7 @@
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Karrot Improves Conversion Rates by 70% with New Scalable Feature Platform on AWS",
-      "score": 7,
+      "score": 6,
       "num_comments": 0,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pdxvrl/karrot_improves_conversion_rates_by_70_with_new/",
       "created_utc": 1764848501.0,
@@ -551,7 +550,7 @@
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Can MVVM be damaged just by bad naming?",
-      "score": 5,
+      "score": 6,
       "num_comments": 0,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pdwcen/can_mvvm_be_damaged_just_by_bad_naming/",
       "created_utc": 1764842995.0,
@@ -560,12 +559,12 @@
     {
       "source": "reddit",
       "subreddit": "softwarearchitecture",
-      "title": "Durable Executions, defined",
+      "title": "When Event Sourcing Makes Sense and How to Approach It",
       "score": 5,
       "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1pd7awl/durable_executions_defined/",
-      "created_utc": 1764775866.0,
-      "selftext": ""
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pd6fdw/when_event_sourcing_makes_sense_and_how_to/",
+      "created_utc": 1764773907.0,
+      "selftext": "The idea of event sourcing is completely different from what we usually build.  \nToday I’ll show you the fundamentals of an event-sourced system using a poker platform as an example, but first, why wo"
     },
     {
       "source": "reddit",
@@ -599,6 +598,16 @@
     },
     {
       "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "Durable Executions, defined",
+      "score": 4,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pd7awl/durable_executions_defined/",
+      "created_utc": 1764775866.0,
+      "selftext": ""
+    },
+    {
+      "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "swe with 5 years ended up on servicedesk position - what to do",
       "score": 3,
@@ -616,16 +625,6 @@
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pf16q6/how_to_classify_awsrelated_and_encryption_classes/",
       "created_utc": 1764955858.0,
       "selftext": "Hey folks,\n\nI am working on a Spring Boot project that uses ArchUnit to enforce a strict 3-layer architecture:\n\nController → Service → Repository\n\nNow I am implementing a new feature to apply field le"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "Is AI Writing Your Code Killing Your Confidence?",
-      "score": 3,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1peubat/is_ai_writing_your_code_killing_your_confidence/",
-      "created_utc": 1764939224.0,
-      "selftext": "AI is a powerful tool, but relying on it for coding can sometimes leave us questioning our own abilities. Muscle memory, problem-solving instincts, and design thinking are skills we must keep sharpeni"
     },
     {
       "source": "reddit",
@@ -649,16 +648,6 @@
     },
     {
       "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "When Event Sourcing Makes Sense and How to Approach It",
-      "score": 3,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1pd6fdw/when_event_sourcing_makes_sense_and_how_to/",
-      "created_utc": 1764773907.0,
-      "selftext": "The idea of event sourcing is completely different from what we usually build.  \nToday I’ll show you the fundamentals of an event-sourced system using a poker platform as an example, but first, why wo"
-    },
-    {
-      "source": "reddit",
       "subreddit": "cscareerquestions",
       "title": "Incoming DevOps Intern | Question about transitioning to SWE",
       "score": 2,
@@ -676,6 +665,16 @@
       "url": "https://reddit.com/r/cscareerquestions/comments/1pexmne/should_i_stay_at_my_current_company_or_accept_the/",
       "created_utc": 1764947694.0,
       "selftext": "I need some advice regarding a decision in my career. Lets begin with a small intro about me, I am a software developer based in Egypt with 3YOE as a dev (and a Civil Engineering background - total 5 "
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "Is AI Writing Your Code Killing Your Confidence?",
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1peubat/is_ai_writing_your_code_killing_your_confidence/",
+      "created_utc": 1764939224.0,
+      "selftext": "AI is a powerful tool, but relying on it for coding can sometimes leave us questioning our own abilities. Muscle memory, problem-solving instincts, and design thinking are skills we must keep sharpeni"
     },
     {
       "source": "reddit",
