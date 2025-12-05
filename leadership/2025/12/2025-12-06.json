@@ -1,8 +1,7 @@
 {
   "date": "2025-12-06",
-  "generated_at": "2025-12-06T01:03:46.471469+07:00",
+  "generated_at": "2025-12-06T01:06:11.228606+07:00",
   "leaddev": [],
-  "first_round": [],
   "devto": [
     {
       "source": "devto",
@@ -368,29 +367,9 @@
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Unpopular Opinion: The \"Full Stack\" role is a scam to pay you less",
-      "score": 381,
-      "num_comments": 135,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1peoczv/unpopular_opinion_the_full_stack_role_is_a_scam/",
-      "created_utc": 1764917525.0,
-      "selftext": "I run a staffing agency and see the backend of payroll for tons of companies.\n\nThe \"Full Stack Developer\" title has morphed into a financial trick.\n\nIn 2020, you needed to know React and Node.\nIn 2025"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "How long can someone stay at a job doing very little work?",
-      "score": 307,
-      "num_comments": 142,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pe3tlt/how_long_can_someone_stay_at_a_job_doing_very/",
-      "created_utc": 1764864311.0,
-      "selftext": "My company is dysfunctional and I spend most of my days in meetings and doing very little actual work. When I'm asked to complete a task I do it well but I probably only work about 20 hours per week. "
-    },
-    {
-      "source": "reddit",
       "subreddit": "AskEngineers",
       "title": "Why aren’t diesel pumps a triangle or something?",
-      "score": 188,
+      "score": 189,
       "num_comments": 170,
       "url": "https://reddit.com/r/AskEngineers/comments/1pdkgul/why_arent_diesel_pumps_a_triangle_or_something/",
       "created_utc": 1764805485.0,
@@ -398,29 +377,9 @@
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "How's the job market for people with 2-3 YOE at big tech",
-      "score": 175,
-      "num_comments": 62,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pe1ne1/hows_the_job_market_for_people_with_23_yoe_at_big/",
-      "created_utc": 1764859149.0,
-      "selftext": "Joined a faangmula as a new grad in greater seattle area 2 years ago. I had almost 2 years of internship experience that also includes entering that said big tech.\n\nPlanning to start leetcoding and ap"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "My job-hunting strategy that landed me the offer I wanted",
-      "score": 73,
-      "num_comments": 12,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pegr29/my_jobhunting_strategy_that_landed_me_the_offer_i/",
-      "created_utc": 1764894610.0,
-      "selftext": "I was coming from a tech leadership role for a handful of years before sort of burning out and deciding to jump at a startup. Same industry that I know, cool new hook and angle, a \"Head of Product\" ti"
-    },
-    {
-      "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "How do you enforce consistent API design across a growing engineering team?",
-      "score": 70,
+      "score": 76,
       "num_comments": 27,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pduvrc/how_do_you_enforce_consistent_api_design_across_a/",
       "created_utc": 1764837203.0,
@@ -438,59 +397,9 @@
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Unpopular opinion: it’s better to specialize early and diversify your skills later",
-      "score": 54,
-      "num_comments": 52,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1peeuhn/unpopular_opinion_its_better_to_specialize_early/",
-      "created_utc": 1764889683.0,
-      "selftext": "Conventional wisdom says you should learn a wide array of topics and get reasonably competent at them, and over time find your niche and gain mastery.\n\nI think having the mastery up front gives you mo"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Shame on Walmart",
-      "score": 50,
-      "num_comments": 29,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pepe5d/shame_on_walmart/",
-      "created_utc": 1764921519.0,
-      "selftext": "Walmart is a piece of shit company. They are only interviewing non-work visa candidates as proof to the American government that they tried to hired Americans. They are snatching up recently layoffs f"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Is it the norm for people to be unemployed for a year or more after college due to not being able to get a job?",
-      "score": 36,
-      "num_comments": 33,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pezjh7/is_it_the_norm_for_people_to_be_unemployed_for_a/",
-      "created_utc": 1764952129.0,
-      "selftext": "I graduated in May 2025 and still no job. And I sent out hundreds of applications. I will probably hit the one year mark and not have a job. I also graduated from a good school for CS (UCLA) and have "
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Am I violently underpaid or am I unrealistic",
-      "score": 27,
-      "num_comments": 77,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pekwov/am_i_violently_underpaid_or_am_i_unrealistic/",
-      "created_utc": 1764906264.0,
-      "selftext": "Hey yall, as end of year reviews come out and as my company hits raise and bonus time of year, I am curious if I am really underpaid, or if I am paid fairly and have unrealistic expectations.\n\n  \nI wo"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Staffing agency owner here: Please stop dividing your salary by 2080 for contract work",
-      "score": 21,
-      "num_comments": 7,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1penygu/staffing_agency_owner_here_please_stop_dividing/",
-      "created_utc": 1764916045.0,
-      "selftext": "Seeing way too many seniors screw this up lately.\n\nIf you move from W2 to C2C/Contract, do not just divide your salary by 2080 to get your hourly rate. You are ripping yourself off.\nYou have to accoun"
-    },
-    {
-      "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Scaling authorization for multitenant SaaS. Avoiding role explosion. What my team and I have learned.",
-      "score": 18,
+      "score": 15,
       "num_comments": 1,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peunki/scaling_authorization_for_multitenant_saas/",
       "created_utc": 1764940190.0,
@@ -498,19 +407,9 @@
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Can’t print “hello world”",
-      "score": 12,
-      "num_comments": 10,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pexh4u/cant_print_hello_world/",
-      "created_utc": 1764947329.0,
-      "selftext": "IT rolled out a new security feature and it blocks both Python from running and the files from running. Some people can’t even access PDFs on their computer.\n\nI knew this company was not the greatest "
-    },
-    {
-      "source": "reddit",
       "subreddit": "AskEngineers",
       "title": "As a rechargeable battery capacity diminishes, does the power required to charge it also diminish?",
-      "score": 11,
+      "score": 10,
       "num_comments": 10,
       "url": "https://reddit.com/r/AskEngineers/comments/1pegp01/as_a_rechargeable_battery_capacity_diminishes/",
       "created_utc": 1764894452.0,
@@ -520,11 +419,21 @@
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Consumers, projectors, reactors and all that messaging jazz",
-      "score": 9,
+      "score": 8,
       "num_comments": 0,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peqr33/consumers_projectors_reactors_and_all_that/",
       "created_utc": 1764926858.0,
       "selftext": ""
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "If electrical current is drawn, and not supplied, how do constant current DC power supplies seem to 'supply' a given current?",
+      "score": 6,
+      "num_comments": 21,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pdwfug/if_electrical_current_is_drawn_and_not_supplied/",
+      "created_utc": 1764843342.0,
+      "selftext": "I ask this in the context of LED lights and lab power supplies, mostly. \n\nI understand they vary their output voltage to the load in order to maintain a constant current, hence why multiple LEDs need "
     },
     {
       "source": "reddit",
@@ -548,13 +457,13 @@
     },
     {
       "source": "reddit",
-      "subreddit": "AskEngineers",
-      "title": "If electrical current is drawn, and not supplied, how do constant current DC power supplies seem to 'supply' a given current?",
+      "subreddit": "softwarearchitecture",
+      "title": "Durable Executions, defined",
       "score": 5,
-      "num_comments": 21,
-      "url": "https://reddit.com/r/AskEngineers/comments/1pdwfug/if_electrical_current_is_drawn_and_not_supplied/",
-      "created_utc": 1764843342.0,
-      "selftext": "I ask this in the context of LED lights and lab power supplies, mostly. \n\nI understand they vary their output voltage to the load in order to maintain a constant current, hence why multiple LEDs need "
+      "num_comments": 0,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pd7awl/durable_executions_defined/",
+      "created_utc": 1764775866.0,
+      "selftext": ""
     },
     {
       "source": "reddit",
@@ -568,13 +477,13 @@
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Is there like a hiring scam going on in the blockchain space?",
+      "subreddit": "AskEngineers",
+      "title": "Steam vs evaporative  humidifier energy usage",
       "score": 4,
-      "num_comments": 6,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pf1asu/is_there_like_a_hiring_scam_going_on_in_the/",
-      "created_utc": 1764956120.0,
-      "selftext": "Every since I joined my current company (Blockchain space) as a TL and added that on my LinkedIn, I started getting a bunch of job offers and interviews that are sketchy. During these calls they would"
+      "num_comments": 5,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pey8dn/steam_vs_evaporative_humidifier_energy_usage/",
+      "created_utc": 1764949135.0,
+      "selftext": ""
     },
     {
       "source": "reddit",
@@ -589,32 +498,22 @@
     {
       "source": "reddit",
       "subreddit": "softwarearchitecture",
-      "title": "Durable Executions, defined",
+      "title": "Is AI Writing Your Code Killing Your Confidence?",
       "score": 4,
       "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1pd7awl/durable_executions_defined/",
-      "created_utc": 1764775866.0,
-      "selftext": ""
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1peubat/is_ai_writing_your_code_killing_your_confidence/",
+      "created_utc": 1764939224.0,
+      "selftext": "AI is a powerful tool, but relying on it for coding can sometimes leave us questioning our own abilities. Muscle memory, problem-solving instincts, and design thinking are skills we must keep sharpeni"
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "swe with 5 years ended up on servicedesk position - what to do",
-      "score": 3,
-      "num_comments": 6,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pf0ahg/swe_with_5_years_ended_up_on_servicedesk_position/",
-      "created_utc": 1764953829.0,
-      "selftext": "Hello so I have been working in a consultancy company for 5 years, scaled to senior engineer thanks to working on two fast paced projects, 4 months ago my project ended the contract so I had to look f"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "AskEngineers",
-      "title": "Steam vs evaporative  humidifier energy usage",
-      "score": 3,
-      "num_comments": 5,
-      "url": "https://reddit.com/r/AskEngineers/comments/1pey8dn/steam_vs_evaporative_humidifier_energy_usage/",
-      "created_utc": 1764949135.0,
-      "selftext": ""
+      "subreddit": "softwarearchitecture",
+      "title": "When designing data models for a large scale system with a lot of relationships, is it supposed to be an iterative process?",
+      "score": 4,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1peb0gl/when_designing_data_models_for_a_large_scale/",
+      "created_utc": 1764880485.0,
+      "selftext": "Hey guys, basically title.  \nWondering how are large scale systems designed when there are a lot of relationships? It has been extremely hard to design everything upfront, but at the same time wonderi"
     },
     {
       "source": "reddit",
@@ -635,46 +534,6 @@
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pdop1a/inheriting_a_soap_api_project_how_to_improve/",
       "created_utc": 1764816880.0,
       "selftext": ""
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Incoming DevOps Intern | Question about transitioning to SWE",
-      "score": 2,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pez0j3/incoming_devops_intern_question_about/",
-      "created_utc": 1764950944.0,
-      "selftext": "Hello everyone. I'm a junior in college and have gotten an offer for a DevOps Intern position at a F100 company. I primarily wanted to become a SWE but this is the only offer I've gotten so far and it"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Should I stay at my current company or accept the new offer ?",
-      "score": 2,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pexmne/should_i_stay_at_my_current_company_or_accept_the/",
-      "created_utc": 1764947694.0,
-      "selftext": "I need some advice regarding a decision in my career. Lets begin with a small intro about me, I am a software developer based in Egypt with 3YOE as a dev (and a Civil Engineering background - total 5 "
-    },
-    {
-      "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "Is AI Writing Your Code Killing Your Confidence?",
-      "score": 2,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1peubat/is_ai_writing_your_code_killing_your_confidence/",
-      "created_utc": 1764939224.0,
-      "selftext": "AI is a powerful tool, but relying on it for coding can sometimes leave us questioning our own abilities. Muscle memory, problem-solving instincts, and design thinking are skills we must keep sharpeni"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "When designing data models for a large scale system with a lot of relationships, is it supposed to be an iterative process?",
-      "score": 2,
-      "num_comments": 2,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1peb0gl/when_designing_data_models_for_a_large_scale/",
-      "created_utc": 1764880485.0,
-      "selftext": "Hey guys, basically title.  \nWondering how are large scale systems designed when there are a lot of relationships? It has been extremely hard to design everything upfront, but at the same time wonderi"
     },
     {
       "source": "reddit",
