@@ -1,6 +1,6 @@
 {
   "date": "2025-12-06",
-  "generated_at": "2025-12-06T01:07:39.345078+07:00",
+  "generated_at": "2025-12-06T08:00:18.471550+07:00",
   "leaddev": [
     {
       "source": "leaddev",
@@ -91,8 +91,8 @@
       "url": "https://dev.to/nickytonline/how-i-automated-my-github-profile-and-you-can-too-399e",
       "description": "Keeping a GitHub profile updated is tedious. New blog post? Update the profile. New newsletter issue?...",
       "reading_time": 5,
-      "reactions": 95,
-      "comments": 29,
+      "reactions": 101,
+      "comments": 32,
       "author": "Nick Taylor",
       "published_at": "2025-11-30T04:48:34Z"
     },
@@ -115,8 +115,8 @@
       "url": "https://dev.to/tlorent/thats-just-how-it-is-kills-innovation-building-teams-that-question-everything-28o2",
       "description": "Three months into a new project, our builds were taking 12 minutes. Everyone complained. Nobody...",
       "reading_time": 5,
-      "reactions": 11,
-      "comments": 0,
+      "reactions": 12,
+      "comments": 1,
       "author": "Tim Lorent",
       "published_at": "2025-12-01T12:08:46Z"
     },
@@ -448,209 +448,39 @@
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "Anthropic effectively admitted that they couldn't scale their infrastructure fast enough with organic hiring, so they bought a shortcut",
-      "score": 658,
-      "num_comments": 260,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pdid2j/anthropic_effectively_admitted_that_they_couldnt/",
-      "created_utc": 1764800305.0,
-      "selftext": "Did anyone else catch the details on the Anthropic/Bun acquisition yesterday? They just hit $1B in run-rate with Claude Code, but they still had to go out and buy an entire runtime team (Bun) rather t"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Unpopular Opinion: The \"Full Stack\" role is a scam to pay you less",
-      "score": 385,
-      "num_comments": 136,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1peoczv/unpopular_opinion_the_full_stack_role_is_a_scam/",
-      "created_utc": 1764917525.0,
-      "selftext": "I run a staffing agency and see the backend of payroll for tons of companies.\n\nThe \"Full Stack Developer\" title has morphed into a financial trick.\n\nIn 2020, you needed to know React and Node.\nIn 2025"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "How long can someone stay at a job doing very little work?",
-      "score": 306,
-      "num_comments": 142,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pe3tlt/how_long_can_someone_stay_at_a_job_doing_very/",
-      "created_utc": 1764864311.0,
-      "selftext": "My company is dysfunctional and I spend most of my days in meetings and doing very little actual work. When I'm asked to complete a task I do it well but I probably only work about 20 hours per week. "
-    },
-    {
-      "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "Glad I took the advice to change my job title.",
-      "score": 302,
-      "num_comments": 44,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pea0ot/glad_i_took_the_advice_to_change_my_job_title/",
-      "created_utc": 1764878178.0,
-      "selftext": "Hey folks,\n\nI recently posted about my job title being \"Automation Developer\" but my role having quite a bit more scope. I figured it was affecting my chances of getting through ATS or even just recru"
-    },
-    {
-      "source": "reddit",
       "subreddit": "AskEngineers",
       "title": "Why aren’t diesel pumps a triangle or something?",
-      "score": 185,
-      "num_comments": 170,
+      "score": 206,
+      "num_comments": 174,
       "url": "https://reddit.com/r/AskEngineers/comments/1pdkgul/why_arent_diesel_pumps_a_triangle_or_something/",
       "created_utc": 1764805485.0,
       "selftext": "Why not make the diesel pump and entirely different shape? Then neither would fit in the other. As is you can still accidentally put gas in a diesel."
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "How's the job market for people with 2-3 YOE at big tech",
-      "score": 175,
-      "num_comments": 62,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pe1ne1/hows_the_job_market_for_people_with_23_yoe_at_big/",
-      "created_utc": 1764859149.0,
-      "selftext": "Joined a faangmula as a new grad in greater seattle area 2 years ago. I had almost 2 years of internship experience that also includes entering that said big tech.\n\nPlanning to start leetcoding and ap"
-    },
-    {
-      "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "How do you enforce consistent API design across a growing engineering team?",
-      "score": 78,
-      "num_comments": 27,
+      "score": 77,
+      "num_comments": 28,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pduvrc/how_do_you_enforce_consistent_api_design_across_a/",
       "created_utc": 1764837203.0,
       "selftext": "I’m leading a small team (5 devs) and we’re running into a problem that’s becoming more obvious as we ship more services:\nour API designs are drifting in different directions.\n\nEveryone follows the ge"
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "My job-hunting strategy that landed me the offer I wanted",
-      "score": 77,
-      "num_comments": 12,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pegr29/my_jobhunting_strategy_that_landed_me_the_offer_i/",
-      "created_utc": 1764894610.0,
-      "selftext": "I was coming from a tech leadership role for a handful of years before sort of burning out and deciding to jump at a startup. Same industry that I know, cool new hook and angle, a \"Head of Product\" ti"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "Experiences calling out excessive vibe coding to prevent wasting time reviewing bad PRs?",
-      "score": 67,
-      "num_comments": 94,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pem6eg/experiences_calling_out_excessive_vibe_coding_to/",
-      "created_utc": 1764910170.0,
-      "selftext": "Hi,\n\nThree peers, two of whom I work very closely with, and another who's doing some 'one-off work', make very heavy use of AI coding, even for ambiguous or design-heavy or performance-sensitive compo"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "Is it an IC engineer’s job to keep people accountable of deadlines? What does that look like?",
-      "score": 64,
-      "num_comments": 56,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1peo1py/is_it_an_ic_engineers_job_to_keep_people/",
-      "created_utc": 1764916372.0,
-      "selftext": "My manager is asking me to keep people more accountable. I have 10 people on my team that I work with often and we are all under my manager. As a lead engineer I help with roadmap planning and definin"
-    },
-    {
-      "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Senior+ engineers who interview - what are we actually evaluating in system design rounds?",
-      "score": 62,
-      "num_comments": 28,
+      "score": 64,
+      "num_comments": 31,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peiwbt/senior_engineers_who_interview_what_are_we/",
       "created_utc": 1764900503.0,
       "selftext": "Originally posted in r/ExperiencedDevs but was taken down because it \"violated Rule 3: No General Career Advice\" (which I disagree that this is general). So if this isn't the place, please let me know"
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Unpopular opinion: it’s better to specialize early and diversify your skills later",
-      "score": 55,
-      "num_comments": 52,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1peeuhn/unpopular_opinion_its_better_to_specialize_early/",
-      "created_utc": 1764889683.0,
-      "selftext": "Conventional wisdom says you should learn a wide array of topics and get reasonably competent at them, and over time find your niche and gain mastery.\n\nI think having the mastery up front gives you mo"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Shame on Walmart",
-      "score": 51,
-      "num_comments": 29,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pepe5d/shame_on_walmart/",
-      "created_utc": 1764921519.0,
-      "selftext": "Walmart is a piece of shit company. They are only interviewing non-work visa candidates as proof to the American government that they tried to hired Americans. They are snatching up recently layoffs f"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "Request for Comments: what to do when leaving a team on good terms",
-      "score": 38,
-      "num_comments": 33,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pe81l2/request_for_comments_what_to_do_when_leaving_a/",
-      "created_utc": 1764873640.0,
-      "selftext": "After a long-ish stint as a Sr. Engineer, I’ve decided to move to a different company, and I’m departing on good terms with everyone (at least, it seems that way from my vantage).\n\n\nWhile I don’t care"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Is it the norm for people to be unemployed for a year or more after college due to not being able to get a job?",
-      "score": 37,
-      "num_comments": 34,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pezjh7/is_it_the_norm_for_people_to_be_unemployed_for_a/",
-      "created_utc": 1764952129.0,
-      "selftext": "I graduated in May 2025 and still no job. And I sent out hundreds of applications. I will probably hit the one year mark and not have a job. I also graduated from a good school for CS (UCLA) and have "
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Am I violently underpaid or am I unrealistic",
-      "score": 27,
-      "num_comments": 77,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pekwov/am_i_violently_underpaid_or_am_i_unrealistic/",
-      "created_utc": 1764906264.0,
-      "selftext": "Hey yall, as end of year reviews come out and as my company hits raise and bonus time of year, I am curious if I am really underpaid, or if I am paid fairly and have unrealistic expectations.\n\n  \nI wo"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "What are things you wish your team leader did, but won't do?",
-      "score": 25,
-      "num_comments": 21,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1peubui/what_are_things_you_wish_your_team_leader_did_but/",
-      "created_utc": 1764939268.0,
-      "selftext": "What are things you wish your team leader did, but won't do? I am trying to do everything possible to be a good team leader, so I was wondering if there are things I could do that I currently don't do"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Staffing agency owner here: Please stop dividing your salary by 2080 for contract work",
-      "score": 20,
-      "num_comments": 7,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1penygu/staffing_agency_owner_here_please_stop_dividing/",
-      "created_utc": 1764916045.0,
-      "selftext": "Seeing way too many seniors screw this up lately.\n\nIf you move from W2 to C2C/Contract, do not just divide your salary by 2080 to get your hourly rate. You are ripping yourself off.\nYou have to accoun"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "How are experienced devs doing in the current job market?",
-      "score": 19,
-      "num_comments": 34,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1peqpqr/how_are_experienced_devs_doing_in_the_current_job/",
-      "created_utc": 1764926710.0,
-      "selftext": "I survived layoffs but now I’m on a new team where the culture has gotten significantly worse; and I’m worried I’ve accidentally pigeonholed myself into being a React/Java frontend dev with 8YOE but w"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "Developer Metrics",
-      "score": 18,
-      "num_comments": 36,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1peli3n/developer_metrics/",
-      "created_utc": 1764908036.0,
-      "selftext": "Lines of code is an obviously terrible way to evaluate how important a developer is. Developers are never *just* programmers anyway, I personally wear a lot of hats at my job.\n\nAll that considered, wh"
-    },
-    {
-      "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Scaling authorization for multitenant SaaS. Avoiding role explosion. What my team and I have learned.",
-      "score": 14,
+      "score": 24,
       "num_comments": 1,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peunki/scaling_authorization_for_multitenant_saas/",
       "created_utc": 1764940190.0,
@@ -658,50 +488,10 @@
     },
     {
       "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "What are some practices that make teams more productive?",
-      "score": 13,
-      "num_comments": 25,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1peebc3/what_are_some_practices_that_make_teams_more/",
-      "created_utc": 1764888319.0,
-      "selftext": "I feel that my team is very productive, but I am wondering if there are things that other teams do that could make us more productive. Feel free to share."
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Can’t print “hello world”",
-      "score": 12,
-      "num_comments": 10,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pexh4u/cant_print_hello_world/",
-      "created_utc": 1764947329.0,
-      "selftext": "IT rolled out a new security feature and it blocks both Python from running and the files from running. Some people can’t even access PDFs on their computer.\n\nI knew this company was not the greatest "
-    },
-    {
-      "source": "reddit",
-      "subreddit": "ExperiencedDevs",
-      "title": "How do you evaluate tech stack fit",
-      "score": 11,
-      "num_comments": 30,
-      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pe493o/how_do_you_evaluate_tech_stack_fit/",
-      "created_utc": 1764865285.0,
-      "selftext": "It feels like these days most tech stacks are becoming much more varied than they once were and that is making it harder to evaluate whether devs will be a good fit. \n\nBack in the day you use to have "
-    },
-    {
-      "source": "reddit",
-      "subreddit": "AskEngineers",
-      "title": "As a rechargeable battery capacity diminishes, does the power required to charge it also diminish?",
-      "score": 11,
-      "num_comments": 10,
-      "url": "https://reddit.com/r/AskEngineers/comments/1pegp01/as_a_rechargeable_battery_capacity_diminishes/",
-      "created_utc": 1764894452.0,
-      "selftext": "I bought an old PHEV electric car and I'm trying to calculate the cost per km.\n\nThe Li-on battery originally held 10.4kWh, but 13 years later it reports that it uses 9kWh from a full charge, so I assu"
-    },
-    {
-      "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Consumers, projectors, reactors and all that messaging jazz",
-      "score": 9,
-      "num_comments": 0,
+      "score": 11,
+      "num_comments": 1,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1peqr33/consumers_projectors_reactors_and_all_that/",
       "created_utc": 1764926858.0,
       "selftext": ""
@@ -709,18 +499,38 @@
     {
       "source": "reddit",
       "subreddit": "AskEngineers",
-      "title": "If electrical current is drawn, and not supplied, how do constant current DC power supplies seem to 'supply' a given current?",
-      "score": 5,
-      "num_comments": 21,
-      "url": "https://reddit.com/r/AskEngineers/comments/1pdwfug/if_electrical_current_is_drawn_and_not_supplied/",
-      "created_utc": 1764843342.0,
-      "selftext": "I ask this in the context of LED lights and lab power supplies, mostly. \n\nI understand they vary their output voltage to the load in order to maintain a constant current, hence why multiple LEDs need "
+      "title": "As a rechargeable battery capacity diminishes, does the power required to charge it also diminish?",
+      "score": 10,
+      "num_comments": 10,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pegp01/as_a_rechargeable_battery_capacity_diminishes/",
+      "created_utc": 1764894452.0,
+      "selftext": "I bought an old PHEV electric car and I'm trying to calculate the cost per km.\n\nThe Li-on battery originally held 10.4kWh, but 13 years later it reports that it uses 9kWh from a full charge, so I assu"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Steam vs evaporative  humidifier energy usage",
+      "score": 9,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pey8dn/steam_vs_evaporative_humidifier_energy_usage/",
+      "created_utc": 1764949135.0,
+      "selftext": ""
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "I want to make a biogas refinery to turn waste swurie into fertilizer. How do I prevent pathogens from buttfucking my hypothetical colony into the ground.",
+      "score": 7,
+      "num_comments": 14,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pema0j/i_want_to_make_a_biogas_refinery_to_turn_waste/",
+      "created_utc": 1764910480.0,
+      "selftext": "\n\n Okay, so long story short, I want to make a small tiny house community off in the middle of nowhere Wyoming or Montana or Colorado (still a pipe dream) also forgive my decent into uwu speak, auto m"
     },
     {
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Karrot Improves Conversion Rates by 70% with New Scalable Feature Platform on AWS",
-      "score": 5,
+      "score": 6,
       "num_comments": 0,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pdxvrl/karrot_improves_conversion_rates_by_70_with_new/",
       "created_utc": 1764848501.0,
@@ -730,7 +540,7 @@
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Can MVVM be damaged just by bad naming?",
-      "score": 5,
+      "score": 6,
       "num_comments": 0,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pdwcen/can_mvvm_be_damaged_just_by_bad_naming/",
       "created_utc": 1764842995.0,
@@ -738,99 +548,29 @@
     },
     {
       "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "When Event Sourcing Makes Sense and How to Approach It",
+      "subreddit": "AskEngineers",
+      "title": "Silent motor for a chandelier?",
       "score": 5,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1pd6fdw/when_event_sourcing_makes_sense_and_how_to/",
-      "created_utc": 1764773907.0,
-      "selftext": "The idea of event sourcing is completely different from what we usually build.  \nToday I’ll show you the fundamentals of an event-sourced system using a poker platform as an example, but first, why wo"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Is there like a hiring scam going on in the blockchain space?",
-      "score": 4,
-      "num_comments": 6,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pf1asu/is_there_like_a_hiring_scam_going_on_in_the/",
-      "created_utc": 1764956120.0,
-      "selftext": "Every since I joined my current company (Blockchain space) as a TL and added that on my LinkedIn, I started getting a bunch of job offers and interviews that are sketchy. During these calls they would"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "AskEngineers",
-      "title": "Steam vs evaporative  humidifier energy usage",
-      "score": 4,
-      "num_comments": 5,
-      "url": "https://reddit.com/r/AskEngineers/comments/1pey8dn/steam_vs_evaporative_humidifier_energy_usage/",
-      "created_utc": 1764949135.0,
-      "selftext": ""
-    },
-    {
-      "source": "reddit",
-      "subreddit": "AskEngineers",
-      "title": "I want to make a biogas refinery to turn waste swurie into fertilizer. How do I prevent pathogens from buttfucking my hypothetical colony into the ground.",
-      "score": 4,
-      "num_comments": 11,
-      "url": "https://reddit.com/r/AskEngineers/comments/1pema0j/i_want_to_make_a_biogas_refinery_to_turn_waste/",
-      "created_utc": 1764910480.0,
-      "selftext": "\n\n Okay, so long story short, I want to make a small tiny house community off in the middle of nowhere Wyoming or Montana or Colorado (still a pipe dream) also forgive my decent into uwu speak, auto m"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "When designing data models for a large scale system with a lot of relationships, is it supposed to be an iterative process?",
-      "score": 4,
       "num_comments": 2,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1peb0gl/when_designing_data_models_for_a_large_scale/",
-      "created_utc": 1764880485.0,
-      "selftext": "Hey guys, basically title.  \nWondering how are large scale systems designed when there are a lot of relationships? It has been extremely hard to design everything upfront, but at the same time wonderi"
+      "url": "https://reddit.com/r/AskEngineers/comments/1pf6l5o/silent_motor_for_a_chandelier/",
+      "created_utc": 1764968516.0,
+      "selftext": "I'd like to construct a model of the Apollo capsule docked to the Soyuz capsule, suspend it from the ceiling, and have it slowly rotate around its long axis.  What type of motor would be best for this"
     },
     {
       "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "Durable Executions, defined",
+      "subreddit": "AskEngineers",
+      "title": "What are some good HVAC engineering resources?",
       "score": 4,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1pd7awl/durable_executions_defined/",
-      "created_utc": 1764775866.0,
-      "selftext": ""
-    },
-    {
-      "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "swe with 5 years ended up on servicedesk position - what to do",
-      "score": 3,
-      "num_comments": 6,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pf0ahg/swe_with_5_years_ended_up_on_servicedesk_position/",
-      "created_utc": 1764953829.0,
-      "selftext": "Hello so I have been working in a consultancy company for 5 years, scaled to senior engineer thanks to working on two fast paced projects, 4 months ago my project ended the contract so I had to look f"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "How to classify AWS-related and encryption classes in a traditional layered architecture?",
-      "score": 3,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1pf16q6/how_to_classify_awsrelated_and_encryption_classes/",
-      "created_utc": 1764955858.0,
-      "selftext": "Hey folks,\n\nI am working on a Spring Boot project that uses ArchUnit to enforce a strict 3-layer architecture:\n\nController → Service → Repository\n\nNow I am implementing a new feature to apply field le"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "softwarearchitecture",
-      "title": "Is AI Writing Your Code Killing Your Confidence?",
-      "score": 3,
-      "num_comments": 0,
-      "url": "https://reddit.com/r/softwarearchitecture/comments/1peubat/is_ai_writing_your_code_killing_your_confidence/",
-      "created_utc": 1764939224.0,
-      "selftext": "AI is a powerful tool, but relying on it for coding can sometimes leave us questioning our own abilities. Muscle memory, problem-solving instincts, and design thinking are skills we must keep sharpeni"
+      "num_comments": 4,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pfaj2v/what_are_some_good_hvac_engineering_resources/",
+      "created_utc": 1764978429.0,
+      "selftext": "I interned at a company last summer that designs and manufactures custom commercial HVAC units and as an electrical engineer i was mostly doing control schematics for their units. I’m looking at retur"
     },
     {
       "source": "reddit",
       "subreddit": "softwarearchitecture",
       "title": "Inheriting a SOAP API project - how to improve performance",
-      "score": 3,
+      "score": 4,
       "num_comments": 0,
       "url": "https://reddit.com/r/softwarearchitecture/comments/1pdop1a/inheriting_a_soap_api_project_how_to_improve/",
       "created_utc": 1764816880.0,
@@ -838,13 +578,133 @@
     },
     {
       "source": "reddit",
-      "subreddit": "cscareerquestions",
-      "title": "Incoming DevOps Intern | Question about transitioning to SWE",
+      "subreddit": "AskEngineers",
+      "title": "How to design airflow and thermal separation in a narrow two zone enclosure with a high power LED source",
+      "score": 3,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pf4ylz/how_to_design_airflow_and_thermal_separation_in_a/",
+      "created_utc": 1764964606.0,
+      "selftext": "I am working with a small metal enclosure originally built as a Grobo automated growing cabinet. The internal footprint is approximately 14 inches by 12 inches, with a fixed exhaust port at the top th"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "This is a detailed breakdown of a FinTech project from my consulting career.",
+      "score": 3,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pfasgb/this_is_a_detailed_breakdown_of_a_fintech_project/",
+      "created_utc": 1764979129.0,
+      "selftext": ""
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "How to classify AWS-related and encryption classes in a traditional layered architecture?",
+      "score": 3,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pf16q6/how_to_classify_awsrelated_and_encryption_classes/",
+      "created_utc": 1764955858.0,
+      "selftext": "Hey folks,\n\nI am working on a Spring Boot project that uses ArchUnit to enforce a strict 3-layer architecture:\n\nController → Service → Repository\n\nNow I am implementing a new feature to apply field le"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "When designing data models for a large scale system with a lot of relationships, is it supposed to be an iterative process?",
+      "score": 3,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1peb0gl/when_designing_data_models_for_a_large_scale/",
+      "created_utc": 1764880485.0,
+      "selftext": "Hey guys, basically title.  \nWondering how are large scale systems designed when there are a lot of relationships? It has been extremely hard to design everything upfront, but at the same time wonderi"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "From On-Demand to Live : Netflix Streaming to 100 Million Devices in Under 1 Minute",
       "score": 2,
       "num_comments": 0,
-      "url": "https://reddit.com/r/cscareerquestions/comments/1pez0j3/incoming_devops_intern_question_about/",
-      "created_utc": 1764950944.0,
-      "selftext": "Hello everyone. I'm a junior in college and have gotten an offer for a DevOps Intern position at a F100 company. I primarily wanted to become a SWE but this is the only offer I've gotten so far and it"
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pf5pof/from_ondemand_to_live_netflix_streaming_to_100/",
+      "created_utc": 1764966391.0,
+      "selftext": ""
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": "Is AI Writing Your Code Killing Your Confidence?",
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1peubat/is_ai_writing_your_code_killing_your_confidence/",
+      "created_utc": 1764939224.0,
+      "selftext": "AI is a powerful tool, but relying on it for coding can sometimes leave us questioning our own abilities. Muscle memory, problem-solving instincts, and design thinking are skills we must keep sharpeni"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Looking for tiny hydraulic seals",
+      "score": 1,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pf783x/looking_for_tiny_hydraulic_seals/",
+      "created_utc": 1764970063.0,
+      "selftext": "Rebuilding an out-of-production proportioning valve, and it has these tiny seals on it. I believe they're u-cup piston seals, but it's hard to tell because it's so small (8.5mm OD, 4.5mm ID), but ther"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Best long term coating for acrylic/ polycarbonate domes in harsh marine environment?",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pemsao/best_long_term_coating_for_acrylic_polycarbonate/",
+      "created_utc": 1764912076.0,
+      "selftext": ""
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "How much will my table hold? what casters are appropriate?",
+      "score": 0,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pf5tqr/how_much_will_my_table_hold_what_casters_are/",
+      "created_utc": 1764966660.0,
+      "selftext": "Greetings wise engineers! I'm having a steel base custom fabricated for my kitchen island / table. it will be overbuilt, but will it 'merely' hold food with a large safety margin or can my entire fami"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Bending inside of a metal part",
+      "score": 0,
+      "num_comments": 13,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pf3sph/bending_inside_of_a_metal_part/",
+      "created_utc": 1764961858.0,
+      "selftext": "I am designing a telescopic arm out of sheet metal.\nIt must be small, able to support ~40lbs, and actuate quickly.\nHow feasible is it to bend a feature inside of the larger sheet?\nI have asked a few p"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Tensile machine help regarding an intermittent fault.",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/AskEngineers/comments/1perbek/tensile_machine_help_regarding_an_intermittent/",
+      "created_utc": 1764929024.0,
+      "selftext": "Hello, \n\nI was wondering if anybody here may have a decent amount of knowledge about tensile machines and could possibly help diagnose an intermittent fault ? \n\nThank you ! "
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "NRTL, manufacturer, and AHJ disagreement on 9540A clerical rules",
+      "score": 0,
+      "num_comments": 15,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pekoxd/nrtl_manufacturer_and_ahj_disagreement_on_9540a/",
+      "created_utc": 1764905639.0,
+      "selftext": "For a current project, my AHJ noticed that the NRTL-provided 9540A test report has as lab address that is not on the OSHA list. They have objected to the validity of the test report.\n\nIn case I cannot"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "softwarearchitecture",
+      "title": ".Net Clean Architecture Template",
+      "score": 0,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/softwarearchitecture/comments/1pf5gt2/net_clean_architecture_template/",
+      "created_utc": 1764965797.0,
+      "selftext": "🚀 Excited to share my latest Open Source project: Clean Architecture Template for .NET 9!\n\nAfter countless hours of setting up new projects from scratch, I decided to create the ultimate starter templ"
     }
   ]
 }
