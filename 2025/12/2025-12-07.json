@@ -1,0 +1,1178 @@
+{
+  "date": "2025-12-07",
+  "generated_at": "2025-12-07T07:02:07.073553+07:00",
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "'Getting into DevOps'",
+      "score": 1022,
+      "num_comments": 153,
+      "url": "https://reddit.com/r/devops/comments/yjdscp/getting_into_devops/",
+      "created_utc": 1667321129.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "CSS Ifs: No More JS for Those Ternary Hacks!",
+      "score": 332,
+      "num_comments": 61,
+      "url": "https://reddit.com/r/webdev/comments/1pfm4sq/css_ifs_no_more_js_for_those_ternary_hacks/",
+      "created_utc": 1765016739.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Why I Ignore The Spotlight as a Staff Engineer",
+      "score": 251,
+      "num_comments": 12,
+      "url": "https://reddit.com/r/programming/comments/1pekdhi/why_i_ignore_the_spotlight_as_a_staff_engineer/",
+      "created_utc": 1764904710.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Fizz Buzz in 4 lines of CSS",
+      "score": 196,
+      "num_comments": 24,
+      "url": "https://reddit.com/r/programming/comments/1pf41xp/fizz_buzz_in_4_lines_of_css/",
+      "created_utc": 1764962464.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Made a neural net from scratch using JS &amp; WebGL. Source code in comments.",
+      "score": 188,
+      "num_comments": 11,
+      "url": "https://reddit.com/r/webdev/comments/1pfe3fr/made_a_neural_net_from_scratch_using_js_webgl/",
+      "created_utc": 1764988545.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Why ID Format Matters More Than ID Generation (Lessons from Production)",
+      "score": 176,
+      "num_comments": 58,
+      "url": "https://reddit.com/r/programming/comments/1pf02wp/why_id_format_matters_more_than_id_generation/",
+      "created_utc": 1764953352.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Why aren't the major apps using Tauri over Electron?",
+      "score": 173,
+      "num_comments": 72,
+      "url": "https://reddit.com/r/webdev/comments/1pfexoq/why_arent_the_major_apps_using_tauri_over_electron/",
+      "created_utc": 1764991096.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Upper management wants a “what we shipped this year” report. We're overloaded and didn't track. What would you do now?",
+      "score": 162,
+      "num_comments": 193,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pf3r3e/upper_management_wants_a_what_we_shipped_this/",
+      "created_utc": 1764961753.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Senior engineer unsure how much to intervene with junior on time-sensitive project",
+      "score": 115,
+      "num_comments": 74,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pfk8q1/senior_engineer_unsure_how_much_to_intervene_with/",
+      "created_utc": 1765009356.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "I am so tired of debugging headless Chrome in Docker",
+      "score": 110,
+      "num_comments": 21,
+      "url": "https://reddit.com/r/devops/comments/1pfcdam/i_am_so_tired_of_debugging_headless_chrome_in/",
+      "created_utc": 1764983471.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Top ICLR 2026 Papers Found with fake Citations — Even Reviewers Missed Them",
+      "score": 101,
+      "num_comments": 18,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pg1og8/d_top_iclr_2026_papers_found_with_fake_citations/",
+      "created_utc": 1765059511.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Is this normal?",
+      "score": 80,
+      "num_comments": 32,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pfefww/is_this_normal/",
+      "created_utc": 1764989594.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Amazon Applied Scientist 1 Interview loop",
+      "score": 70,
+      "num_comments": 17,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pfqphi/d_amazon_applied_scientist_1_interview_loop/",
+      "created_utc": 1765031602.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "[Showoff Saturday] I made an open source alternative to Shopify",
+      "score": 54,
+      "num_comments": 27,
+      "url": "https://reddit.com/r/webdev/comments/1pfrfr2/showoff_saturday_i_made_an_open_source/",
+      "created_utc": 1765033604.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "I made a cutest pomodoro timer a while back and people actually started using it",
+      "score": 53,
+      "num_comments": 6,
+      "url": "https://reddit.com/r/webdev/comments/1pfoxr1/i_made_a_cutest_pomodoro_timer_a_while_back_and/",
+      "created_utc": 1765026572.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "How should this sub respond to reddit's api changes, part 2",
+      "score": 50,
+      "num_comments": 31,
+      "url": "https://reddit.com/r/devops/comments/14n6ghq/how_should_this_sub_respond_to_reddits_api/",
+      "created_utc": 1688145703.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Digital Ocean's bandwidth pricing is criminal. Any alternatives for image hosting?",
+      "score": 45,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/devops/comments/1pfyc2d/digital_oceans_bandwidth_pricing_is_criminal_any/",
+      "created_utc": 1765050841.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "What kinds of offers are everyone getting in this market?",
+      "score": 42,
+      "num_comments": 54,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pfzpb9/what_kinds_of_offers_are_everyone_getting_in_this/",
+      "created_utc": 1765054368.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[P] 96.1M Rows of iNaturalist Research-Grade plant images (with species names)",
+      "score": 40,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pfgcnu/p_961m_rows_of_inaturalist_researchgrade_plant/",
+      "created_utc": 1764995523.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "The only simple geometric constraint solver on the internet",
+      "score": 37,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/programming/comments/1pexv0f/the_only_simple_geometric_constraint_solver_on/",
+      "created_utc": 1764948234.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Polynomial roots visualisation inspired by 2swap's video on the quintic",
+      "score": 36,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/programming/comments/1pflitt/polynomial_roots_visualisation_inspired_by_2swaps/",
+      "created_utc": 1765014406.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "score": 35,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pb25zo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "created_utc": 1764559853.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Spring simulation + CSS transform",
+      "score": 31,
+      "num_comments": 9,
+      "url": "https://reddit.com/r/webdev/comments/1pfolx3/spring_simulation_css_transform/",
+      "created_utc": 1765025552.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Hiring a C++ dev when I have no C++ experience",
+      "score": 25,
+      "num_comments": 71,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pf4tzc/hiring_a_c_dev_when_i_have_no_c_experience/",
+      "created_utc": 1764964299.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Full Haskell-like Type Class resolution in Java",
+      "score": 24,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/programming/comments/1pfzzyr/full_haskelllike_type_class_resolution_in_java/",
+      "created_utc": 1765055131.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "How do you manage multiple chats and focus on your work",
+      "score": 21,
+      "num_comments": 27,
+      "url": "https://reddit.com/r/devops/comments/1pfijxk/how_do_you_manage_multiple_chats_and_focus_on/",
+      "created_utc": 1765003043.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "No idea what I'm doing",
+      "score": 16,
+      "num_comments": 24,
+      "url": "https://reddit.com/r/webdev/comments/1pfy8l6/no_idea_what_im_doing/",
+      "created_utc": 1765050594.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "I built a search engine that uses vector embeddings",
+      "score": 15,
+      "num_comments": 9,
+      "url": "https://reddit.com/r/webdev/comments/1pfyoup/i_built_a_search_engine_that_uses_vector/",
+      "created_utc": 1765051721.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[Research] ARC Prize 2025 Results and Analysis",
+      "score": 15,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pfx1x2/research_arc_prize_2025_results_and_analysis/",
+      "created_utc": 1765047665.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
+      "score": 14,
+      "num_comments": 57,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1paxm9u/ask_experienced_devs_weekly_thread_a_weekly/",
+      "created_utc": 1764547255.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Promoted to staff too early. How to deal with impostor syndrome and get my footing?",
+      "score": 14,
+      "num_comments": 45,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pfyjli/promoted_to_staff_too_early_how_to_deal_with/",
+      "created_utc": 1765051358.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Help me to get progress from mid to senior SWE?",
+      "score": 14,
+      "num_comments": 24,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pfr51s/help_me_to_get_progress_from_mid_to_senior_swe/",
+      "created_utc": 1765032811.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Where do freelancers land gigs in 2025?",
+      "score": 11,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/webdev/comments/1pfzghy/where_do_freelancers_land_gigs_in_2025/",
+      "created_utc": 1765053730.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Zerv – Dynamic versioning CLI that generates semantic versions from ANY git commit",
+      "score": 11,
+      "num_comments": 14,
+      "url": "https://reddit.com/r/devops/comments/1pfjp4o/zerv_dynamic_versioning_cli_that_generates/",
+      "created_utc": 1765007261.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
+      "score": 10,
+      "num_comments": 35,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1p523h6/ask_experienced_devs_weekly_thread_a_weekly/",
+      "created_utc": 1763942443.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "score": 6,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/webdev/comments/1pbaypd/monthly_getting_started_web_dev_career_thread/",
+      "created_utc": 1764590448.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[P] From DeepSeek V3 to V3.2",
+      "score": 6,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pfq1ka/p_from_deepseek_v3_to_v32/",
+      "created_utc": 1765029777.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Neurips after party today",
+      "score": 5,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pg0we5/d_neurips_after_party_today/",
+      "created_utc": 1765057478.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Quantum4J — deterministic quantum SDK (OpenQASM + JVM)",
+      "score": 4,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/programming/comments/1pg1z87/quantum4j_deterministic_quantum_sdk_openqasm_jvm/",
+      "created_utc": 1765060306.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "reducing the cold start time for pods",
+      "score": 4,
+      "num_comments": 13,
+      "url": "https://reddit.com/r/devops/comments/1pfukjc/reducing_the_cold_start_time_for_pods/",
+      "created_utc": 1765041610.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Self-learner seeking guidance. I want to know which of these online courses (CS50x and Helsinki Python Mooc) would be more useful if I want to build towards a devops job and what I should learn beyond them.",
+      "score": 4,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/devops/comments/1pft0mm/selflearner_seeking_guidance_i_want_to_know_which/",
+      "created_utc": 1765037753.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "SystemSketcher. A tools where you can design system architecture and prepare for interview.",
+      "score": 3,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/programming/comments/1pfn5cx/systemsketcher_a_tools_where_you_can_design/",
+      "created_utc": 1765020550.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "score": 3,
+      "num_comments": 14,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pbxkt2/d_selfpromotion_thread/",
+      "created_utc": 1764645329.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Chart Extraction using Multiple Lightweight Models",
+      "score": 3,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pg1olx/d_chart_extraction_using_multiple_lightweight/",
+      "created_utc": 1765059522.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Tweaks in PR",
+      "score": 3,
+      "num_comments": 42,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pfki17/tweaks_in_pr/",
+      "created_utc": 1765010378.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "Is it good to use automate AI SEO Content genrator ? Do you use often ?",
+      "score": 2,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/startup/comments/1perpzz/is_it_good_to_use_automate_ai_seo_content/",
+      "created_utc": 1764930566.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "Finally i created something which is better than RAG",
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/startup/comments/1pdzk9o/finally_i_created_something_which_is_better_than/",
+      "created_utc": 1764853693.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "Share serious red flags on your cofounders",
+      "score": 2,
+      "num_comments": 14,
+      "url": "https://reddit.com/r/startup/comments/1pdlxk1/share_serious_red_flags_on_your_cofounders/",
+      "created_utc": 1764809280.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "A tiny PID 1 for containers in pure assembly (x86-64 + ARM64)",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1pg2mu9/a_tiny_pid_1_for_containers_in_pure_assembly/",
+      "created_utc": 1765062066.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "Looking for some help with my project",
+      "score": 1,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/startup/comments/1pg2rr4/looking_for_some_help_with_my_project/",
+      "created_utc": 1765062447.0
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "hackernews",
+      "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
+      "score": 46,
+      "num_comments": 12,
+      "url": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
+      "hn_url": "https://news.ycombinator.com/item?id=46176905",
+      "by": "turrini",
+      "time": 1765058109
+    },
+    {
+      "source": "hackernews",
+      "title": "Zebra-Llama: Towards Efficient Hybrid Models",
+      "score": 61,
+      "num_comments": 29,
+      "url": "https://arxiv.org/abs/2505.17272",
+      "hn_url": "https://news.ycombinator.com/item?id=46176289",
+      "by": "mirrir",
+      "time": 1765052154
+    },
+    {
+      "source": "hackernews",
+      "title": "GrapheneOS is the only Android OS providing full security patches",
+      "score": 407,
+      "num_comments": 171,
+      "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
+      "hn_url": "https://news.ycombinator.com/item?id=46173407",
+      "by": "akyuu",
+      "time": 1765029511
+    },
+    {
+      "source": "hackernews",
+      "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
+      "score": 329,
+      "num_comments": 158,
+      "url": "http://www.tinycorelinux.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=46173547",
+      "by": "LorenDB",
+      "time": 1765030722
+    },
+    {
+      "source": "hackernews",
+      "title": "United States Antarctic Program Field Manual (2024) [pdf]",
+      "score": 16,
+      "num_comments": 1,
+      "url": "https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=46177132",
+      "by": "SheinhardtWigCo",
+      "time": 1765059986
+    },
+    {
+      "source": "hackernews",
+      "title": "OMSCS Open Courseware",
+      "score": 107,
+      "num_comments": 36,
+      "url": "https://sites.gatech.edu/omscsopencourseware/",
+      "hn_url": "https://news.ycombinator.com/item?id=46175826",
+      "by": "kerim-ca",
+      "time": 1765048475
+    },
+    {
+      "source": "hackernews",
+      "title": "Coffee linked to slower biological ageing among those with severe mental illness",
+      "score": 65,
+      "num_comments": 35,
+      "url": "https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit",
+      "hn_url": "https://news.ycombinator.com/item?id=46176766",
+      "by": "bookofjoe",
+      "time": 1765056783
+    },
+    {
+      "source": "hackernews",
+      "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+      "score": 214,
+      "num_comments": 80,
+      "url": "https://github.com/Tongyi-MAI/Z-Image",
+      "hn_url": "https://news.ycombinator.com/item?id=46095817",
+      "by": "doener",
+      "time": 1764502594
+    },
+    {
+      "source": "hackernews",
+      "title": "HTML as an Accessible Format for Papers",
+      "score": 190,
+      "num_comments": 102,
+      "url": "https://info.arxiv.org/about/accessible_HTML.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46173825",
+      "by": "el3ctron",
+      "time": 1765033192
+    },
+    {
+      "source": "hackernews",
+      "title": "Mathematics Without Numbers (1959)",
+      "score": 17,
+      "num_comments": 2,
+      "url": "https://www.jstor.org/stable/20026529?seq=1",
+      "hn_url": "https://news.ycombinator.com/item?id=46116007",
+      "by": "measurablefunc",
+      "time": 1764637692
+    },
+    {
+      "source": "hackernews",
+      "title": "Kilauea erupts, destroying webcam [video]",
+      "score": 5,
+      "num_comments": 0,
+      "url": "https://www.youtube.com/watch?v=TK2N99BDw7A",
+      "hn_url": "https://news.ycombinator.com/item?id=46177645",
+      "by": "zdw",
+      "time": 1765064342
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Tascli, a command line based (human) task and record manager",
+      "score": 20,
+      "num_comments": 4,
+      "url": "https://github.com/Aperocky/tascli",
+      "hn_url": "https://news.ycombinator.com/item?id=46176533",
+      "by": "Aperocky",
+      "time": 1765054598
+    },
+    {
+      "source": "hackernews",
+      "title": "Autism's confusing cousins",
+      "score": 207,
+      "num_comments": 216,
+      "url": "https://www.psychiatrymargins.com/p/autisms-confusing-cousins",
+      "hn_url": "https://news.ycombinator.com/item?id=46172443",
+      "by": "Anon84",
+      "time": 1765019920
+    },
+    {
+      "source": "hackernews",
+      "title": "Wave of (Open Street Map) Vandalism in South Korea",
+      "score": 37,
+      "num_comments": 2,
+      "url": "https://www.openstreetmap.org/user/KennyDap/diary/407844",
+      "hn_url": "https://news.ycombinator.com/item?id=46177198",
+      "by": "shortrounddev2",
+      "time": 1765060496
+    },
+    {
+      "source": "hackernews",
+      "title": "Saving Japan's exceptionally rare 'snow monsters'",
+      "score": 4,
+      "num_comments": 0,
+      "url": "https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters",
+      "hn_url": "https://news.ycombinator.com/item?id=46177418",
+      "by": "1659447091",
+      "time": 1765062413
+    },
+    {
+      "source": "hackernews",
+      "title": "The past was not that cute",
+      "score": 31,
+      "num_comments": 37,
+      "url": "https://juliawise.net/the-past-was-not-that-cute/",
+      "hn_url": "https://news.ycombinator.com/item?id=46176893",
+      "by": "mhb",
+      "time": 1765058015
+    },
+    {
+      "source": "hackernews",
+      "title": "Germany votes to bring in voluntary military service programme for 18-year-olds",
+      "score": 22,
+      "num_comments": 25,
+      "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o",
+      "hn_url": "https://news.ycombinator.com/item?id=46175871",
+      "by": "petermcneeley",
+      "time": 1765048784
+    },
+    {
+      "source": "hackernews",
+      "title": "Abstract Interpretation in the Toy Optimizer",
+      "score": 30,
+      "num_comments": 5,
+      "url": "https://bernsteinbear.com/blog/toy-abstract-interpretation/",
+      "hn_url": "https://news.ycombinator.com/item?id=46142949",
+      "by": "ChadNauseam",
+      "time": 1764814187
+    },
+    {
+      "source": "hackernews",
+      "title": "Touching the Elephant – TPUs",
+      "score": 145,
+      "num_comments": 43,
+      "url": "https://considerthebulldog.com/tte-tpu/",
+      "hn_url": "https://news.ycombinator.com/item?id=46172797",
+      "by": "giuliomagnifico",
+      "time": 1765024168
+    },
+    {
+      "source": "hackernews",
+      "title": "Finding Gene Cernan's Missing Moon Camera",
+      "score": 60,
+      "num_comments": 5,
+      "url": "https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera",
+      "hn_url": "https://news.ycombinator.com/item?id=46128616",
+      "by": "theodorespeaks",
+      "time": 1764719998
+    },
+    {
+      "source": "hackernews",
+      "title": "Term-keys – Lossless keyboard input for Emacs",
+      "score": 12,
+      "num_comments": 3,
+      "url": "https://github.com/CyberShadow/term-keys",
+      "hn_url": "https://news.ycombinator.com/item?id=46096341",
+      "by": "harryday",
+      "time": 1764508058
+    },
+    {
+      "source": "hackernews",
+      "title": "Copy-Item is 27% slower than File Explorer",
+      "score": 44,
+      "num_comments": 28,
+      "url": "https://til.andrew-quinn.me/posts/copy-item-is-27-percent-slower-than-file-explorer-drag-and-drop-on-windows/",
+      "hn_url": "https://news.ycombinator.com/item?id=46176904",
+      "by": "hiAndrewQuinn",
+      "time": 1765058108
+    },
+    {
+      "source": "hackernews",
+      "title": "The unexpected effectiveness of one-shot decompilation with Claude",
+      "score": 165,
+      "num_comments": 87,
+      "url": "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/",
+      "hn_url": "https://news.ycombinator.com/item?id=46080498",
+      "by": "knackers",
+      "time": 1764349668
+    },
+    {
+      "source": "hackernews",
+      "title": "Catala – Law to Code",
+      "score": 13,
+      "num_comments": 3,
+      "url": "https://catala-lang.org",
+      "hn_url": "https://news.ycombinator.com/item?id=46177022",
+      "by": "Grognak",
+      "time": 1765059093
+    },
+    {
+      "source": "hackernews",
+      "title": "Running Claude Code in a loop to mirror human development practices",
+      "score": 16,
+      "num_comments": 0,
+      "url": "https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop",
+      "hn_url": "https://news.ycombinator.com/item?id=46175662",
+      "by": "Kerrick",
+      "time": 1765047237
+    },
+    {
+      "source": "hackernews",
+      "title": "Kids who ran away to 1960s San Francisco",
+      "score": 127,
+      "num_comments": 24,
+      "url": "https://www.fieldnotes.nautilus.quest/p/the-kids-who-ran-away-to-1960s-san",
+      "hn_url": "https://news.ycombinator.com/item?id=46123720",
+      "by": "zackoverflow",
+      "time": 1764696136
+    },
+    {
+      "source": "hackernews",
+      "title": "Linux Instal Fest Belgrade",
+      "score": 145,
+      "num_comments": 20,
+      "url": "https://dmz.rs/lif2025_en",
+      "hn_url": "https://news.ycombinator.com/item?id=46172167",
+      "by": "ubavic",
+      "time": 1765016419
+    },
+    {
+      "source": "hackernews",
+      "title": "Nook Browser",
+      "score": 99,
+      "num_comments": 79,
+      "url": "https://browsewithnook.com",
+      "hn_url": "https://news.ycombinator.com/item?id=46170402",
+      "by": "ray__",
+      "time": 1764991976
+    },
+    {
+      "source": "hackernews",
+      "title": "Mapping Amazing: Bee Maps",
+      "score": 53,
+      "num_comments": 29,
+      "url": "https://maphappenings.com/2025/11/06/bee-maps/",
+      "hn_url": "https://news.ycombinator.com/item?id=46094989",
+      "by": "altilunium",
+      "time": 1764492601
+    }
+  ],
+  "github": [
+    {
+      "source": "github",
+      "repo": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": 452,
+      "total_stars": 0,
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "source": "github",
+      "repo": "rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars_today": 1361,
+      "total_stars": 0,
+      "url": "https://github.com/rustfs/rustfs"
+    },
+    {
+      "source": "github",
+      "repo": "RosettaCommons/foundry",
+      "description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
+      "language": "Python",
+      "stars_today": 16,
+      "total_stars": 0,
+      "url": "https://github.com/RosettaCommons/foundry"
+    },
+    {
+      "source": "github",
+      "repo": "sinelaw/fresh",
+      "description": "Text editor for your terminal: easy, powerful and fast",
+      "language": "Rust",
+      "stars_today": 253,
+      "total_stars": 0,
+      "url": "https://github.com/sinelaw/fresh"
+    },
+    {
+      "source": "github",
+      "repo": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "stars_today": 56,
+      "total_stars": 0,
+      "url": "https://github.com/patchy631/ai-engineering-hub"
+    },
+    {
+      "source": "github",
+      "repo": "psviderski/uncloud",
+      "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+      "language": "Go",
+      "stars_today": 127,
+      "total_stars": 0,
+      "url": "https://github.com/psviderski/uncloud"
+    },
+    {
+      "source": "github",
+      "repo": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Zig",
+      "stars_today": 297,
+      "total_stars": 0,
+      "url": "https://github.com/oven-sh/bun"
+    },
+    {
+      "source": "github",
+      "repo": "facebook/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars_today": 136,
+      "total_stars": 0,
+      "url": "https://github.com/facebook/react"
+    },
+    {
+      "source": "github",
+      "repo": "lynx-family/lynx",
+      "description": "Empower the Web community and invite more to build across platforms.",
+      "language": "C++",
+      "stars_today": 13,
+      "total_stars": 0,
+      "url": "https://github.com/lynx-family/lynx"
+    },
+    {
+      "source": "github",
+      "repo": "DevCaress/guia-entrevistas-de-programacion",
+      "description": "",
+      "language": "",
+      "stars_today": 66,
+      "total_stars": 0,
+      "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion"
+    },
+    {
+      "source": "github",
+      "repo": "sapientinc/HRM",
+      "description": "Hierarchical Reasoning Model Official Release",
+      "language": "Python",
+      "stars_today": 29,
+      "total_stars": 0,
+      "url": "https://github.com/sapientinc/HRM"
+    },
+    {
+      "source": "github",
+      "repo": "projectdiscovery/nuclei-templates",
+      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+      "language": "JavaScript",
+      "stars_today": 26,
+      "total_stars": 0,
+      "url": "https://github.com/projectdiscovery/nuclei-templates"
+    },
+    {
+      "source": "github",
+      "repo": "paritytech/polkadot-sdk",
+      "description": "The Parity Polkadot Blockchain SDK",
+      "language": "Rust",
+      "stars_today": 5,
+      "total_stars": 0,
+      "url": "https://github.com/paritytech/polkadot-sdk"
+    },
+    {
+      "source": "github",
+      "repo": "golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars_today": 28,
+      "total_stars": 0,
+      "url": "https://github.com/golang/go"
+    },
+    {
+      "source": "github",
+      "repo": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars_today": 77,
+      "total_stars": 0,
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "source": "github",
+      "repo": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": 15,
+      "total_stars": 0,
+      "url": "https://github.com/aquasecurity/trivy"
+    }
+  ],
+  "producthunt": [
+    {
+      "source": "producthunt",
+      "title": "SpendLog",
+      "description": "See exactly what you bought, not just what you spent.",
+      "url": "https://www.producthunt.com/products/spendlog",
+      "published": "2025-12-01T01:07:59-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Proofly",
+      "description": "Private AI proofreading that runs 100% on your device",
+      "url": "https://www.producthunt.com/products/proofly-on-device-ai-proofreader",
+      "published": "2025-12-05T01:46:23-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Bean Recipe Adapt",
+      "description": "Tell Bean what to change and it updates recipe in realtime",
+      "url": "https://www.producthunt.com/products/bean-2",
+      "published": "2025-11-18T13:40:33-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Eureka",
+      "description": "Turn any knowledge into an explorable visual map, AI-powered",
+      "url": "https://www.producthunt.com/products/eureka-4",
+      "published": "2025-12-05T11:17:58-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Browser Use Skills",
+      "description": "Turn any website into a reliable API with 1 prompt",
+      "url": "https://www.producthunt.com/products/browser-use",
+      "published": "2025-12-05T05:11:52-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Walk Mate",
+      "description": "Discover new walk paths while staying active.",
+      "url": "https://www.producthunt.com/products/walk-mate-daily-walk-routes",
+      "published": "2025-12-02T13:41:04-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "TruGen AI",
+      "description": "Bringing AI to Life with Human-Like Video Agents.",
+      "url": "https://www.producthunt.com/products/trugen-ai",
+      "published": "2025-09-28T13:30:45-07:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Haven",
+      "description": "Start with Haven. Bank with Confidence",
+      "url": "https://www.producthunt.com/products/haven-8",
+      "published": "2025-11-19T13:59:29-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Cravit",
+      "description": "Discover new places through food missions with friends",
+      "url": "https://www.producthunt.com/products/cravit",
+      "published": "2025-12-05T04:07:19-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Ariel AI by Roamcalm",
+      "description": "Turn your booking emails into travel itineraries",
+      "url": "https://www.producthunt.com/products/roamcalm",
+      "published": "2025-11-30T00:21:57-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Linkie",
+      "description": "Your link-in-bio platform",
+      "url": "https://www.producthunt.com/products/linkie-2",
+      "published": "2025-12-05T16:09:36-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Better Logger",
+      "description": "Modern MacOS Log viewer for iOS developers with MCP support",
+      "url": "https://www.producthunt.com/products/better-logger",
+      "published": "2025-12-04T04:27:06-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "AI Talk Coach",
+      "description": "Your personal communication coach!",
+      "url": "https://www.producthunt.com/products/ai-talk-coach",
+      "published": "2025-12-04T00:04:34-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "DockBuddy Organizer",
+      "description": "Drag & Drop, Organize Photos & Video Assets in Seconds.",
+      "url": "https://www.producthunt.com/products/dockbuddy-organizer",
+      "published": "2025-12-02T14:47:55-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "CogniMemo",
+      "description": "AI that remembers, learns, and evolves",
+      "url": "https://www.producthunt.com/products/cognimemo",
+      "published": "2025-12-04T11:51:53-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Kalycs",
+      "description": "AI File Search & Organization on mac (local-first)",
+      "url": "https://www.producthunt.com/products/kalycs",
+      "published": "2025-12-03T10:56:43-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Index for ChatGPT",
+      "description": "Auto table of contents for long ChatGPT conversations",
+      "url": "https://www.producthunt.com/products/index-for-chatgpt",
+      "published": "2025-12-04T04:07:44-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Johari Window",
+      "description": "Know Yourself Better",
+      "url": "https://www.producthunt.com/products/johari-window",
+      "published": "2025-11-21T06:54:13-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Antigravity",
+      "description": "The world's first 8K 360° drone",
+      "url": "https://www.producthunt.com/products/antigravity",
+      "published": "2025-12-04T17:43:21-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Orca",
+      "description": "AI Agent for Game Development",
+      "url": "https://www.producthunt.com/products/orca-3",
+      "published": "2025-12-04T16:08:45-08:00"
+    }
+  ],
+  "trendshift": [
+    {
+      "source": "trendshift",
+      "repo": "rustfs/rustfs",
+      "language": "Rust",
+      "stars": "",
+      "url": "https://github.com/rustfs/rustfs"
+    },
+    {
+      "source": "trendshift",
+      "repo": "ashishpatel26/500-AI-Agents-Projects",
+      "language": "",
+      "stars": "3",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+    },
+    {
+      "source": "trendshift",
+      "repo": "oven-sh/bun",
+      "language": "Zig",
+      "stars": "",
+      "url": "https://github.com/oven-sh/bun"
+    },
+    {
+      "source": "trendshift",
+      "repo": "basecamp/fizzy",
+      "language": "Ruby",
+      "stars": "",
+      "url": "https://github.com/basecamp/fizzy"
+    },
+    {
+      "source": "trendshift",
+      "repo": "microsoft/ML-For-Beginners",
+      "language": "",
+      "stars": "6",
+      "url": "https://github.com/microsoft/ML-For-Beginners"
+    },
+    {
+      "source": "trendshift",
+      "repo": "moabukar/tech-vault",
+      "language": "",
+      "stars": "7",
+      "url": "https://github.com/moabukar/tech-vault"
+    },
+    {
+      "source": "trendshift",
+      "repo": "DayuanJiang/next-ai-draw-io",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    },
+    {
+      "source": "trendshift",
+      "repo": "microsoft/VibeVoice",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "source": "trendshift",
+      "repo": "sst/opencode",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/sst/opencode"
+    },
+    {
+      "source": "trendshift",
+      "repo": "mtdvio/every-programmer-should-know",
+      "language": "",
+      "stars": "11",
+      "url": "https://github.com/mtdvio/every-programmer-should-know"
+    },
+    {
+      "source": "trendshift",
+      "repo": "topoteretes/cognee",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/topoteretes/cognee"
+    },
+    {
+      "source": "trendshift",
+      "repo": "codecrafters-io/build-your-own-x",
+      "language": "",
+      "stars": "13",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+      "source": "trendshift",
+      "repo": "CorentinTh/it-tools",
+      "language": "Vue",
+      "stars": "",
+      "url": "https://github.com/CorentinTh/it-tools"
+    },
+    {
+      "source": "trendshift",
+      "repo": "trustedsec/social-engineer-toolkit",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/trustedsec/social-engineer-toolkit"
+    },
+    {
+      "source": "trendshift",
+      "repo": "DigitalPhonetics/IMS-Toucan",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/DigitalPhonetics/IMS-Toucan"
+    },
+    {
+      "source": "trendshift",
+      "repo": "github/spec-kit",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "source": "trendshift",
+      "repo": "sinelaw/fresh",
+      "language": "Rust",
+      "stars": "",
+      "url": "https://github.com/sinelaw/fresh"
+    },
+    {
+      "source": "trendshift",
+      "repo": "sindresorhus/awesome",
+      "language": "",
+      "stars": "19",
+      "url": "https://github.com/sindresorhus/awesome"
+    },
+    {
+      "source": "trendshift",
+      "repo": "qxresearch/qxresearch-event-1",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/qxresearch/qxresearch-event-1"
+    },
+    {
+      "source": "trendshift",
+      "repo": "wshobson/agents",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/wshobson/agents"
+    }
+  ]
+}
