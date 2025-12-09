@@ -1,0 +1,710 @@
+{
+  "date": "2025-12-09",
+  "generated_at": "2025-12-09T08:00:41.664553+07:00",
+  "leaddev": [
+    {
+      "source": "leaddev",
+      "title": "The great engineer hiring paradox",
+      "url": "https://leaddev.com/hiring/the-great-engineer-hiring-paradox?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>“The story isn't that jobs are vanishing, it's that the bar for skills is rising.”</p>\n<p>The post <a href=\"https://leaddev.com/hiring/the-great-engineer-hiring-paradox?utm_source=leaddev&#038;utm_medium=RSS\">The great engineer hiring paradox</a> appeared first on <a href=\"https://leaddev.com\">Le",
+      "pub_date": "Mon, 08 Dec 2025 10:20:00 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Why Zig is moving on from GitHub",
+      "url": "https://leaddev.com/ai/why-zig-is-moving-on-from-github?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>A scathing review has broader implications for AI use by major platforms.</p>\n<p>The post <a href=\"https://leaddev.com/ai/why-zig-is-moving-on-from-github?utm_source=leaddev&#038;utm_medium=RSS\">Why Zig is moving on from GitHub</a> appeared first on <a href=\"https://leaddev.com\">LeadDev</a>.</p>\n",
+      "pub_date": "Thu, 04 Dec 2025 15:15:25 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Best practices for letting AI write integration code",
+      "url": "https://leaddev.com/ai/best-practices-for-letting-ai-write-integration-code?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Integrations are no walk in the park.</p>\n<p>The post <a href=\"https://leaddev.com/ai/best-practices-for-letting-ai-write-integration-code?utm_source=leaddev&#038;utm_medium=RSS\">Best practices for letting AI write integration code</a> appeared first on <a href=\"https://leaddev.com\">LeadDev</a>.<",
+      "pub_date": "Thu, 04 Dec 2025 10:48:17 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Roses are red, guardrails blind – a poem can warp an LLM’s mind",
+      "url": "https://leaddev.com/software-quality/roses-are-red-guardrails-blind-a-poem-can-warp-an-llms-mind?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Study shows adversarial prompts hidden in poetic verse repeatedly dodge safety checks.</p>\n<p>The post <a href=\"https://leaddev.com/software-quality/roses-are-red-guardrails-blind-a-poem-can-warp-an-llms-mind?utm_source=leaddev&#038;utm_medium=RSS\">Roses are red, guardrails blind – a poem can war",
+      "pub_date": "Wed, 03 Dec 2025 08:08:00 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Amazon employees demand a voice in AI decisions amid layoff fears",
+      "url": "https://leaddev.com/ai/amazon-employees-demand-a-voice-in-ai-decisions-amid-layoff-fears?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>1,000 Amazon employees’ signed a letter voicing their AI concerns, reflecting a growing tension across the tech industry.</p>\n<p>The post <a href=\"https://leaddev.com/ai/amazon-employees-demand-a-voice-in-ai-decisions-amid-layoff-fears?utm_source=leaddev&#038;utm_medium=RSS\">Amazon employees dema",
+      "pub_date": "Tue, 02 Dec 2025 11:59:41 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "The questions you need to ask before quitting your job",
+      "url": "https://leaddev.com/career-development/the-questions-you-need-to-ask-before-quitting-your-job?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Once you know that you’re ready to move on, how do you actually take the first step? </p>\n<p>The post <a href=\"https://leaddev.com/career-development/the-questions-you-need-to-ask-before-quitting-your-job?utm_source=leaddev&#038;utm_medium=RSS\">The questions you need to ask before quitting your j",
+      "pub_date": "Tue, 02 Dec 2025 09:14:43 +0000",
+      "category": "Career development"
+    },
+    {
+      "source": "leaddev",
+      "title": "Cover letters used to mean something",
+      "url": "https://leaddev.com/hiring/cover-letters-used-to-mean-something?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Research shows that AI-generated cover letters may be punishing good candidates.</p>\n<p>The post <a href=\"https://leaddev.com/hiring/cover-letters-used-to-mean-something?utm_source=leaddev&#038;utm_medium=RSS\">Cover letters used to mean something</a> appeared first on <a href=\"https://leaddev.com",
+      "pub_date": "Mon, 01 Dec 2025 13:55:27 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Open source is a talent strategy",
+      "url": "https://leaddev.com/hiring/open-source-is-a-talent-strategy?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Says Manik Surtani, head of open source at Block.</p>\n<p>The post <a href=\"https://leaddev.com/hiring/open-source-is-a-talent-strategy?utm_source=leaddev&#038;utm_medium=RSS\">Open source is a talent strategy</a> appeared first on <a href=\"https://leaddev.com\">LeadDev</a>.</p>\n",
+      "pub_date": "Fri, 28 Nov 2025 09:17:00 +0000",
+      "category": "Hiring"
+    },
+    {
+      "source": "leaddev",
+      "title": "Everything that got built at LeadDev’s first AI hackathon",
+      "url": "https://leaddev.com/ai/everything-that-got-built-at-leaddevs-first-ai-hackathon?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>And the three big winners on the night.</p>\n<p>The post <a href=\"https://leaddev.com/ai/everything-that-got-built-at-leaddevs-first-ai-hackathon?utm_source=leaddev&#038;utm_medium=RSS\">Everything that got built at LeadDev&#8217;s first AI hackathon</a> appeared first on <a href=\"https://leaddev.c",
+      "pub_date": "Thu, 27 Nov 2025 13:44:42 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "4 steps to rebuild team confidence after a reorg",
+      "url": "https://leaddev.com/management/4-steps-to-rebuild-team-confidence-after-a-reorg?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Finding purpose in the chaos</p>\n<p>The post <a href=\"https://leaddev.com/management/4-steps-to-rebuild-team-confidence-after-a-reorg?utm_source=leaddev&#038;utm_medium=RSS\">4 steps to rebuild team confidence after a reorg</a> appeared first on <a href=\"https://leaddev.com\">LeadDev</a>.</p>\n",
+      "pub_date": "Thu, 27 Nov 2025 13:38:07 +0000",
+      "category": "Communication"
+    }
+  ],
+  "devto": [
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "From Fresher to Cloud Architect: How to Start Your AWS Cloud Journey",
+      "url": "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i",
+      "description": "👋 Hey there, tech enthusiasts!   I'm Sarvar, a Cloud Architect with a passion for transforming...",
+      "reading_time": 19,
+      "reactions": 23,
+      "comments": 6,
+      "author": "Sarvar Nadaf",
+      "published_at": "2025-12-05T06:34:12Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "From 1.2GB to 54MB: My Docker Image Went on a Diet",
+      "url": "https://dev.to/tusharsharma099/from-12gb-to-54mb-my-docker-image-went-on-a-diet-17nd",
+      "description": "When I first containerized a Node.js app, I felt pretty good about myself. I had a Dockerfile, I...",
+      "reading_time": 3,
+      "reactions": 11,
+      "comments": 3,
+      "author": "tusharsharma099",
+      "published_at": "2025-12-02T10:36:20Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Why Every Developer Needs a Business Mindset in the AI Era",
+      "url": "https://dev.to/cathylai/why-every-developer-needs-a-business-mindset-in-the-ai-era-47ei",
+      "description": "The quiet shift happening in tech, and why side projects, digital products, and content creation are...",
+      "reading_time": 2,
+      "reactions": 8,
+      "comments": 0,
+      "author": "Cathy Lai",
+      "published_at": "2025-12-03T02:51:19Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Behind the Screens: The Quiet Work That Shapes the Code",
+      "url": "https://dev.to/mzghosty/behind-the-screens-the-quiet-work-that-shapes-the-code-jpm",
+      "description": "Most of the real work in development happens before the first line of code.  It is in the structure,...",
+      "reading_time": 2,
+      "reactions": 7,
+      "comments": 4,
+      "author": "MeL",
+      "published_at": "2025-12-05T18:28:24Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "How to get Python/Cloud/Java/DevOps/Admin job in this crazy market?",
+      "url": "https://dev.to/aws-builders/how-to-get-pythoncloudjavadevopsadmin-job-in-this-crazy-market-1ldj",
+      "description": "In advance I want to say: I won't sell you a bootcamp, I won't send you to a Udemy course and I don't...",
+      "reading_time": 7,
+      "reactions": 6,
+      "comments": 3,
+      "author": "Piotr Pabis",
+      "published_at": "2025-12-03T16:38:37Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Quando a empresa prefere contratar alguém de fora em vez de promover quem já está dentro",
+      "url": "https://dev.to/andersoncontreira/quando-a-empresa-prefere-contratar-alguem-de-fora-em-vez-de-promover-quem-ja-esta-dentro-4c7m",
+      "description": "Falar sobre carreira é, inevitavelmente, falar sobre motivação. E poucas coisas desmotivam tanto um...",
+      "reading_time": 2,
+      "reactions": 5,
+      "comments": 3,
+      "author": "Anderson Contreira",
+      "published_at": "2025-12-01T18:11:11Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "I Fell in Love With Programming Long Before I Learned It",
+      "url": "https://dev.to/plc-creates/i-fell-in-love-with-programming-long-before-i-learned-it-5aj5",
+      "description": "A personal story about how a childhood robot and my first real line of code sparked the same quiet joy, and why that feeling still guides me today.",
+      "reading_time": 3,
+      "reactions": 4,
+      "comments": 2,
+      "author": "PLC Creates",
+      "published_at": "2025-12-06T14:24:00Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Zero Multiplied by AI is Still Zero: The Addition is a Myth",
+      "url": "https://dev.to/ryo_suwito/zero-multiplied-by-ai-is-still-zero-the-addition-is-a-myth-37mg",
+      "description": "Ever notice how you stopped asking \"why\"?  Not because you got the answers. Because asking became...",
+      "reading_time": 6,
+      "reactions": 4,
+      "comments": 7,
+      "author": "Ryo Suwito",
+      "published_at": "2025-12-04T08:32:02Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "🛡️ Entendiendo las Service Control Policies (SCPs) en AWS Organizations",
+      "url": "https://dev.to/terry_cloud/-entendiendo-las-service-control-policies-scps-en-aws-organizations-40li",
+      "description": "1. Introducción            ¿Qué problema resuelven las SCPs?   Las SCPs, a diferencia de los...",
+      "reading_time": 11,
+      "reactions": 2,
+      "comments": 0,
+      "author": "Terry Quispe Paniagua",
+      "published_at": "2025-12-02T03:47:50Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Why Most Junior Developers Will Struggle in the AI Era",
+      "url": "https://dev.to/roshaan_tahir/why-most-junior-developers-will-struggle-in-the-ai-era-47fp",
+      "description": "You open your editor, type a question into ChatGPT, and like magic, the answer pops up on your...",
+      "reading_time": 6,
+      "reactions": 2,
+      "comments": 0,
+      "author": "Roshaan Tahir",
+      "published_at": "2025-12-03T06:35:09Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "I Used to Be a Toxic Code Reviewer. Here's How AI Fixed My Feedback Loop.",
+      "url": "https://dev.to/huizhudev/i-used-to-be-a-toxic-code-reviewer-heres-how-ai-fixed-my-feedback-loop-33c4",
+      "description": "I have a confession to make: early in my career, I was a terrible code reviewer.  I thought my job...",
+      "reading_time": 5,
+      "reactions": 2,
+      "comments": 0,
+      "author": "Hui",
+      "published_at": "2025-12-03T15:38:51Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Why Candid Conversations Drive Real Innovation in Tech",
+      "url": "https://dev.to/yaseen_tech/why-candid-conversations-drive-real-innovation-in-tech-15lk",
+      "description": "In tech, we talk a lot about frameworks, architectures, and new tools. But lately, the most powerful...",
+      "reading_time": 2,
+      "reactions": 1,
+      "comments": 0,
+      "author": "Yaseen",
+      "published_at": "2025-12-04T07:46:09Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Just Finished A Group Project...My Thoughts",
+      "url": "https://dev.to/sandra_manyarkiy_f655833a/just-finished-a-group-projectmy-thoughts-be2",
+      "description": "What do you do when you're tasked with leading a team, but you don't know much about what you're...",
+      "reading_time": 2,
+      "reactions": 1,
+      "comments": 0,
+      "author": "Sandra Manyarkiy",
+      "published_at": "2025-12-01T23:47:56Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Simplicity Is a Feature: Build Faster, Scale Smarter",
+      "url": "https://dev.to/farhannasirdev/simplicity-is-a-feature-build-faster-scale-smarter-28e8",
+      "description": "The best products I’ve shipped across WordPress, Shopify, Webflow and React had one consistent...",
+      "reading_time": 1,
+      "reactions": 1,
+      "comments": 0,
+      "author": "Farhan Nasir",
+      "published_at": "2025-12-02T22:27:16Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Who should decide UI?",
+      "url": "https://dev.to/cartmann68/who-should-decide-ui-162j",
+      "description": "What do you do as a product manager when your design team push for a clean, modern interface, while...",
+      "reading_time": 2,
+      "reactions": 1,
+      "comments": 1,
+      "author": "cartmann68",
+      "published_at": "2025-12-03T09:43:35Z"
+    },
+    {
+      "source": "devto",
+      "tag": "engineering",
+      "title": "Security Advisory: Critical RCE Vulnerabilities in React Server Components & Next.js (CVE-2025-55182 / CVE-2025-66478)",
+      "url": "https://dev.to/snyk/security-advisory-critical-rce-vulnerabilities-in-react-server-components-nextjs-3lef",
+      "description": "Critical RCE vulnerabilities (CVE-2025-55182/CVE-2025-66478) were found in React Server Components and Next.js via unsafe deserialization. Immediate upgrade to patched versions is mandatory to prevent unauthenticated remote code execution. Learn how to detect and mitigate the critical flaw.",
+      "reading_time": 5,
+      "reactions": 1,
+      "comments": 1,
+      "author": "SnykSec",
+      "published_at": "2025-12-04T02:00:31Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Beyond Code: Building a Developer Career That Outlives Any Framework",
+      "url": "https://dev.to/sonia_bobrik_1939cdddd79d/beyond-code-building-a-developer-career-that-outlives-any-framework-17ci",
+      "description": "If you scroll through this collection of projects and articles, you quickly notice a pattern: the...",
+      "reading_time": 6,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Sonia Bobrik",
+      "published_at": "2025-12-04T16:40:48Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Building a Tech Radar: A Practical Guide for Technology Leaders",
+      "url": "https://dev.to/audaciatechnology/building-a-tech-radar-a-practical-guide-for-technology-leaders-3o6p",
+      "description": "This blog post has been adapted from this Tech Talk by Richard Brown, Technical Director at...",
+      "reading_time": 4,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Audacia",
+      "published_at": "2025-12-01T11:21:39Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Leadership, Mindset, and the Path to Self-Mastery",
+      "url": "https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-358n",
+      "description": "Coaching Tips, Overcoming Adversity, and the Art of Growth Leadership today demands far more than...",
+      "reading_time": 8,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Joshua Moll",
+      "published_at": "2025-12-03T16:38:26Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "𝗤𝘂𝗶𝗲𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗪𝗶𝗻𝘀",
+      "url": "https://dev.to/supraja_tangella_b7f0738e/-4m1f",
+      "description": "Not all leaders raise their voices — some rise by raising their standards.  I recently learned about...",
+      "reading_time": 1,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Supraja Tangella",
+      "published_at": "2025-12-03T13:05:52Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "What Leaders Must Do When Chaos Spreads in Software Organizations",
+      "url": "https://dev.to/developerpartners/what-leaders-must-do-when-chaos-spreads-in-software-organizations-38df",
+      "description": "Most companies don’t fall apart because of a single catastrophic mistake. They drift into trouble...",
+      "reading_time": 10,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Developer Partners",
+      "published_at": "2025-12-05T17:12:17Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "The Uncomfortable Truth: Most Companies Don’t Have a Technology Strategy",
+      "url": "https://dev.to/ogasimov/the-uncomfortable-truth-most-companies-dont-have-a-technology-strategy-3f0k",
+      "description": "If you ask a leadership team whether they have a technology strategy, almost everyone will say yes....",
+      "reading_time": 5,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Orkhan Gasimov",
+      "published_at": "2025-12-01T12:13:17Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Task Engineering",
+      "url": "https://dev.to/stakiran/task-engineering-2l78",
+      "description": "Summary    This is not about managing project tasks but rather personal task management Task...",
+      "reading_time": 9,
+      "reactions": 0,
+      "comments": 0,
+      "author": "sta",
+      "published_at": "2025-12-03T19:49:00Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "An example of kindness in tech: the case of “shitty code”",
+      "url": "https://dev.to/alvessteve/an-example-of-kindness-in-tech-the-case-of-shitty-code-5f0f",
+      "description": "Disclaimer: this article shows my opinion and is not intended to be an absolute truth.  So all...",
+      "reading_time": 4,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Steve Alves-Blyt",
+      "published_at": "2025-12-03T20:39:05Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Orchestrating Human–AI Collaboration in Microsoft Planner",
+      "url": "https://dev.to/alexrodovit/orchestrating-human-ai-collaboration-in-microsoft-planner-33ed",
+      "description": "How the new Project Manager Agent is reshaping the future of work management  AI is no longer just...",
+      "reading_time": 3,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Alex Rodov",
+      "published_at": "2025-12-04T19:09:21Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "The Essential Skills of an AI Code Supervisor",
+      "url": "https://dev.to/mteheran/the-essential-skills-of-an-ai-code-supervisor-3h6k",
+      "description": "The essential skills for transitioning from a developer to a strategic supervisor of AI-generated code, ensuring quality and control.",
+      "reading_time": 4,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Miguel Teheran",
+      "published_at": "2025-12-04T05:20:49Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Agile Project Management: What It Is and the Main Principles Behind It",
+      "url": "https://dev.to/guswoltmann84/agile-project-management-what-it-is-and-the-main-principles-behind-it-4l6d",
+      "description": "Agile project management is a flexible and collaborative approach to delivering projects, especially...",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 1,
+      "author": "Gus Woltmann",
+      "published_at": "2025-12-07T09:28:49Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Influence sucks",
+      "url": "https://dev.to/stakiran/influence-sucks-151i",
+      "description": "Summary    Influence is not the responsibility of engineers   It's the job of engineering...",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 0,
+      "author": "sta",
+      "published_at": "2025-12-08T20:20:02Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Categorizing Soft Skills into 5Cs",
+      "url": "https://dev.to/stakiran/categorizing-soft-skills-into-5cs-387n",
+      "description": "Summary    I've created a categorization of soft skills that's interesting and useful for...",
+      "reading_time": 7,
+      "reactions": 0,
+      "comments": 0,
+      "author": "sta",
+      "published_at": "2025-12-08T20:57:41Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Scrum Project Management: What It Is and the Main Principles Behind It",
+      "url": "https://dev.to/gustavowoltmann18/scrum-project-management-what-it-is-and-the-main-principles-behind-it-32ic",
+      "description": "Scrum is one of the most widely used frameworks within Agile project management. It provides a...",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Gustavo Woltmann",
+      "published_at": "2025-12-07T09:32:52Z"
+    }
+  ],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "How do I explain to a manager why using DROP and INSERT in place of UPDATE just cause \"we couldn't get update to work\" is bad database practice?",
+      "score": 458,
+      "num_comments": 256,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pgiwpb/how_do_i_explain_to_a_manager_why_using_drop_and/",
+      "created_utc": 1765115709.0,
+      "selftext": "I've recently learned a critical script that populates our database doesn't do so with UPDATE but rather they first DROP everything then recreate it all + todays new data. When my manager saw my jaw d"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Juniors have no clue how to work a debugger - has anyone successfully helped a junior see the light?",
+      "score": 153,
+      "num_comments": 227,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1phkwy0/juniors_have_no_clue_how_to_work_a_debugger_has/",
+      "created_utc": 1765220310.0,
+      "selftext": "We have 3 somewhat junior (close to mid-level) devs in our small teams. A bit over 2 YOE. We’re embracing code-gen tools but I’m trying to put together a plan so it’s used responsibly and ‘agentic’ co"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "AI impact",
+      "score": 148,
+      "num_comments": 201,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pgxk8f/ai_impact/",
+      "created_utc": 1765151719.0,
+      "selftext": "A lot of recent posts about AI and its very promising looking performance gains in software development. \n\nSo let me ask this:\n\nWhere is the impact then?\n\nWhere is the explosion in created software? W"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Team lead leaving, team left behind isn't really gonna be able to cope without him?",
+      "score": 143,
+      "num_comments": 104,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pgu4j1/team_lead_leaving_team_left_behind_isnt_really/",
+      "created_utc": 1765142849.0,
+      "selftext": "Team structure was 1 junior, 3 mid level engineers. I'm one of the mids. We had a couple seniors but they've all left for various reasons. Now our team lead is leaving. That kind of puts our team in a"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Why do engines and motors want to be used?",
+      "score": 121,
+      "num_comments": 44,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phexwn/why_do_engines_and_motors_want_to_be_used/",
+      "created_utc": 1765206904.0,
+      "selftext": "In the past 15 years I noticed alot of issues in Florida with people who only come as snowbirds (few weeks or months) a year and have issues with their vehicles, home generators, pool heaters, electri"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Got a government job offer with same pay, worth giving up WFH?",
+      "score": 55,
+      "num_comments": 51,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1ph6eyi/got_a_government_job_offer_with_same_pay_worth/",
+      "created_utc": 1765179153.0,
+      "selftext": "Hi!  \n  \nI’m a software engineer at what I’d call a mid-tier company in Europe, with 5 YOE. Salary is pretty good for my country and I get 2-3 WFH days a week, which I’ve gotten pretty used to. Team’s"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Engineering Manager / Tech Lead resources from notes tidy up",
+      "score": 54,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1ph957q/engineering_manager_tech_lead_resources_from/",
+      "created_utc": 1765189948.0,
+      "selftext": "Hey fellow EMs / Tech Leads, just tidying up my Obsidian notes and thought I’d share some of the resources I’ve made a note of over the past few years:\n\n[34 Retro Formats](https://www.funretrospective"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Structural engineer only gave me a “probably safe” verdict—is this normal?",
+      "score": 40,
+      "num_comments": 53,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pguucc/structural_engineer_only_gave_me_a_probably_safe/",
+      "created_utc": 1765144616.0,
+      "selftext": "Hi everyone,\n\nI was hoping to get some insight from engineers about whether my recent experience is normal.\n\nAfter talking to a friend of mine who is an engineer, I was advised to get a structural ass"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Can you use high powered, directional speakers to create a sound-blocking invisible curtain?",
+      "score": 39,
+      "num_comments": 29,
+      "url": "https://reddit.com/r/AskEngineers/comments/1ph2uo0/can_you_use_high_powered_directional_speakers_to/",
+      "created_utc": 1765167054.0,
+      "selftext": "Basically I'm imagining a line of small, powerful speakers pointed upward playing white noise or something like that. In theory the waves moving vertically would cancel out or at least disrupt any mov"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "MFEs",
+      "score": 22,
+      "num_comments": 52,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1ph8okn/mfes/",
+      "created_utc": 1765188197.0,
+      "selftext": "It seems to me that unless you're Meta or Netflix you really don't need the additional complexity and hassle in your code-base. I've never heard any positive stories from anyone in a small or medium-s"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Is there a good purely mechanical way to convert rotary motion to constant(-ish) velocity reversing linear motion?",
+      "score": 22,
+      "num_comments": 34,
+      "url": "https://reddit.com/r/AskEngineers/comments/1pgpwa9/is_there_a_good_purely_mechanical_way_to_convert/",
+      "created_utc": 1765132954.0,
+      "selftext": "Application is a wire guide for a spool winder.  What's the Done Thing, or at least the least-worst tradeoffs?"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "What sets the tone for a project for you?",
+      "score": 18,
+      "num_comments": 18,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1ph8hsd/what_sets_the_tone_for_a_project_for_you/",
+      "created_utc": 1765187497.0,
+      "selftext": "What is the single most important thing for you to have at the beginning of a software project? \n\nWhat makes you feel confident and what makes you flinch?\n\nIs it a good team? You know you can get anyt"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Has anyone used Temporal.io for production?",
+      "score": 15,
+      "num_comments": 33,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1ph8gru/has_anyone_used_temporalio_for_production/",
+      "created_utc": 1765187388.0,
+      "selftext": "Curious if anyone has used Temporal for production and what problems did it solve that AWS or Google Cloud wasn't able to? Also the challenges in doing implementing it with temporal. Thanks "
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "If \"Personal projects don't matter\", then how do people change fields or shift into different positions?",
+      "score": 14,
+      "num_comments": 41,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1phstke/if_personal_projects_dont_matter_then_how_do/",
+      "created_utc": 1765238905.0,
+      "selftext": "I'm questioning whether personal projects \"don't matter\" for your career. If I do personal projects in a new technology, I can add things to my resume. If I add things to my resume, I can hopefully la"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Looking for guidance to break into the Java tech industry",
+      "score": 11,
+      "num_comments": 18,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1phosjo/looking_for_guidance_to_break_into_the_java_tech/",
+      "created_utc": 1765229022.0,
+      "selftext": "I am a software developer with 10+(and counting) years of experience. Over the course of my career, I have worked with Javascript/Typescript, PHP, and Ruby. I am well versed in their eco-systems and f"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Penny farthing (1878) front spoke thread?",
+      "score": 6,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phe6m2/penny_farthing_1878_front_spoke_thread/",
+      "created_utc": 1765205163.0,
+      "selftext": "I have been riding a penny farthing in Singapore for 2 years. A few weeks ago disaster struck, one of the spokes on the 52\" front wheel of my 1878 UK made Hydes &amp; Wigfull penny farthing broke, wit"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "TIG welding for Group 11 Metals",
+      "score": 3,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phoxcx/tig_welding_for_group_11_metals/",
+      "created_utc": 1765229328.0,
+      "selftext": "I've been a jeweler for 15 years in both bench and manufacturing settings. I solder (which is technically a kind of brazing as compared to electrical solder) and use a Micro TIG pulse arc welder for s"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "transition to antenna design engineering - MSC in EU ?",
+      "score": 3,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phnyd2/transition_to_antenna_design_engineering_msc_in_eu/",
+      "created_utc": 1765227103.0,
+      "selftext": "Hi everyone,  \nI’m looking for some career advice from people who work in RF, antennas, or general engineering.\n\n**About me:**\n\n* 27M, electronics and comm. engineer, non-EU country\n* 3 years total ex"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Best Way to Simulate Leak Potential?",
+      "score": 3,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phm1g3/best_way_to_simulate_leak_potential/",
+      "created_utc": 1765222820.0,
+      "selftext": "I am looking to design something and need a threaded male/female connection that is airtight and leak proof.  I am looking into BSP on the female end and a BSPT (tapered) on the male end.  Is there an"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Pitfalls of direct IO with block devices?",
+      "score": 2,
+      "num_comments": 15,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1ph9oo3/pitfalls_of_direct_io_with_block_devices/",
+      "created_utc": 1765191921.0,
+      "selftext": "I'm building a database on top of io_uring and the NVMe API. I need a place to store seldomly used large append like records (older parts of message queues, columnar tables that has been already aggre"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Power Fluctuations trip Phase Converter",
+      "score": 2,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phbi9x/power_fluctuations_trip_phase_converter/",
+      "created_utc": 1765197992.0,
+      "selftext": "My company was called to check power to an elevator in a apartment complex. The complex has six elevators. Maintenance says anytime there is a substantial power flux the phase converters trips out and"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "How to set up this part (PMS 35B) in an old water cooling unit?",
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phaxvu/how_to_set_up_this_part_pms_35b_in_an_old_water/",
+      "created_utc": 1765196231.0,
+      "selftext": "I have a water cooling unit that switches off after a few seconds with the error saying 'flow level'. The pump works fine and there are no leaks, as I've fastened them all again and I can see water ci"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Need some ideas for an engineering problem",
+      "score": 1,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phrpxw/need_some_ideas_for_an_engineering_problem/",
+      "created_utc": 1765236044.0,
+      "selftext": "Hello fellow engineers,\n\nI’m working on a project where I need to clamp a component onto a shaft that sits inside a bore. I’ve put together a simplified model to illustrate the setup. [Link To Imgur]("
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Starting idea for a self regulating antenna stand.",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phn6j3/starting_idea_for_a_self_regulating_antenna_stand/",
+      "created_utc": 1765225378.0,
+      "selftext": "So I have a zte mc889 which a router but also a 5g(cellular 5g as in lte ) antenna. \n\nIt has the following dimensions: 189.6 x 108.8 x 31.2 mm (Height x Width x Depth) and weighs approximately 500 gra"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "AskEngineers",
+      "title": "Pumping water at reduced pressures",
+      "score": 1,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/AskEngineers/comments/1phdnae/pumping_water_at_reduced_pressures/",
+      "created_utc": 1765203805.0,
+      "selftext": "I'm building a test setup that uses two vacuum chambers, each operating at approximately 70% vacuum. The chambers are connected, but each has valves so I can pull vacuum on them independently.\n\nThe fi"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Replacing a managed caching solution with custom infrastructure (when it makes sense)",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1phhvnq/replacing_a_managed_caching_solution_with_custom/",
+      "created_utc": 1765213538.0,
+      "selftext": "I'm Nick, I'm an engineering manager at Mintlify. We host tens of thousands of Next.js sites and had major problems with Next.js ISR not scaling with our deployment frequency, every deploy nuked the c"
+    }
+  ]
+}
