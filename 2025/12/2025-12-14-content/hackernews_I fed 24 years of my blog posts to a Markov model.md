@@ -1,0 +1,198 @@
+---
+source: hackernews
+title: I fed 24 years of my blog posts to a Markov model
+url: https://susam.net/fed-24-years-of-posts-to-markov-model.html
+date: 2025-12-14
+---
+
+# I Fed 24 Years of My Blog Posts to a Markov Model
+
+By **Susam Pal** on 13 Dec 2025
+
+Yesterday I shared a little program called the *Mark V. Shaney
+Junior* at
+[github.com/susam/mvs](https://github.com/susam/mvs). It
+is a minimal implementation of a Markov text generator inspired by
+the legendary Mark V. Shaney program from the 1980s. If you don't
+know about Mark V. Shaney, read more about it on the Wikipedia
+article [Mark
+V. Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney).
+
+It is a very small program with only about 30 lines of Python
+(see [mvs.py](https://github.com/susam/mvs/blob/main/mvs.py))
+that favours simplicity over efficiency. As a hobby, I often engage
+in exploratory programming where I write computer programs not to
+solve a specific problem but simply to explore a particular idea or
+topic for the sole purpose of recreation. I must have written small
+programs to explore Markov chains for various kinds of state spaces
+over a dozen times by now. Every time, I just pick my last
+experimental code and edit it to encode the new state space I am
+exploring. That's usually my general approach to such one-off
+programs. I have hundreds of tiny little experimental programs
+lying on my disk at any given time.
+
+Once in a while, I get the itch to take one of those exploratory
+programs, give it some finishing touches, wrap it up in a nice Git
+repo along with a `README.md`, `CHANGES.md`
+and the whole shebang and share it on
+[github.com/susam](https://github.com/susam) and
+[codeberg.org/susam](https://codeberg.org/susam). The
+Mark V. Shaney Junior program that I shared yesterday happened to be
+one such exercise.
+
+If you scroll down the
+[README](https://github.com/susam/mvs#readme) of this
+project, you'll find some nice examples of the gibberish produced by
+this program. The first few examples there are the result of
+training the model on *A Christmas Carol* by Charles Dickens,
+one of my favourite authors. It is often said that Dickens never
+used fewer words when more would suffice. So I thought there
+couldn't be a better piece of text when it comes to testing out my
+tiny Markov model. I'll not reproduce the generated text examples
+here for the sake of brevity. If you are interested to take a look,
+just head over to the
+[Gibberish](https://github.com/susam/mvs#gibberish-examples)
+section of the README.
+
+Soon after sharing the project, I wondered what kind of gibberish it
+would produce if I fed all 24 years of my blog
+[posts and pages](pages.html) into the program.
+Well, here's one of the results:
+
+```
+$ python3 mvs.py < susam.txt
+while a query replace operation is approved by the user. The above
+variable defines the build job. It can be incredibly useful while
+working on assembly language and machine code. In fact, all internal
+resources like the result to refine the search prompt changes from
+bck-i-search: to fwd-i-search:. Now type C-SPC (i.e. ctrl+space) to
+set a mark causes Emacs to use 32-bit registers like EBP, ESP,
+etc. Thus the behaviour is undefined. Such code may behave differently
+when compiled with the readily available GNU tools like the shape
+of 8. Flipping "P" horizontally makes it a proper quine: cat $0
+```
+
+This is the text that comes out after the program consumes over 200
+posts consisting of about 200,000 words. My blog also has
+a [comments section](comments/) with over 500
+comments consisting of about 40,000 words. All comments were
+excluded while training the model. Here is another output example:
+
+```
+$ python3 mvs.py < susam.txt
+enjoy asking "what happens if" and then type M-x zap-up-to-char RET
+b. The buffer for this specific video, the actual fare for 8.3 km and
+11 are all written from scratch. No prior knowledge is expected to
+slow down in future. For now, I will add a statement like x =
+0.999... , the inner corner square as discussed in the code segment
+into the REPL window. Unlike Slimv, Vlime can work with and debug
+executable files, it can be more convenient. M-x: Execute Extended
+Command The key sequence M-q invokes the command cat and type TAB to
+indent the
+```
+
+Here is a particularly incoherent but amusing one:
+
+```
+$ python3 mvs.py < susam.txt
+Then open a new Lisp source file and the exact answer could harm
+students' self-esteem. Scientists have arbitrarily assumed that an
+integral domain. However, the string and comment text. To demonstrate
+how a build job can trigger itself, pass input to standard output or
+standard error), Eshell automatically runs the following command in
+Vim and Emacs will copy the message length limit of 512 characters,
+etc. For example, while learning to play the game between normal mode
+to move the point is on an old dictionary lying around our house and
+that is moving to the small and supportive community
+```
+
+No, I have never said anywhere that opening a Lisp source file could
+harm anyone's self-esteem. The text generator has picked up the
+'Lisp source file' phrase from my
+[Lisp in Vim](lisp-in-vim.html) post and the
+'self-esteem' bit from the [From Perl
+to Pi](from-perl-to-pi.html) post.
+
+By default, this program looks at trigrams (all sequences of three
+adjacent words) and creates a map where the first two words of the
+trigram are inserted as the key and the third word is appended to
+its list value. This map is the model. In this way, the model
+captures each pair of adjacent words along with the words that
+immediately follow each pair. The text generator then chooses a key
+(a pair of words) at random and looks for a word which follows. If
+there are multiple followers, it picks one at random. That is
+pretty much the whole algorithm. There isn't much more to it. It
+is as simple as it gets. For that reason, I often describe a simple
+Markov model like this as the 'hello, world' for language models.
+
+Of course, in 2025, given the overwhelming popularity of large
+language models (LLMs), Markov models like this look unimpressive.
+Unlike LLMs, a simple Markov model cannot capture global structure
+or long-range dependencies within the text. It relies entirely on
+local word transition statistics. Also, these days, one hardly
+needs a Markov model to generate gibberish; social media provides an
+ample supply. Nevertheless, I think the simplicity of its design
+and implementation serves as a good entry point into language
+models.
+
+In my implementation, the number of words in the key of the map can
+be set via command line arguments. By default, it is 2 as described
+above. This value is also known as the order of the model. So by
+default the order is 2. If we increase it to, say, 3 or 4, the
+generated text becomes a little more coherent. Here is one such
+example:
+
+```
+$ python3 mvs.py 4 < susam.txt
+It is also possible to search for channels by channel names. For
+example, on Libera Chat, to search for all channels with 'python' in
+its name, enter the IRC command: /msg alis list python. Although I
+have used Libera Chat in the examples above, there are plenty of
+infinite fields, so they must all be integral domains too. Consider
+the field of rational numbers Q . Another quick way to arrive at this
+fact is to observe that when one knight is placed on a type D square,
+only two positions for the second knight such that the two knights
+```
+
+Except for a couple of abrupt transitions, the text is mostly
+coherent. We need to be careful about not increasing the order too
+much. In fact, if we increase the order of the model to 5, the
+generated text becomes very dry and factual because it begins to
+quote large portions of the blog posts verbatim. Not much fun can
+be had like that.
+
+Before I end this post, let me present one final example where I ask
+it to generate text from an initial prompt:
+
+```
+$ python3 mvs.py 2 100 'Finally we'
+Finally we divide this number by a feed aggregrator for Emacs-related
+blogs. The following complete key sequences describe the effects of
+previous evaluations shall have taken a simple and small to contain
+bad content. This provides an interactive byte-compiled Lisp function
+in MATLAB and GNU bash 5.1.4 on Debian is easily reproducible in
+Windows XP. Older versions might be able to run that server for me it
+played a significant burden on me as soon as possible. C-u F: Visit
+the marked files or directories in the sense that it was already
+initiated and we were to complete the proof.
+```
+
+Apparently, this is how I would sound if I ever took up speaking
+gibberish!
+
+[Comments](comments/fed-24-years-of-posts-to-markov-model.html) |
+[#programming](./tag/programming.html) |
+[#technology](./tag/technology.html)
+
+---
+
+[Home](./)
+[Maze](./maze.html)
+[Links](./links.html)
+[Feed](./feed.xml)
+[Subscribe](./form/subscribe/)
+[About](./about.html)
+[GitHub](https://github.com/susam)
+[Mastodon](https://mastodon.social/%40susam)
+
+© 2001–2025 Susam Pal
