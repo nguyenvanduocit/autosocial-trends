@@ -1,0 +1,710 @@
+{
+  "date": "2025-12-16",
+  "generated_at": "2025-12-16T08:00:37.642481+07:00",
+  "leaddev": [
+    {
+      "source": "leaddev",
+      "title": "What to do when you have a bad manager",
+      "url": "https://leaddev.com/culture/what-when-you-have-bad-manager?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>The best way to deal with a bad manager is to meet them where they are. </p>\n<p>The post <a href=\"https://leaddev.com/culture/what-when-you-have-bad-manager?utm_source=leaddev&#038;utm_medium=RSS\">What to do when you have a bad manager</a> appeared first on <a href=\"https://leaddev.com\">LeadDev</",
+      "pub_date": "Mon, 15 Dec 2025 09:00:00 +0000",
+      "category": "Communication"
+    },
+    {
+      "source": "leaddev",
+      "title": "Engineering skills are being rewritten by AI",
+      "url": "https://leaddev.com/ai/engineering-skills-are-being-rewritten-by-ai?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Learning and development are becoming more of a priority in the AI age</p>\n<p>The post <a href=\"https://leaddev.com/ai/engineering-skills-are-being-rewritten-by-ai?utm_source=leaddev&#038;utm_medium=RSS\">Engineering skills are being rewritten by AI</a> appeared first on <a href=\"https://leaddev.c",
+      "pub_date": "Thu, 11 Dec 2025 13:22:38 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "OpenAI report: Enterprise AI is still in the “early innings”",
+      "url": "https://leaddev.com/ai/openai-report-enterprise-ai-is-still-in-the-early-innings?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Insights into AI usage from 1 million business customers.</p>\n<p>The post <a href=\"https://leaddev.com/ai/openai-report-enterprise-ai-is-still-in-the-early-innings?utm_source=leaddev&#038;utm_medium=RSS\">OpenAI report: Enterprise AI is still in the “early innings”</a> appeared first on <a href=\"h",
+      "pub_date": "Thu, 11 Dec 2025 09:25:20 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "How to manage up in flat organizations",
+      "url": "https://leaddev.com/management/how-manage-upwards-flat-organizations?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>As tech continues to flatten organizations, managers are feeling the scrutiny.</p>\n<p>The post <a href=\"https://leaddev.com/management/how-manage-upwards-flat-organizations?utm_source=leaddev&#038;utm_medium=RSS\">How to manage up in flat organizations</a> appeared first on <a href=\"https://leadde",
+      "pub_date": "Wed, 10 Dec 2025 09:00:00 +0000",
+      "category": "Management"
+    },
+    {
+      "source": "leaddev",
+      "title": "Testing is a skill. Quality is a discipline.",
+      "url": "https://leaddev.com/software-quality/testing-is-a-skill-quality-is-a-discipline?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>As quality assurance makes way for quality engineering, how do you change mindsets?</p>\n<p>The post <a href=\"https://leaddev.com/software-quality/testing-is-a-skill-quality-is-a-discipline?utm_source=leaddev&#038;utm_medium=RSS\">Testing is a skill. Quality is a discipline.</a> appeared first on <",
+      "pub_date": "Tue, 09 Dec 2025 09:02:32 +0000",
+      "category": "Culture"
+    },
+    {
+      "source": "leaddev",
+      "title": "The great engineer hiring paradox",
+      "url": "https://leaddev.com/hiring/the-great-engineer-hiring-paradox?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>“The story isn't that jobs are vanishing, it's that the bar for skills is rising.”</p>\n<p>The post <a href=\"https://leaddev.com/hiring/the-great-engineer-hiring-paradox?utm_source=leaddev&#038;utm_medium=RSS\">The great engineer hiring paradox</a> appeared first on <a href=\"https://leaddev.com\">Le",
+      "pub_date": "Mon, 08 Dec 2025 10:20:00 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Why Zig is moving on from GitHub",
+      "url": "https://leaddev.com/ai/why-zig-is-moving-on-from-github?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>A scathing review has broader implications for AI use by major platforms.</p>\n<p>The post <a href=\"https://leaddev.com/ai/why-zig-is-moving-on-from-github?utm_source=leaddev&#038;utm_medium=RSS\">Why Zig is moving on from GitHub</a> appeared first on <a href=\"https://leaddev.com\">LeadDev</a>.</p>\n",
+      "pub_date": "Thu, 04 Dec 2025 15:15:25 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Best practices for letting AI write integration code",
+      "url": "https://leaddev.com/ai/best-practices-for-letting-ai-write-integration-code?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Integrations are no walk in the park.</p>\n<p>The post <a href=\"https://leaddev.com/ai/best-practices-for-letting-ai-write-integration-code?utm_source=leaddev&#038;utm_medium=RSS\">Best practices for letting AI write integration code</a> appeared first on <a href=\"https://leaddev.com\">LeadDev</a>.<",
+      "pub_date": "Thu, 04 Dec 2025 10:48:17 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Roses are red, guardrails blind – a poem can warp an LLM’s mind",
+      "url": "https://leaddev.com/software-quality/roses-are-red-guardrails-blind-a-poem-can-warp-an-llms-mind?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>Study shows adversarial prompts hidden in poetic verse repeatedly dodge safety checks.</p>\n<p>The post <a href=\"https://leaddev.com/software-quality/roses-are-red-guardrails-blind-a-poem-can-warp-an-llms-mind?utm_source=leaddev&#038;utm_medium=RSS\">Roses are red, guardrails blind – a poem can war",
+      "pub_date": "Wed, 03 Dec 2025 08:08:00 +0000",
+      "category": "AI"
+    },
+    {
+      "source": "leaddev",
+      "title": "Amazon employees demand a voice in AI decisions amid layoff fears",
+      "url": "https://leaddev.com/ai/amazon-employees-demand-a-voice-in-ai-decisions-amid-layoff-fears?utm_source=leaddev&utm_medium=RSS",
+      "description": "<p>1,000 Amazon employees’ signed a letter voicing their AI concerns, reflecting a growing tension across the tech industry.</p>\n<p>The post <a href=\"https://leaddev.com/ai/amazon-employees-demand-a-voice-in-ai-decisions-amid-layoff-fears?utm_source=leaddev&#038;utm_medium=RSS\">Amazon employees dema",
+      "pub_date": "Tue, 02 Dec 2025 11:59:41 +0000",
+      "category": "AI"
+    }
+  ],
+  "devto": [
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Building Scalable SaaS Products: A Developer's Guide",
+      "url": "https://dev.to/thebitforge/building-scalable-saas-products-a-developers-guide-48a7",
+      "description": "I've spent the better part of a decade building SaaS products, and if there's one thing I've learned,...",
+      "reading_time": 57,
+      "reactions": 33,
+      "comments": 1,
+      "author": "TheBitForge",
+      "published_at": "2025-12-15T16:21:21Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Why Every Conference Needs a Nursing Room",
+      "url": "https://dev.to/blackgirlbytes/why-every-conference-needs-a-nursing-room-3g74",
+      "description": "I didn’t truly understand the value of a nursing station until my health and career were on the line....",
+      "reading_time": 3,
+      "reactions": 26,
+      "comments": 4,
+      "author": "Rizèl Scarlett",
+      "published_at": "2025-12-09T11:35:15Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "How to Prepare for the Future of Programming",
+      "url": "https://dev.to/clara-is-coding/how-to-prepare-for-the-future-of-programming-1h9c",
+      "description": "Start a start-up? Scratch that. Call your mom. Go back to school? Don’t go back to school. Learn to...",
+      "reading_time": 6,
+      "reactions": 12,
+      "comments": 3,
+      "author": "Clara Maine",
+      "published_at": "2025-12-10T12:09:50Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Casual Agile: Agile as a Soft Skill",
+      "url": "https://dev.to/stakiran/casual-agile-agile-as-a-soft-skill-4h22",
+      "description": "Background            Agile as a Soft Skill   Agile is not just a method or a set of...",
+      "reading_time": 5,
+      "reactions": 5,
+      "comments": 0,
+      "author": "sta",
+      "published_at": "2025-12-10T20:50:52Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "The Cargo Cult",
+      "url": "https://dev.to/linkbenjamin/the-cargo-cult-8ie",
+      "description": "Hey friends!    You ever notice how people sometimes copy the shape of a good practice without...",
+      "reading_time": 4,
+      "reactions": 4,
+      "comments": 0,
+      "author": "Ben Link",
+      "published_at": "2025-12-11T12:45:00Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Why 71,000 Data Engineers Read My Article: What I Learned About Technical Writing",
+      "url": "https://dev.to/pradeep_kaalluri/why-71000-data-engineers-read-my-article-what-i-learned-about-technical-writing-1g6a",
+      "description": "My article on data quality hit 71,000 views in a week. I didn't expect that.  I've been writing...",
+      "reading_time": 6,
+      "reactions": 4,
+      "comments": 1,
+      "author": "Pradeep Kalluri",
+      "published_at": "2025-12-08T21:38:19Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Why Software Developers Are Their Own Worst Enemies",
+      "url": "https://dev.to/mashrulhaque/why-software-developers-are-their-own-worst-enemies-bcp",
+      "description": "I've been in this industry long enough to notice something strange. We work in one of the best-paying...",
+      "reading_time": 5,
+      "reactions": 3,
+      "comments": 0,
+      "author": "Mashrul Haque",
+      "published_at": "2025-12-09T23:52:14Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "A Complete Production-Ready Checklist for Smooth, Safe Deployments",
+      "url": "https://dev.to/prekshashah2509/a-complete-production-ready-checklist-for-smooth-safe-deployments-469k",
+      "description": "Deployments succeed or fail long before code reaches production. After seeing recurring gaps in...",
+      "reading_time": 1,
+      "reactions": 1,
+      "comments": 0,
+      "author": "Preksha Shah",
+      "published_at": "2025-12-10T16:43:19Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Excel for Project Management: Tracking Timelines and Deliverables",
+      "url": "https://dev.to/nife_nitola/excel-for-project-management-tracking-timelines-and-deliverables-293n",
+      "description": "The Project Manager's Secret Weapon: An Introduction   We all know the scene: a new project...",
+      "reading_time": 4,
+      "reactions": 1,
+      "comments": 0,
+      "author": "Oluwanifemi Olonitola ",
+      "published_at": "2025-12-09T17:54:27Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Why I'm Building 12 Micro-SaaS in 12 Months (as a Former Founder)",
+      "url": "https://dev.to/keplerjst/why-im-building-12-micro-saas-in-12-months-as-a-former-founder-ke8",
+      "description": "I founded my startup in 2017, and after an 8-year grind, I finally sold it for a few million dollars...",
+      "reading_time": 3,
+      "reactions": 1,
+      "comments": 1,
+      "author": "Kepler Jay",
+      "published_at": "2025-12-09T14:05:22Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "How do you vet a Lead Backend Engineer when AI makes everyone sound senior?",
+      "url": "https://dev.to/delivery/how-do-you-vet-a-lead-backend-engineer-when-ai-makes-everyone-sound-senior-4k6j",
+      "description": "I’m trying to hire a Lead Backend Engineer for our team of 15, and the usual ways of evaluating...",
+      "reading_time": 2,
+      "reactions": 1,
+      "comments": 3,
+      "author": "Danny",
+      "published_at": "2025-12-08T23:22:38Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "In Defense of Rudolph (and Against State-Sanctioned Reindeer Bullying)",
+      "url": "https://dev.to/jjn1056/in-defense-of-rudolph-and-against-state-sanctioned-reindeer-bullying-32gp",
+      "description": "Every year around Christmas, we are expected—required, really—to cheerfully sing along to Rudolph the...",
+      "reading_time": 3,
+      "reactions": 0,
+      "comments": 0,
+      "author": "John Napiorkowski",
+      "published_at": "2025-12-14T13:28:34Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Critical Thinking for Technical Teams: A Practical Guide",
+      "url": "https://dev.to/sojinantony01/critical-thinking-for-technical-teams-a-practical-guide-2h77",
+      "description": "How structured reasoning transforms debugging, planning, and collaboration    In software and...",
+      "reading_time": 4,
+      "reactions": 0,
+      "comments": 0,
+      "author": "sojin antony",
+      "published_at": "2025-12-14T09:06:30Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "When Does the Role of a Software Architect Truly Make a Difference in a Project?",
+      "url": "https://dev.to/douglas_mor/when-does-the-role-of-a-software-architect-truly-make-a-difference-in-a-project-35mi",
+      "description": "If you've ever been part of a tech project that seemed to “run smoothly on its own,” chances are...",
+      "reading_time": 3,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Douglas Mor",
+      "published_at": "2025-12-09T22:51:49Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Async by Default",
+      "url": "https://dev.to/rnikolaev/async-by-default-3f9",
+      "description": "My team is 90% remote. It took us a few years to figure out when to meet and when to...",
+      "reading_time": 4,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Roman Nikolaev",
+      "published_at": "2025-12-15T18:51:51Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "Don't kill the bearer of bad news",
+      "url": "https://dev.to/marianvarga/dont-kill-the-bearer-of-bad-news-45p9",
+      "description": "Have you ever been in a situation where you had to manage expectations of people who thought a...",
+      "reading_time": 3,
+      "reactions": 0,
+      "comments": 1,
+      "author": "marian-varga",
+      "published_at": "2025-12-15T18:15:39Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "A complete Production-Ready Checklist to help teams ship safely and reduce deployment risk. Includes templates, real examples, and best-practice checks for smooth releases.\r\n🔗 Full checklist: https://github.com/PrekshaShah2509/production-ready-checklist/",
+      "url": "https://dev.to/prekshashah2509/a-complete-production-ready-checklist-to-help-teams-ship-safely-and-reduce-deployment-risk-4pa1",
+      "description": "A Complete Production-Ready Checklist for Smooth, Safe...",
+      "reading_time": 1,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Preksha Shah",
+      "published_at": "2025-12-10T16:49:24Z"
+    },
+    {
+      "source": "devto",
+      "tag": "leadership",
+      "title": "From Nagging to Holding People Accountable",
+      "url": "https://dev.to/dvddpl/from-nagging-to-holding-people-accountable-3dfj",
+      "description": "A personal and practical reflection on Crucial Accountability by Patterson, Grenny, McMillan, and Switzler — exploring how to hold others accountable with skill, empathy, and clarity while strengthening relationships at work and beyond.",
+      "reading_time": 7,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Davide de Paolis",
+      "published_at": "2025-12-15T07:36:00Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "UI components as Lego: an analogy too far, or not far enough?",
+      "url": "https://dev.to/measuredco/ui-components-as-lego-an-analogy-too-far-or-not-far-enough-50e9",
+      "description": "UI components as Lego: an analogy too far, or not far enough?   The UI Lego analogy is...",
+      "reading_time": 3,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Paul Love",
+      "published_at": "2025-12-09T14:32:17Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Project vs Transject",
+      "url": "https://dev.to/stakiran/project-vs-transject-cpd",
+      "description": "Summary    The \"project\" approach alone cannot cover certain areas We have created a new...",
+      "reading_time": 6,
+      "reactions": 0,
+      "comments": 0,
+      "author": "sta",
+      "published_at": "2025-12-09T21:06:44Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Manager As A Function",
+      "url": "https://dev.to/stakiran/manager-as-a-function-474c",
+      "description": "Background            DevEx is Important   DevEx (Developer Experience) refers to the...",
+      "reading_time": 4,
+      "reactions": 0,
+      "comments": 0,
+      "author": "sta",
+      "published_at": "2025-12-11T21:03:37Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "From AMA to RMA",
+      "url": "https://dev.to/stakiran/from-ama-to-rma-15bb",
+      "description": "Developed RMA as a Variant of AMA (Ask Me Anything)   RMA (Request Me Anything) is a model...",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 0,
+      "author": "sta",
+      "published_at": "2025-12-11T20:26:17Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Influence sucks",
+      "url": "https://dev.to/stakiran/influence-sucks-151i",
+      "description": "Summary    Influence is not the responsibility of engineers   It's the job of engineering...",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 0,
+      "author": "sta",
+      "published_at": "2025-12-08T20:20:02Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Are senior developers misused in your company?",
+      "url": "https://dev.to/andreas_mller_2fd27cf578/are-senior-developers-misused-in-your-company-494b",
+      "description": "This is more of an information gathering post, but I will also share my experience. In my experience:...",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Andreas Müller",
+      "published_at": "2025-12-14T12:21:46Z"
+    },
+    {
+      "source": "devto",
+      "tag": "management",
+      "title": "Understanding Kanban: A Practical Approach to Project Management",
+      "url": "https://dev.to/gustavowoltmann18/understanding-kanban-a-practical-approach-to-project-management-46ai",
+      "description": "In today’s fast-paced business environment, managing projects efficiently is essential. Among the...",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Gustavo Woltmann",
+      "published_at": "2025-12-14T13:56:29Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "The Sleep-Deprived Senior Test: Why I Hate Your \"Magic Numbers\"",
+      "url": "https://dev.to/doogal/the-sleep-deprived-senior-test-why-i-hate-your-magic-numbers-2gda",
+      "description": "It is 3:14 AM.  Your phone is buzzing on the nightstand. The on-call alert is screaming that the...",
+      "reading_time": 3,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Doogal Simpson",
+      "published_at": "2025-12-11T11:49:04Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "Shipping Meaningful Open Source Work",
+      "url": "https://dev.to/aubreyddd/shipping-meaningful-open-source-work-3p3o",
+      "description": "Release 0.4 was about doing work I could be proud of, over multiple weeks. I chose to continue...",
+      "reading_time": 3,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Aubrey D",
+      "published_at": "2025-12-12T20:20:56Z"
+    },
+    {
+      "source": "devto",
+      "tag": "career",
+      "title": "The 5-Minute System Design Question Most Engineers Get Wrong",
+      "url": "https://dev.to/social_interviewbee/the-5-minute-system-design-question-most-engineers-get-wrong-49fb",
+      "description": "There's a system design question that keeps showing up in interviews at Google, Amazon, Meta, and...",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Evelyn Williams ",
+      "published_at": "2025-12-11T10:21:06Z"
+    },
+    {
+      "source": "devto",
+      "tag": "engineering",
+      "title": "Key Takeaways from Werner Vogels' Final re:Invent Keynote (2025)",
+      "url": "https://dev.to/ravirupeliya/key-takeaways-from-werner-vogels-final-reinvent-keynote-2025-3eo6",
+      "description": "Werner Vogels wrapped up his last re:Invent keynote with a vision for what the next generation of builders must become in the AI era.",
+      "reading_time": 2,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Ravi Patel",
+      "published_at": "2025-12-09T06:31:22Z"
+    },
+    {
+      "source": "devto",
+      "tag": "engineering",
+      "title": "Surface Tension of Software: why systems hold together",
+      "url": "https://dev.to/interstelios/surface-tension-of-software-why-systems-hold-together-5aka",
+      "description": "Some systems stay coherent as they grow, while others lose their shape almost immediately. This is a short reflection on that difference, using the idea of surface tension as a way to think about structural integrity in software.",
+      "reading_time": 3,
+      "reactions": 0,
+      "comments": 0,
+      "author": "Stelios",
+      "published_at": "2025-12-07T14:00:56Z"
+    }
+  ],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "How do you evaluate engineers when everyone's using AI coding tools now",
+      "score": 370,
+      "num_comments": 264,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pn39gb/how_do_you_evaluate_engineers_when_everyones/",
+      "created_utc": 1765790968.0,
+      "selftext": "10 YOE, currently leading a team of 6. This has been bothering me for a few months and I don't have a good answer.\n\nTwo of my junior devs started using AI coding assistants heavily this year. Their ou"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Unemployed: thinking of being a janitor",
+      "score": 357,
+      "num_comments": 112,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pn0690/unemployed_thinking_of_being_a_janitor/",
+      "created_utc": 1765778743.0,
+      "selftext": "context: I have a BS, an MS, and ~2 years of experience as an ML Engineer. I’ve been unemployed for 3 months. I’ve been applying everywhere, and I’ve got about 1.5 months of savings left.\n\nLately I’ve"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "How do you handle the stress of knowing that you could be fired at any moment?",
+      "score": 306,
+      "num_comments": 203,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pmwuvf/how_do_you_handle_the_stress_of_knowing_that_you/",
+      "created_utc": 1765767969.0,
+      "selftext": "Back when the job market was good I never worried about getting fired because I knew I could have a new job by the next week. Now I've been applying, on and off, since March and haven't landed anythin"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Got fired because I refused to vibecode and commented on PRs",
+      "score": 166,
+      "num_comments": 67,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pnndg3/got_fired_because_i_refused_to_vibecode_and/",
+      "created_utc": 1765843640.0,
+      "selftext": "Hello, so I(31F) have been working as a front end developer for around 9/10 years. It was my hobby as a teenager, playing around with some JS and CSS so my blog would look nice. It became my career ev"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Is the market bad or lack of skills?",
+      "score": 125,
+      "num_comments": 147,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pmqfir/is_the_market_bad_or_lack_of_skills/",
+      "created_utc": 1765749935.0,
+      "selftext": "Hi,\n13 YOE, never struggled to find a job as a backend developer.\n\nNot trying to be mean or rude, but is it really true that all the blame goes to the current market/hiring or because people are not q"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Offramp from Big Tech, how to make it work?",
+      "score": 113,
+      "num_comments": 80,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pmpgk8/offramp_from_big_tech_how_to_make_it_work/",
+      "created_utc": 1765747506.0,
+      "selftext": "18 YOE, Staff eng\n\nI'm looking at the possibility of moving to less paid but less stressful job in a few years. I can feasibly retire on my savings in a few years, but it seems dumb to tap into the ne"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "How much would you value full remote?",
+      "score": 106,
+      "num_comments": 189,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pmten3/how_much_would_you_value_full_remote/",
+      "created_utc": 1765757905.0,
+      "selftext": "I’m in a very fortunate position to have two competing offers at mid level, which has me in a difficult situation deciding how much I value remote.\n\nOffer 1:\n\nTC: 294k\n\nFull remote\n\nOffer 2:\n\nTC: 474k"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "How to deal with developers who thinks their job ends at making the code work, with no regard for quality?",
+      "score": 100,
+      "num_comments": 75,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pn50u3/how_to_deal_with_developers_who_thinks_their_job/",
+      "created_utc": 1765797909.0,
+      "selftext": "We all know that adding code may also add some amount of tech debt. Perhaps you skip some step in cleaning up the code, write a ticket for it as future work, and leave it in the backlog. Fine, I get i"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Senior dev position with no decision making at all.",
+      "score": 100,
+      "num_comments": 108,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pmjdj2/senior_dev_position_with_no_decision_making_at_all/",
+      "created_utc": 1765732594.0,
+      "selftext": "Greetings fellow experienced programmers. As the title suggests, I've been into a corporate senior dev position for about half a year now, and all I do is receiving requirements from the technical man"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "I want to start a side project for profit and eventually sell software as a personal business, but it feels like everything is already built?",
+      "score": 65,
+      "num_comments": 36,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pmua60/i_want_to_start_a_side_project_for_profit_and/",
+      "created_utc": 1765760423.0,
+      "selftext": "For practically any idea that I have, I jump on the app store or search Google. There are already multiple versions of it already made.\n\nAnd no, these aren't stupid \"Tinder, but for X\", \"Uber, but for"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Should I \"rat out\" the lazy developer?",
+      "score": 49,
+      "num_comments": 46,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pn21vj/should_i_rat_out_the_lazy_developer/",
+      "created_utc": 1765785935.0,
+      "selftext": "Edit: \n\n\nYes, my coworkers’ lazy and irresponsible attitude is affecting me. For example:\n\nUser story 1 is assigned to me and person A. Person A did not finish his part and did not tell manager. And t"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Do you ever get the feeling that the project you're working on would have been a failure without you?",
+      "score": 30,
+      "num_comments": 37,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pn6ene/do_you_ever_get_the_feeling_that_the_project/",
+      "created_utc": 1765802547.0,
+      "selftext": "Thinking about some past projects and the current one, I can't shake the feeling that, without my expertise and problem solving skills, the projects I was part of would have never been \"successful\". \n"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Those of you have built successful side businesses or seen coworkers do it while working full time, how did you manage it?",
+      "score": 22,
+      "num_comments": 22,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pmvo8e/those_of_you_have_built_successful_side/",
+      "created_utc": 1765764498.0,
+      "selftext": "I’m really passionate about wanting to build my own business on the side (for reasons beyond money, although it’s a nice plus). But I run into a lot of challenges like not being able to call potential"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Am I delusional",
+      "score": 21,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pndgj7/am_i_delusional/",
+      "created_utc": 1765819895.0,
+      "selftext": "I recently had a final round for Adobe about a month ago. I thought things went pretty alright and they told me to fill out a form regarding my offers and deadlines and that I should hear back in abou"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Communication Style",
+      "score": 13,
+      "num_comments": 16,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pnfxb9/communication_style/",
+      "created_utc": 1765825429.0,
+      "selftext": "I have been a software engineer for 10+ years I recently had an interview where the feedback was my communication style wasn’t great and it didn’t really sell my technical skills. I have been put thro"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Too many tasks/responsibilities as a junior",
+      "score": 13,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pnetfl/too_many_tasksresponsibilities_as_a_junior/",
+      "created_utc": 1765822996.0,
+      "selftext": "I don't have any dev coworkers, and I'm straddled between doing development, IT tickets, and power BI stuff. 50k USD salary.\n\n  \nIs it normal to have like 2 big projects over your head + a backlog of "
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Productivity down during the season and feeling guilty",
+      "score": 12,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pnfgnj/productivity_down_during_the_season_and_feeling/",
+      "created_utc": 1765824422.0,
+      "selftext": "During this time of the year, I cannot avoid to get a bit lazy and there’s an evident decrease in my productivity. If the company Im at the moment offers it, I will typically take some remote work tim"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "People who stopped pursuing IT career, what are you doing now?",
+      "score": 11,
+      "num_comments": 12,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pnmb5m/people_who_stopped_pursuing_it_career_what_are/",
+      "created_utc": 1765840856.0,
+      "selftext": "I'm starting to wonder if it's all worth it. I know other fields aren't easy, but maybe better than IT? People who stopped pursuing to work in IT, what are you doing now?"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Have you experienced racism in the workplace/job search?",
+      "score": 11,
+      "num_comments": 32,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pn66ik/have_you_experienced_racism_in_the_workplacejob/",
+      "created_utc": 1765801822.0,
+      "selftext": "Almost all of my jobs have been very, very good to me but one job I was interviewing with one of those WHICH companies.. man the hiring manager.. I could tell he did not like me and started giving me "
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Open source publication policies?",
+      "score": 7,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pnm0tp/open_source_publication_policies/",
+      "created_utc": 1765840129.0,
+      "selftext": "I'm looking for some boilerplate open source contribution policies to propose. There have been a few times I've wanted to publish something in order to be able to write about it, contribute back a fea"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Intuit AI round?",
+      "score": 3,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pnmfep/intuit_ai_round/",
+      "created_utc": 1765841147.0,
+      "selftext": "I have a phone interview with them. First 45 minutes will be a Leetcode question and last 30 minutes is for AI questions. Anyone know what will be the questions asked?\n\nThanks in advanced.\n\n"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Uber Sunnyvale Office",
+      "score": 3,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pnlg9r/uber_sunnyvale_office/",
+      "created_utc": 1765838702.0,
+      "selftext": "Does anyone here work at Uber Sunnyvale? I am joining next month and was wondering if I could get some insight into how the office is, how parking works, if they provide lunches, and how the cultural "
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "\"Too much\" Initiative?",
+      "score": 2,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pnnc6k/too_much_initiative/",
+      "created_utc": 1765843542.0,
+      "selftext": "So i'll preface this with I am an experienced SDET and have been working at XYZ company for around 2 years.\n\nOur team  (and organization) is changing it's devops tooling (and provider, AWS is this ins"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "cscareerquestions",
+      "title": "Company is asking me to transition from my current role into a Solutions Architect",
+      "score": 1,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/cscareerquestions/comments/1pnjmr5/company_is_asking_me_to_transition_from_my/",
+      "created_utc": 1765834296.0,
+      "selftext": "To give some background, I currently work at a company that's fairly small but does well and my current position is a Senior Software Support Engineer. In reality, we're a very flat organization (less"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Is Automotive domain an dead end?",
+      "score": 0,
+      "num_comments": 14,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pnn54b/is_automotive_domain_an_dead_end/",
+      "created_utc": 1765843025.0,
+      "selftext": "\n\nThere's plenty pessimistic views on this Automotive field, and I would want to know if you, the ones with more experience, believe in this industry even now."
+    },
+    {
+      "source": "reddit",
+      "subreddit": "ExperiencedDevs",
+      "title": "Is pure horizontal scaling on RAM (for stateful vector indices) an inevitable source of technical debt for hyper-scale platforms?",
+      "score": 0,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/ExperiencedDevs/comments/1pn94up/is_pure_horizontal_scaling_on_ram_for_stateful/",
+      "created_utc": 1765809977.0,
+      "selftext": "Our team has been researching sustainable scaling patterns for stateful vector indices, and we’ve developed an alternative architecture that challenges the current RAM-dependent norm. We’re reaching o"
+    }
+  ]
+}
