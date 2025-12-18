@@ -1,0 +1,1133 @@
+{
+  "date": "2025-12-18",
+  "generated_at": "2025-12-18T07:01:30.077205+07:00",
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "'Getting into DevOps'",
+      "score": 1037,
+      "num_comments": 153,
+      "url": "https://reddit.com/r/devops/comments/yjdscp/getting_into_devops/",
+      "created_utc": 1667321129.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Proposing a New 'Adult-Content' HTTP Header to Improve Parental Controls, as an Alternative to Orwellian State Surveillance",
+      "score": 888,
+      "num_comments": 206,
+      "url": "https://reddit.com/r/webdev/comments/1poye1v/proposing_a_new_adultcontent_http_header_to/",
+      "created_utc": 1765982934.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Github Actions introducing a per-minute fee for self-hosted runners",
+      "score": 749,
+      "num_comments": 202,
+      "url": "https://reddit.com/r/devops/comments/1po8hj5/github_actions_introducing_a_perminute_fee_for/",
+      "created_utc": 1765907313.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Docker just made hardened container images free and open source",
+      "score": 362,
+      "num_comments": 47,
+      "url": "https://reddit.com/r/devops/comments/1poxncf/docker_just_made_hardened_container_images_free/",
+      "created_utc": 1765981067.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’",
+      "score": 349,
+      "num_comments": 157,
+      "url": "https://reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/",
+      "created_utc": 1765916090.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[P] Eigenvalues as models",
+      "score": 152,
+      "num_comments": 37,
+      "url": "https://reddit.com/r/MachineLearning/comments/1popuf4/p_eigenvalues_as_models/",
+      "created_utc": 1765954101.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Hack Reveals the a16z-Backed Phone Farm Flooding TikTok With AI Influencers",
+      "score": 114,
+      "num_comments": 9,
+      "url": "https://reddit.com/r/artificial/comments/1poynd6/hack_reveals_the_a16zbacked_phone_farm_flooding/",
+      "created_utc": 1765983558.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Firefox will turn into an AI Browser",
+      "score": 93,
+      "num_comments": 123,
+      "url": "https://reddit.com/r/webdev/comments/1pp41s4/firefox_will_turn_into_an_ai_browser/",
+      "created_utc": 1765996064.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] AISTATS is Desk-Rejecting Papers Where Authors Accessed Reviewer Identities via the OpenReview Bug",
+      "score": 81,
+      "num_comments": 26,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pp4eca/d_aistats_is_deskrejecting_papers_where_authors/",
+      "created_utc": 1765996876.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "How reliable is Hostinger for eCommerce sites, startups, or growing ?",
+      "score": 63,
+      "num_comments": 6,
+      "url": "https://reddit.com/r/startup/comments/1po71qo/how_reliable_is_hostinger_for_ecommerce_sites/",
+      "created_utc": 1765904101.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "I built a real-time map tracking 19,000 bikes in Paris (github repo linked)",
+      "score": 57,
+      "num_comments": 15,
+      "url": "https://reddit.com/r/webdev/comments/1pp2tco/i_built_a_realtime_map_tracking_19000_bikes_in/",
+      "created_utc": 1765993237.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "How should this sub respond to reddit's api changes, part 2",
+      "score": 53,
+      "num_comments": 31,
+      "url": "https://reddit.com/r/devops/comments/14n6ghq/how_should_this_sub_respond_to_reddits_api/",
+      "created_utc": 1688145703.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Nadella's message to Microsoft execs: Get on board with the AI grind or get out",
+      "score": 52,
+      "num_comments": 43,
+      "url": "https://reddit.com/r/artificial/comments/1pp90g0/nadellas_message_to_microsoft_execs_get_on_board/",
+      "created_utc": 1766007743.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "🚨 Malware Campaign Targeting Developers via LinkedIn",
+      "score": 48,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/webdev/comments/1pos19x/malware_campaign_targeting_developers_via_linkedin/",
+      "created_utc": 1765962604.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Alternatives for Github?",
+      "score": 45,
+      "num_comments": 66,
+      "url": "https://reddit.com/r/devops/comments/1pp33g9/alternatives_for_github/",
+      "created_utc": 1765993878.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "score": 35,
+      "num_comments": 6,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pb25zo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "created_utc": 1764559853.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Kubernetes v1.35 - full guide testing the best features with RC1 code",
+      "score": 30,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/devops/comments/1pou9ed/kubernetes_v135_full_guide_testing_the_best/",
+      "created_utc": 1765971027.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "How do I streamline the access update process in my org?",
+      "score": 24,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/devops/comments/1pp8kph/how_do_i_streamline_the_access_update_process_in/",
+      "created_utc": 1766006697.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "AI Fatigue?",
+      "score": 23,
+      "num_comments": 67,
+      "url": "https://reddit.com/r/artificial/comments/1pov0h0/ai_fatigue/",
+      "created_utc": 1765973557.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Im proud of myself for making my first \"project\"",
+      "score": 22,
+      "num_comments": 17,
+      "url": "https://reddit.com/r/webdev/comments/1pp02uj/im_proud_of_myself_for_making_my_first_project/",
+      "created_utc": 1765986905.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Generative AI hype distracts us from AI’s more important breakthroughs",
+      "score": 19,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/artificial/comments/1pp4ht7/generative_ai_hype_distracts_us_from_ais_more/",
+      "created_utc": 1765997110.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[P] Lace is a probabilistic ML tool that lets you ask pretty much anything about your tabular data. Like TabPFN but Bayesian.",
+      "score": 18,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/MachineLearning/comments/1poy0pn/p_lace_is_a_probabilistic_ml_tool_that_lets_you/",
+      "created_utc": 1765982001.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Recent research in training embedding models",
+      "score": 15,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pojm5n/d_recent_research_in_training_embedding_models/",
+      "created_utc": 1765934613.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Chrome Extension \"ModHeader\" popup ads",
+      "score": 12,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/webdev/comments/1pp3v3v/chrome_extension_modheader_popup_ads/",
+      "created_utc": 1765995636.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model",
+      "score": 8,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/",
+      "created_utc": 1765976146.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "score": 7,
+      "num_comments": 42,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pbxkt2/d_selfpromotion_thread/",
+      "created_utc": 1764645329.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Blogs to read suggestions",
+      "score": 7,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/devops/comments/1pozt7m/blogs_to_read_suggestions/",
+      "created_utc": 1765986294.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "OSM and Postgis is so under estimated,",
+      "score": 6,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/webdev/comments/1pp4t5k/osm_and_postgis_is_so_under_estimated/",
+      "created_utc": 1765997828.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "score": 5,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/webdev/comments/1pbaypd/monthly_getting_started_web_dev_career_thread/",
+      "created_utc": 1764590448.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Buyer's remorse leaving agency",
+      "score": 5,
+      "num_comments": 13,
+      "url": "https://reddit.com/r/webdev/comments/1pp4563/buyers_remorse_leaving_agency/",
+      "created_utc": 1765996273.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Any interesting and unsolved problems in the VLA domain?",
+      "score": 5,
+      "num_comments": 10,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pp2pz4/d_any_interesting_and_unsolved_problems_in_the/",
+      "created_utc": 1765993020.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "GCP quotas alerting",
+      "score": 4,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1pp5n8m/gcp_quotas_alerting/",
+      "created_utc": 1765999761.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "rotoris tricked me into scrolling for 30 minutes",
+      "score": 4,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/startup/comments/1poxu5a/rotoris_tricked_me_into_scrolling_for_30_minutes/",
+      "created_utc": 1765981550.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Teachers are using software to see if students used AI. What happens when it's wrong?",
+      "score": 3,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/artificial/comments/1pp77ps/teachers_are_using_software_to_see_if_students/",
+      "created_utc": 1766003434.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "The Year in Slop",
+      "score": 3,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/artificial/comments/1pp5cm1/the_year_in_slop/",
+      "created_utc": 1765999070.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Mapbox Globe Viewer: React app with 3D globe, marker clustering, and a comprehensive Mapbox GL JS reference guide.",
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/webdev/comments/1pp9za6/mapbox_globe_viewer_react_app_with_3d_globe/",
+      "created_utc": 1766010100.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Hi recsys fellows: what is the current benchmark dataset for personalized ranking? is there any leaderboard out there with sota models for the personalized ranking task?",
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pozanv/d_hi_recsys_fellows_what_is_the_current_benchmark/",
+      "created_utc": 1765985089.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Google releases Gemini 3 Flash, promising improved intelligence and efficiency | Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.",
+      "score": 2,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/artificial/comments/1ppasjd/google_releases_gemini_3_flash_promising_improved/",
+      "created_utc": 1766012107.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Adding verification nodes made our agent system way more stable",
+      "score": 2,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/artificial/comments/1pp6jii/adding_verification_nodes_made_our_agent_system/",
+      "created_utc": 1766001849.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "Fellow solo founder offering accountability/brainstorming sessions (free)",
+      "score": 2,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/startup/comments/1pnnug4/fellow_solo_founder_offering/",
+      "created_utc": 1765844905.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "How do you plan?",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/startup/comments/1ppbkqt/how_do_you_plan/",
+      "created_utc": 1766014114.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "Early-stage streaming startup: is forming a C-Corp with 10M authorized shares a reasonable first step?",
+      "score": 1,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/startup/comments/1pozksh/earlystage_streaming_startup_is_forming_a_ccorp/",
+      "created_utc": 1765985767.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "Which Banking-as-a-Service provider is the easiest to onboard with and allows an individual developer (not just a company) to build an e-wallet or banking-style fintech app, offers a robust REST API, and importantly must include an admin backend panel for managing user accounts and core functions?",
+      "score": 1,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/startup/comments/1po9yay/which_bankingasaservice_provider_is_the_easiest/",
+      "created_utc": 1765910605.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D][Meta] 7 out of 10 top posts this month are about conference drama and administrative issues. We need to filter this.",
+      "score": 0,
+      "num_comments": 12,
+      "url": "https://reddit.com/r/MachineLearning/comments/1ppac65/dmeta_7_out_of_10_top_posts_this_month_are_about/",
+      "created_utc": 1766010987.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[R] Why our inference-time \"attractor layer\" failed and the multiple clocks that fixed it.",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pp8u1y/r_why_our_inferencetime_attractor_layer_failed/",
+      "created_utc": 1766007329.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Roast my RAG stack – built a full SaaS in 3 months, now roast me before my users do",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1ppc6or/roast_my_rag_stack_built_a_full_saas_in_3_months/",
+      "created_utc": 1766015724.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "I’ll find you customers on Reddit for free (and if I don’t, I’ll pay you $2)",
+      "score": 0,
+      "num_comments": 43,
+      "url": "https://reddit.com/r/startup/comments/1poynq7/ill_find_you_customers_on_reddit_for_free_and_if/",
+      "created_utc": 1765983580.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "So I helped someone raise ~$40M and didn’t get a dime lol 🤦‍♂️",
+      "score": 0,
+      "num_comments": 21,
+      "url": "https://reddit.com/r/startup/comments/1pohglu/so_i_helped_someone_raise_40m_and_didnt_get_a/",
+      "created_utc": 1765928713.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "Clients asking about AI search visibility, how are you handling it?",
+      "score": 0,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/startup/comments/1po737j/clients_asking_about_ai_search_visibility_how_are/",
+      "created_utc": 1765904191.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "startup",
+      "title": "A “Pause” Is Never Really a Pause for IT Companies - It Eats Resources If Not Handled Properly",
+      "score": 0,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/startup/comments/1pnwmsz/a_pause_is_never_really_a_pause_for_it_companies/",
+      "created_utc": 1765872757.0
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "hackernews",
+      "title": "Gemini 3 Flash: Frontier intelligence built for speed",
+      "score": 698,
+      "num_comments": 348,
+      "url": "https://blog.google/products/gemini/gemini-3-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=46301851",
+      "by": "meetpateltech",
+      "time": 1765989733
+    },
+    {
+      "source": "hackernews",
+      "title": "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
+      "score": 59,
+      "num_comments": 13,
+      "url": "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/",
+      "hn_url": "https://news.ycombinator.com/item?id=46305321",
+      "by": "arwt",
+      "time": 1766004613
+    },
+    {
+      "source": "hackernews",
+      "title": "Coursera to combine with Udemy",
+      "score": 391,
+      "num_comments": 223,
+      "url": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
+      "hn_url": "https://news.ycombinator.com/item?id=46301346",
+      "by": "throwaway019254",
+      "time": 1765975540
+    },
+    {
+      "source": "hackernews",
+      "title": "I got hacked: My Hetzner server started mining Monero",
+      "score": 135,
+      "num_comments": 122,
+      "url": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
+      "hn_url": "https://news.ycombinator.com/item?id=46305585",
+      "by": "jakelsaunders94",
+      "time": 1766006013
+    },
+    {
+      "source": "hackernews",
+      "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+      "score": 683,
+      "num_comments": 391,
+      "url": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
+      "hn_url": "https://news.ycombinator.com/item?id=46302267",
+      "by": "birdculture",
+      "time": 1765991315
+    },
+    {
+      "source": "hackernews",
+      "title": "OBS Studio Gets a New Renderer",
+      "score": 38,
+      "num_comments": 9,
+      "url": "https://obsproject.com/blog/obs-studio-gets-a-new-renderer",
+      "hn_url": "https://news.ycombinator.com/item?id=46305428",
+      "by": "aizk",
+      "time": 1766005169
+    },
+    {
+      "source": "hackernews",
+      "title": "Developers can now submit apps to ChatGPT",
+      "score": 30,
+      "num_comments": 29,
+      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/",
+      "hn_url": "https://news.ycombinator.com/item?id=46306456",
+      "by": "tananaev",
+      "time": 1766010449
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
+      "score": 48,
+      "num_comments": 0,
+      "url": "https://pypi.org/project/wavelet-matrix/",
+      "hn_url": "https://news.ycombinator.com/item?id=46304413",
+      "by": "math-hiyoko",
+      "time": 1766000156
+    },
+    {
+      "source": "hackernews",
+      "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
+      "score": 257,
+      "num_comments": 55,
+      "url": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
+      "hn_url": "https://news.ycombinator.com/item?id=46302337",
+      "by": "anttiharju",
+      "time": 1765991583
+    },
+    {
+      "source": "hackernews",
+      "title": "Cloudflare Radar 2025 Year in Review",
+      "score": 30,
+      "num_comments": 10,
+      "url": "https://radar.cloudflare.com/year-in-review/2025",
+      "hn_url": "https://news.ycombinator.com/item?id=46305945",
+      "by": "ksec",
+      "time": 1766007862
+    },
+    {
+      "source": "hackernews",
+      "title": "Tell HN: HN was down",
+      "score": 440,
+      "num_comments": 267,
+      "url": "https://news.ycombinator.com/item?id=46301921",
+      "hn_url": "https://news.ycombinator.com/item?id=46301921",
+      "by": "uyzstvqs",
+      "time": 1765990098
+    },
+    {
+      "source": "hackernews",
+      "title": "Fast Sequence Iteration in Common Lisp",
+      "score": 22,
+      "num_comments": 4,
+      "url": "https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46256946",
+      "by": "BoingBoomTschak",
+      "time": 1765652208
+    },
+    {
+      "source": "hackernews",
+      "title": "How SQLite is tested",
+      "score": 209,
+      "num_comments": 47,
+      "url": "https://sqlite.org/testing.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46303277",
+      "by": "whatisabcdefgh",
+      "time": 1765995338
+    },
+    {
+      "source": "hackernews",
+      "title": "Zmij: Faster floating point double-to-string conversion",
+      "score": 77,
+      "num_comments": 7,
+      "url": "https://vitaut.net/posts/2025/faster-dtoa/",
+      "hn_url": "https://news.ycombinator.com/item?id=46263821",
+      "by": "fanf2",
+      "time": 1765726923
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Kenobi (YC W22) – Personalize your website for every visitor",
+      "score": 25,
+      "num_comments": 48,
+      "url": "https://news.ycombinator.com/item?id=46301865",
+      "hn_url": "https://news.ycombinator.com/item?id=46301865",
+      "by": "sarreph",
+      "time": 1765989853
+    },
+    {
+      "source": "hackernews",
+      "title": "Venezuela's Navy Begins Escorting Ships as U.S. Threatens Blockade",
+      "score": 15,
+      "num_comments": 0,
+      "url": "https://www.nytimes.com/live/2025/12/17/us/trump-news",
+      "hn_url": "https://news.ycombinator.com/item?id=46306925",
+      "by": "belter",
+      "time": 1766013223
+    },
+    {
+      "source": "hackernews",
+      "title": "Pornhub extorted after hackers steal Premium member activity data",
+      "score": 67,
+      "num_comments": 23,
+      "url": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
+      "hn_url": "https://news.ycombinator.com/item?id=46304955",
+      "by": "coloneltcb",
+      "time": 1766002686
+    },
+    {
+      "source": "hackernews",
+      "title": "Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations",
+      "score": 4,
+      "num_comments": 2,
+      "url": "https://vibboai.com",
+      "hn_url": "https://news.ycombinator.com/item?id=46262875",
+      "by": "mrkn1",
+      "time": 1765718879
+    },
+    {
+      "source": "hackernews",
+      "title": "The State of AI Coding Report 2025",
+      "score": 67,
+      "num_comments": 70,
+      "url": "https://www.greptile.com/state-of-ai-coding-2025",
+      "hn_url": "https://news.ycombinator.com/item?id=46301886",
+      "by": "dakshgupta",
+      "time": 1765989935
+    },
+    {
+      "source": "hackernews",
+      "title": "The Number That Turned Sideways",
+      "score": 4,
+      "num_comments": 1,
+      "url": "https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46253836",
+      "by": "tzury",
+      "time": 1765625645
+    },
+    {
+      "source": "hackernews",
+      "title": "VRChat: “There are more Japanese creators than all other countries combined”",
+      "score": 59,
+      "num_comments": 34,
+      "url": "https://twitter.com/chyadosensei/status/2001356290531156159",
+      "hn_url": "https://news.ycombinator.com/item?id=46305172",
+      "by": "numpad0",
+      "time": 1766003886
+    },
+    {
+      "source": "hackernews",
+      "title": "I couldn't find a logging library that worked for my library, so I made one",
+      "score": 24,
+      "num_comments": 30,
+      "url": "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study",
+      "hn_url": "https://news.ycombinator.com/item?id=46245211",
+      "by": "todsacerdoti",
+      "time": 1765554404
+    },
+    {
+      "source": "hackernews",
+      "title": "No AI* Here – A Response to Mozilla's Next Chapter",
+      "score": 521,
+      "num_comments": 292,
+      "url": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
+      "hn_url": "https://news.ycombinator.com/item?id=46295268",
+      "by": "MrAlex94",
+      "time": 1765922869
+    },
+    {
+      "source": "hackernews",
+      "title": "I created a publishing system for step-by-step coding guides in Typst",
+      "score": 27,
+      "num_comments": 7,
+      "url": "https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a",
+      "hn_url": "https://news.ycombinator.com/item?id=46257147",
+      "by": "deniskolodin",
+      "time": 1765653903
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Isn't Just Spying on You. It's Tricking You into Spending More",
+      "score": 66,
+      "num_comments": 36,
+      "url": "https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing",
+      "hn_url": "https://news.ycombinator.com/item?id=46305409",
+      "by": "c420",
+      "time": 1766005089
+    },
+    {
+      "source": "hackernews",
+      "title": "Learning Fortran (2024)",
+      "score": 51,
+      "num_comments": 47,
+      "url": "https://uncenter.dev/posts/learning-fortran/",
+      "hn_url": "https://news.ycombinator.com/item?id=46301696",
+      "by": "lioeters",
+      "time": 1765977906
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: GitForms – Zero-cost contact forms using GitHub Issues as database",
+      "score": 11,
+      "num_comments": 5,
+      "url": "https://gitforms-landing.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=46304199",
+      "by": "lgreco",
+      "time": 1765999159
+    },
+    {
+      "source": "hackernews",
+      "title": "Thin desires are eating life",
+      "score": 740,
+      "num_comments": 241,
+      "url": "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/",
+      "hn_url": "https://news.ycombinator.com/item?id=46283276",
+      "by": "mitchbob",
+      "time": 1765846241
+    },
+    {
+      "source": "hackernews",
+      "title": "Speed matters: Why working quickly is more important than it seems",
+      "score": 19,
+      "num_comments": 11,
+      "url": "https://jsomers.net/blog/speed-matters",
+      "hn_url": "https://news.ycombinator.com/item?id=46270918",
+      "by": "bschne",
+      "time": 1765778068
+    }
+  ],
+  "github": [
+    {
+      "source": "github",
+      "repo": "C4illin/ConvertX",
+      "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+      "language": "TypeScript",
+      "stars_today": 629,
+      "total_stars": 0,
+      "url": "https://github.com/C4illin/ConvertX"
+    },
+    {
+      "source": "github",
+      "repo": "resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "language": "Python",
+      "stars_today": 345,
+      "total_stars": 0,
+      "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+      "source": "github",
+      "repo": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_today": 251,
+      "total_stars": 0,
+      "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+      "source": "github",
+      "repo": "simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "language": "TypeScript",
+      "stars_today": 981,
+      "total_stars": 0,
+      "url": "https://github.com/simstudioai/sim"
+    },
+    {
+      "source": "github",
+      "repo": "Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars_today": 756,
+      "total_stars": 0,
+      "url": "https://github.com/Free-TV/IPTV"
+    },
+    {
+      "source": "github",
+      "repo": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": 287,
+      "total_stars": 0,
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "source": "github",
+      "repo": "0xk1h0/ChatGPT_DAN",
+      "description": "ChatGPT DAN, Jailbreaks prompt",
+      "language": "",
+      "stars_today": 84,
+      "total_stars": 0,
+      "url": "https://github.com/0xk1h0/ChatGPT_DAN"
+    },
+    {
+      "source": "github",
+      "repo": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars_today": 488,
+      "total_stars": 0,
+      "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "source": "github",
+      "repo": "nicotsx/zerobyte",
+      "description": "Backup automation for self-hosters. Built on top of restic",
+      "language": "TypeScript",
+      "stars_today": 466,
+      "total_stars": 0,
+      "url": "https://github.com/nicotsx/zerobyte"
+    },
+    {
+      "source": "github",
+      "repo": "jellyfin/jellyfin-desktop",
+      "description": "Jellyfin Desktop Client",
+      "language": "C++",
+      "stars_today": 167,
+      "total_stars": 0,
+      "url": "https://github.com/jellyfin/jellyfin-desktop"
+    },
+    {
+      "source": "github",
+      "repo": "NVIDIA-NeMo/Gym",
+      "description": "Build RL environments for LLM training",
+      "language": "Python",
+      "stars_today": 33,
+      "total_stars": 0,
+      "url": "https://github.com/NVIDIA-NeMo/Gym"
+    }
+  ],
+  "producthunt": [
+    {
+      "source": "producthunt",
+      "title": "Picser 2.0",
+      "description": "Native macOS image viewer with tags & slideshow",
+      "url": "https://www.producthunt.com/products/picser-2",
+      "published": "2025-12-16T19:32:12-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "CanvAi",
+      "description": "Draw, compose, and generate AI art on an infinite canvas",
+      "url": "https://www.producthunt.com/products/canvai",
+      "published": "2025-12-09T12:07:22-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "AI-powered website segmentation by Croct",
+      "description": "Turn every click, engagement, and conversion into growth.",
+      "url": "https://www.producthunt.com/products/croct",
+      "published": "2025-11-24T12:02:22-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Grov",
+      "description": "Shared and synchronized AI memory + reasoning across teams",
+      "url": "https://www.producthunt.com/products/grov",
+      "published": "2025-12-16T23:03:54-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Kraa 1.0",
+      "description": "The writing app for everything",
+      "url": "https://www.producthunt.com/products/kraa",
+      "published": "2025-12-16T09:44:50-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Wan 2.6",
+      "description": "The next era of multimodal AI for creators is here",
+      "url": "https://www.producthunt.com/products/wan-2-2",
+      "published": "2025-12-16T07:29:28-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "ChatGPT Images",
+      "description": "Powered by GPT Image 1.5: Faster, smarter, precise",
+      "url": "https://www.producthunt.com/products/openai",
+      "published": "2025-12-16T17:48:35-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "StreamAlive",
+      "description": "Chat-powered polls, word clouds, quizzes for your PPT slides",
+      "url": "https://www.producthunt.com/products/streamalive",
+      "published": "2025-12-09T04:14:22-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Ayer",
+      "description": "Privately see any day of your photos across all your years",
+      "url": "https://www.producthunt.com/products/ayer",
+      "published": "2025-12-16T12:02:34-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Brew Great Coffee",
+      "description": "Dial in espresso & pourover",
+      "url": "https://www.producthunt.com/products/brew-great-coffee",
+      "published": "2025-12-07T07:22:50-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Wavedash",
+      "description": "A browser-first marketplace for PC games",
+      "url": "https://www.producthunt.com/products/wavedash",
+      "published": "2025-12-13T20:02:07-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Readever",
+      "description": "Read books with Elon Musk, Steve Jobs, or anyone you choose",
+      "url": "https://www.producthunt.com/products/readever",
+      "published": "2025-12-15T03:07:45-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "xPrivo",
+      "description": "Open Source, Free Anonymous AI Chat - Ready to Run Locally",
+      "url": "https://www.producthunt.com/products/xprivo",
+      "published": "2025-12-09T03:15:59-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "DocEndorse AI Agent for Microsoft Teams",
+      "description": "Autonomous AI for smarter e-signatures",
+      "url": "https://www.producthunt.com/products/docendorse-ai-agent-for-microsoft-teams",
+      "published": "2025-12-15T16:25:35-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "CLI Manager",
+      "description": "One dashboard to run and organize multiple AI CLI agents",
+      "url": "https://www.producthunt.com/products/cli-manager",
+      "published": "2025-12-15T02:38:37-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Stakpak 3.0 CLI",
+      "description": "Open source DevOps agent for devs who just want to ship",
+      "url": "https://www.producthunt.com/products/stakpak-dev",
+      "published": "2025-12-04T01:57:31-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "NexaSDK for Mobile",
+      "description": "Easiest solution to deploy multimodal AI to mobile",
+      "url": "https://www.producthunt.com/products/nexasdk-for-mobile",
+      "published": "2025-12-13T22:50:19-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Peek",
+      "description": "Live website previews in your Mac menu bar",
+      "url": "https://www.producthunt.com/products/peek-16",
+      "published": "2025-12-15T15:22:30-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Mirror",
+      "description": "Detect hidden apps on MacOS",
+      "url": "https://www.producthunt.com/products/mirror-14",
+      "published": "2025-12-15T09:20:09-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "QualGent",
+      "description": "Test apps in a click with AI QA agents that scale like infra",
+      "url": "https://www.producthunt.com/products/qualgent",
+      "published": "2025-12-03T12:43:47-08:00"
+    }
+  ],
+  "trendshift": [
+    {
+      "source": "trendshift",
+      "repo": "Free-TV/IPTV",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/Free-TV/IPTV"
+    },
+    {
+      "source": "trendshift",
+      "repo": "TapXWorld/ChinaTextbook",
+      "language": "",
+      "stars": "3",
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "source": "trendshift",
+      "repo": "simstudioai/sim",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/simstudioai/sim"
+    },
+    {
+      "source": "trendshift",
+      "repo": "C4illin/ConvertX",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/C4illin/ConvertX"
+    },
+    {
+      "source": "trendshift",
+      "repo": "public-apis/public-apis",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "source": "trendshift",
+      "repo": "Raphire/Win11Debloat",
+      "language": "",
+      "stars": "7",
+      "url": "https://github.com/Raphire/Win11Debloat"
+    },
+    {
+      "source": "trendshift",
+      "repo": "resemble-ai/chatterbox",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+      "source": "trendshift",
+      "repo": "ZJU-LLMs/Foundations-of-LLMs",
+      "language": "",
+      "stars": "9",
+      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
+    },
+    {
+      "source": "trendshift",
+      "repo": "nicotsx/zerobyte",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/nicotsx/zerobyte"
+    },
+    {
+      "source": "trendshift",
+      "repo": "labuladong/fucking-algorithm",
+      "language": "",
+      "stars": "11",
+      "url": "https://github.com/labuladong/fucking-algorithm"
+    },
+    {
+      "source": "trendshift",
+      "repo": "jaywcjlove/awesome-mac",
+      "language": "JavaScript",
+      "stars": "",
+      "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+      "source": "trendshift",
+      "repo": "DigitalPlatDev/FreeDomain",
+      "language": "HTML",
+      "stars": "",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "source": "trendshift",
+      "repo": "virattt/ai-hedge-fund",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+      "source": "trendshift",
+      "repo": "sindresorhus/awesome",
+      "language": "",
+      "stars": "15",
+      "url": "https://github.com/sindresorhus/awesome"
+    },
+    {
+      "source": "trendshift",
+      "repo": "blakeblackshear/frigate",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/blakeblackshear/frigate"
+    },
+    {
+      "source": "trendshift",
+      "repo": "mdn/content",
+      "language": "",
+      "stars": "17",
+      "url": "https://github.com/mdn/content"
+    },
+    {
+      "source": "trendshift",
+      "repo": "jellyfin/jellyfin-media-player",
+      "language": "C++",
+      "stars": "",
+      "url": "https://github.com/jellyfin/jellyfin-media-player"
+    },
+    {
+      "source": "trendshift",
+      "repo": "codecrafters-io/build-your-own-x",
+      "language": "",
+      "stars": "19",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+      "source": "trendshift",
+      "repo": "shadcn-ui/ui",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/shadcn-ui/ui"
+    },
+    {
+      "source": "trendshift",
+      "repo": "anthropics/claude-code",
+      "language": "Shell",
+      "stars": "",
+      "url": "https://github.com/anthropics/claude-code"
+    }
+  ]
+}
