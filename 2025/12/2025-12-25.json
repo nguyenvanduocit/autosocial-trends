@@ -1,0 +1,1088 @@
+{
+  "date": "2025-12-25",
+  "generated_at": "2025-12-25T07:01:34.973370+07:00",
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "'Getting into DevOps'",
+      "score": 1034,
+      "num_comments": 153,
+      "url": "https://reddit.com/r/devops/comments/yjdscp/getting_into_devops/",
+      "created_utc": 1667321129.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "The creator of QEMU &amp; FFMPEG just dropped a new JS engine 👀",
+      "score": 620,
+      "num_comments": 111,
+      "url": "https://reddit.com/r/webdev/comments/1puld6u/the_creator_of_qemu_ffmpeg_just_dropped_a_new_js/",
+      "created_utc": 1766576016.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "I've never seen this before... What does it mean?",
+      "score": 484,
+      "num_comments": 44,
+      "url": "https://reddit.com/r/webdev/comments/1pu40e8/ive_never_seen_this_before_what_does_it_mean/",
+      "created_utc": 1766521188.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "How We Reduced a 1.5GB Database by 99%",
+      "score": 454,
+      "num_comments": 144,
+      "url": "https://reddit.com/r/programming/comments/1puavnz/how_we_reduced_a_15gb_database_by_99/",
+      "created_utc": 1766539587.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Zelda: Twilight Princess Has Been Decompiled",
+      "score": 191,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/programming/comments/1pussnd/zelda_twilight_princess_has_been_decompiled/",
+      "created_utc": 1766597817.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Fifty problems with standard web APIs in 2025",
+      "score": 174,
+      "num_comments": 38,
+      "url": "https://reddit.com/r/programming/comments/1pu5zhy/fifty_problems_with_standard_web_apis_in_2025/",
+      "created_utc": 1766526184.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Frontend decisions are harder to justify on the spot than backend ones",
+      "score": 162,
+      "num_comments": 20,
+      "url": "https://reddit.com/r/webdev/comments/1purcxl/frontend_decisions_are_harder_to_justify_on_the/",
+      "created_utc": 1766593953.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Firefox will add an AI \"kill switch\" after community pushback",
+      "score": 152,
+      "num_comments": 103,
+      "url": "https://reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/",
+      "created_utc": 1766512497.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Why do people use the phrase 'buying/purchasing a domain name' instead of 'renting a domain name' ?",
+      "score": 147,
+      "num_comments": 48,
+      "url": "https://reddit.com/r/webdev/comments/1pumhqk/why_do_people_use_the_phrase_buyingpurchasing_a/",
+      "created_utc": 1766580028.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "LLVM considering an AI tool policy, AI bot for fixing build system breakage proposed",
+      "score": 124,
+      "num_comments": 60,
+      "url": "https://reddit.com/r/programming/comments/1ptwvch/llvm_considering_an_ai_tool_policy_ai_bot_for/",
+      "created_utc": 1766504085.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Fabrice Bellard Releases MicroQuickJS",
+      "score": 80,
+      "num_comments": 9,
+      "url": "https://reddit.com/r/programming/comments/1pu1ois/fabrice_bellard_releases_microquickjs/",
+      "created_utc": 1766515499.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Mark Cuban says AI allows \"creators to become exponentially more creative,\" but his advice didn’t land well with people working in the industry",
+      "score": 76,
+      "num_comments": 106,
+      "url": "https://reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/",
+      "created_utc": 1766561362.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Dear Tenable:  Please get your shit together",
+      "score": 71,
+      "num_comments": 17,
+      "url": "https://reddit.com/r/devops/comments/1pudn1w/dear_tenable_please_get_your_shit_together/",
+      "created_utc": 1766547998.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "How do you create this effect?",
+      "score": 56,
+      "num_comments": 18,
+      "url": "https://reddit.com/r/webdev/comments/1pun5zc/how_do_you_create_this_effect/",
+      "created_utc": 1766582223.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Ashley MacIsaac concert cancelled after AI wrongly accuses him of being sex offender.\nAI-generated content confused the Cape Breton musician with someone else",
+      "score": 53,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/artificial/comments/1pu9ddt/ashley_macisaac_concert_cancelled_after_ai/",
+      "created_utc": 1766535274.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "How should this sub respond to reddit's api changes, part 2",
+      "score": 51,
+      "num_comments": 31,
+      "url": "https://reddit.com/r/devops/comments/14n6ghq/how_should_this_sub_respond_to_reddits_api/",
+      "created_utc": 1688145703.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "New Evidence Reveals Halo Studios Going All In On GenAI, Xbox Studios Hiring ML Experts for Gears and Forza As Well",
+      "score": 40,
+      "num_comments": 19,
+      "url": "https://reddit.com/r/artificial/comments/1puiwp6/new_evidence_reveals_halo_studios_going_all_in_on/",
+      "created_utc": 1766566539.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.",
+      "score": 26,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/",
+      "created_utc": 1766524842.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "what does a DevOps engineer actually do day-to-day?",
+      "score": 24,
+      "num_comments": 88,
+      "url": "https://reddit.com/r/devops/comments/1puwcya/what_does_a_devops_engineer_actually_do_daytoday/",
+      "created_utc": 1766607496.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "My learning path stopped being linear",
+      "score": 15,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/devops/comments/1puffao/my_learning_path_stopped_being_linear/",
+      "created_utc": 1766553800.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Scientists create 0.2mm programmable autonomous microrobots that can sense, decide and act",
+      "score": 11,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/artificial/comments/1pu0bc3/scientists_create_02mm_programmable_autonomous/",
+      "created_utc": 1766512257.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Does this cost company's revenue?",
+      "score": 9,
+      "num_comments": 14,
+      "url": "https://reddit.com/r/webdev/comments/1puuzvd/does_this_cost_companys_revenue/",
+      "created_utc": 1766603654.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Where do you start when automating things for a series-A/B startup, low headcount?",
+      "score": 9,
+      "num_comments": 11,
+      "url": "https://reddit.com/r/devops/comments/1pus3sb/where_do_you_start_when_automating_things_for_a/",
+      "created_utc": 1766595952.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "score": 8,
+      "num_comments": 32,
+      "url": "https://reddit.com/r/webdev/comments/1pbaypd/monthly_getting_started_web_dev_career_thread/",
+      "created_utc": 1764590448.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "What are you doing in 2026?",
+      "score": 6,
+      "num_comments": 22,
+      "url": "https://reddit.com/r/webdev/comments/1pv06vk/what_are_you_doing_in_2026/",
+      "created_utc": 1766619104.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Creating the outer curves on UI elements",
+      "score": 5,
+      "num_comments": 6,
+      "url": "https://reddit.com/r/webdev/comments/1puw7y1/creating_the_outer_curves_on_ui_elements/",
+      "created_utc": 1766607089.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Why am i getting rejected from internships?",
+      "score": 4,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/devops/comments/1puyjs2/why_am_i_getting_rejected_from_internships/",
+      "created_utc": 1766613938.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "webdev",
+      "title": "Internationalisation strategies for users and SEO",
+      "score": 3,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/webdev/comments/1pv00xy/internationalisation_strategies_for_users_and_seo/",
+      "created_utc": 1766618577.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "How Monitoring Scales: XOR encoding in TSBDs",
+      "score": 2,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/programming/comments/1pudwss/how_monitoring_scales_xor_encoding_in_tsbds/",
+      "created_utc": 1766548836.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Looking For AI Call Center Solution Recommendations",
+      "score": 1,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/",
+      "created_utc": 1766610438.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "A little cookiecutter script to add logging and redirect to circusd",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1puyj6m/a_little_cookiecutter_script_to_add_logging_and/",
+      "created_utc": 1766613889.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Which AWS consulting partners in Europe are actually worth it? Top 10",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1puy3t4/which_aws_consulting_partners_in_europe_are/",
+      "created_utc": 1766612593.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Specification addressing inefficiencies in crawling of structured content for AI",
+      "score": 0,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/programming/comments/1puyk3x/specification_addressing_inefficiencies_in/",
+      "created_utc": 1766613965.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Numbers Every Programmer Should Know",
+      "score": 0,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/programming/comments/1puwng0/numbers_every_programmer_should_know/",
+      "created_utc": 1766608317.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Serverless Panel • N. Coult, R. Kohler, D. Anderson, J. Agarwal, A. Laxmi &amp; J. Dongre",
+      "score": 0,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/programming/comments/1pun1w0/serverless_panel_n_coult_r_kohler_d_anderson_j/",
+      "created_utc": 1766581860.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Choosing the Right C++ Containers for Performance",
+      "score": 0,
+      "num_comments": 6,
+      "url": "https://reddit.com/r/programming/comments/1pup1re/choosing_the_right_c_containers_for_performance/",
+      "created_utc": 1766587734.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "130 AI apps for visual creation in 11 categories",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/artificial/comments/1pusg4k/130_ai_apps_for_visual_creation_in_11_categories/",
+      "created_utc": 1766596884.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Can AI ever be funny? Some comedians embrace AI tools but they're still running the show",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/",
+      "created_utc": 1766594253.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "It's not the model, it's the tool",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/artificial/comments/1purnyi/its_not_the_model_its_the_tool/",
+      "created_utc": 1766594778.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Vagrant SSH CTRL C Bug Workaround - Decoding DevOps",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1puxrzo/vagrant_ssh_ctrl_c_bug_workaround_decoding_devops/",
+      "created_utc": 1766611615.0
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "hackernews",
+      "title": "Phoenix: A modern X server written from scratch in Zig",
+      "score": 105,
+      "num_comments": 34,
+      "url": "https://git.dec05eba.com/phoenix/about/",
+      "hn_url": "https://news.ycombinator.com/item?id=46380075",
+      "by": "snvzz",
+      "time": 1766616233
+    },
+    {
+      "source": "hackernews",
+      "title": "Tell HN: Merry Christmas",
+      "score": 160,
+      "num_comments": 46,
+      "url": "https://news.ycombinator.com/item?id=46380168",
+      "hn_url": "https://news.ycombinator.com/item?id=46380168",
+      "by": "basilikum",
+      "time": 1766616960
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+      "score": 205,
+      "num_comments": 77,
+      "url": "https://github.com/antonmedv/textarea",
+      "hn_url": "https://news.ycombinator.com/item?id=46378554",
+      "by": "medv",
+      "time": 1766605345
+    },
+    {
+      "source": "hackernews",
+      "title": "Fabrice Bellard: Biography (2009) [pdf]",
+      "score": 175,
+      "num_comments": 45,
+      "url": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=46377862",
+      "by": "lioeters",
+      "time": 1766600267
+    },
+    {
+      "source": "hackernews",
+      "title": "CSRF protection without tokens or hidden form fields",
+      "score": 53,
+      "num_comments": 5,
+      "url": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
+      "hn_url": "https://news.ycombinator.com/item?id=46351666",
+      "by": "adevilinyc",
+      "time": 1766381913
+    },
+    {
+      "source": "hackernews",
+      "title": "Research team digitizes more than 100 years of Canadian infectious disease data",
+      "score": 22,
+      "num_comments": 1,
+      "url": "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/",
+      "hn_url": "https://news.ycombinator.com/item?id=46322815",
+      "by": "XzetaU8",
+      "time": 1766125492
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
+      "score": 199,
+      "num_comments": 69,
+      "url": "https://github.com/VibiumDev/vibium",
+      "hn_url": "https://news.ycombinator.com/item?id=46377597",
+      "by": "hugs",
+      "time": 1766598542
+    },
+    {
+      "source": "hackernews",
+      "title": "I Left YouTube",
+      "score": 28,
+      "num_comments": 24,
+      "url": "https://zhach.news/how-i-left-youtube/",
+      "hn_url": "https://news.ycombinator.com/item?id=46379677",
+      "by": "dhashe",
+      "time": 1766613288
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft please get your tab to autocomplete shit together",
+      "score": 8,
+      "num_comments": 0,
+      "url": "https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/",
+      "hn_url": "https://news.ycombinator.com/item?id=46380475",
+      "by": "AmbroseBierce",
+      "time": 1766619195
+    },
+    {
+      "source": "hackernews",
+      "title": "Comptime – C# meta-programming with compile-time code generation and evaluation",
+      "score": 23,
+      "num_comments": 1,
+      "url": "https://github.com/sebastienros/comptime",
+      "hn_url": "https://news.ycombinator.com/item?id=46339532",
+      "by": "bj-rn",
+      "time": 1766263792
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia buying AI chip startup Groq for about $20B in cash",
+      "score": 280,
+      "num_comments": 179,
+      "url": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46379183",
+      "by": "nickrubin",
+      "time": 1766610135
+    },
+    {
+      "source": "hackernews",
+      "title": "Qntm's Power Tower Toy",
+      "score": 42,
+      "num_comments": 14,
+      "url": "https://qntm.org/files/knuth/knuth.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46335370",
+      "by": "ravenical",
+      "time": 1766229561
+    },
+    {
+      "source": "hackernews",
+      "title": "When Compilers Surprise You",
+      "score": 195,
+      "num_comments": 94,
+      "url": "https://xania.org/202512/24-cunning-clang",
+      "hn_url": "https://news.ycombinator.com/item?id=46375384",
+      "by": "brewmarche",
+      "time": 1766582870
+    },
+    {
+      "source": "hackernews",
+      "title": "The dawn of a world simulator",
+      "score": 25,
+      "num_comments": 5,
+      "url": "https://odyssey.ml/the-dawn-of-a-world-simulator",
+      "hn_url": "https://news.ycombinator.com/item?id=46338895",
+      "by": "olivercameron",
+      "time": 1766259602
+    },
+    {
+      "source": "hackernews",
+      "title": "Fabrice Bellard Releases MicroQuickJS",
+      "score": 1343,
+      "num_comments": 512,
+      "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
+      "hn_url": "https://news.ycombinator.com/item?id=46367224",
+      "by": "Aissen",
+      "time": 1766511222
+    },
+    {
+      "source": "hackernews",
+      "title": "Spaced repetition for efficient learning (2019)",
+      "score": 78,
+      "num_comments": 28,
+      "url": "https://gwern.net/spaced-repetition",
+      "hn_url": "https://news.ycombinator.com/item?id=46379076",
+      "by": "tsenturk",
+      "time": 1766609333
+    },
+    {
+      "source": "hackernews",
+      "title": "A faster path to container images in Bazel",
+      "score": 55,
+      "num_comments": 28,
+      "url": "https://www.tweag.io/blog/2025-12-18-rules_img/",
+      "hn_url": "https://news.ycombinator.com/item?id=46317687",
+      "by": "malt3",
+      "time": 1766087429
+    },
+    {
+      "source": "hackernews",
+      "title": "How GNU Guile is 10x better (2021)",
+      "score": 44,
+      "num_comments": 1,
+      "url": "https://www.draketo.de/software/guile-10x",
+      "hn_url": "https://news.ycombinator.com/item?id=46345865",
+      "by": "Tomte",
+      "time": 1766333809
+    },
+    {
+      "source": "hackernews",
+      "title": "Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy",
+      "score": 51,
+      "num_comments": 11,
+      "url": "https://loreandordure.com/2025/12/16/jingle-bells/",
+      "hn_url": "https://news.ycombinator.com/item?id=46344104",
+      "by": "helsinkiandrew",
+      "time": 1766317128
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: A local-first, reversible PII scrubber for AI workflows",
+      "score": 16,
+      "num_comments": 0,
+      "url": "https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc",
+      "hn_url": "https://news.ycombinator.com/item?id=46377070",
+      "by": "tjruesch",
+      "time": 1766594657
+    },
+    {
+      "source": "hackernews",
+      "title": "Why did we use leaded petrol for so long? (2017)",
+      "score": 44,
+      "num_comments": 37,
+      "url": "https://www.bbc.com/news/business-40593353",
+      "hn_url": "https://news.ycombinator.com/item?id=46348207",
+      "by": "simonebrunozzi",
+      "time": 1766349600
+    },
+    {
+      "source": "hackernews",
+      "title": "My 2026 Open Social Web Predictions",
+      "score": 73,
+      "num_comments": 70,
+      "url": "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46376652",
+      "by": "todsacerdoti",
+      "time": 1766591963
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm returning my Framework 16",
+      "score": 135,
+      "num_comments": 231,
+      "url": "https://yorickpeterse.com/articles/im-returning-my-framework-16/",
+      "hn_url": "https://news.ycombinator.com/item?id=46375174",
+      "by": "YorickPeterse",
+      "time": 1766580919
+    },
+    {
+      "source": "hackernews",
+      "title": "Quake's Player Speed (2017)",
+      "score": 51,
+      "num_comments": 11,
+      "url": "https://rome.ro/quakes-player-speed-1",
+      "hn_url": "https://news.ycombinator.com/item?id=46365398",
+      "by": "klaussilveira",
+      "time": 1766498650
+    },
+    {
+      "source": "hackernews",
+      "title": "The e-scooter isn't new – London was zooming around on Autopeds a century ago",
+      "score": 138,
+      "num_comments": 105,
+      "url": "https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/",
+      "hn_url": "https://news.ycombinator.com/item?id=46373644",
+      "by": "zeristor",
+      "time": 1766565147
+    },
+    {
+      "source": "hackernews",
+      "title": "Avoid Mini-Frameworks",
+      "score": 108,
+      "num_comments": 85,
+      "url": "https://laike9m.com/blog/avoid-mini-frameworks,171/",
+      "hn_url": "https://news.ycombinator.com/item?id=46374856",
+      "by": "laike9m",
+      "time": 1766577842
+    },
+    {
+      "source": "hackernews",
+      "title": "Beijing is enforcing tough rules to ensure chatbots don’t misbehave",
+      "score": 64,
+      "num_comments": 22,
+      "url": "https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d",
+      "hn_url": "https://news.ycombinator.com/item?id=46378747",
+      "by": "bookofjoe",
+      "time": 1766606692
+    },
+    {
+      "source": "hackernews",
+      "title": "Pantograph: Building a preschool for robots",
+      "score": 32,
+      "num_comments": 6,
+      "url": "https://pantograph.com/blog/building-a-preschool-for-robots.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46368827",
+      "by": "agajews",
+      "time": 1766519959
+    },
+    {
+      "source": "hackernews",
+      "title": "Your inbox is a bandit problem",
+      "score": 70,
+      "num_comments": 60,
+      "url": "https://parentheticallyspeaking.org/articles/bandit-inbox/",
+      "hn_url": "https://news.ycombinator.com/item?id=46351196",
+      "by": "zdw",
+      "time": 1766376244
+    }
+  ],
+  "github": [
+    {
+      "source": "github",
+      "repo": "rendercv/rendercv",
+      "description": "Typst-based CV/resume generator for academics and engineers",
+      "language": "Python",
+      "stars_today": 2615,
+      "total_stars": 0,
+      "url": "https://github.com/rendercv/rendercv"
+    },
+    {
+      "source": "github",
+      "repo": "twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars_today": 222,
+      "total_stars": 0,
+      "url": "https://github.com/twitter/the-algorithm"
+    },
+    {
+      "source": "github",
+      "repo": "google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars_today": 485,
+      "total_stars": 0,
+      "url": "https://github.com/google/langextract"
+    },
+    {
+      "source": "github",
+      "repo": "vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "language": "Python",
+      "stars_today": 176,
+      "total_stars": 0,
+      "url": "https://github.com/vllm-project/vllm-omni"
+    },
+    {
+      "source": "github",
+      "repo": "stan-smith/FossFLOW",
+      "description": "Make beautiful isometric infrastructure diagrams",
+      "language": "TypeScript",
+      "stars_today": 503,
+      "total_stars": 0,
+      "url": "https://github.com/stan-smith/FossFLOW"
+    },
+    {
+      "source": "github",
+      "repo": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": 352,
+      "total_stars": 0,
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "source": "github",
+      "repo": "safety-research/bloom",
+      "description": "bloom - evaluate any behavior immediately  🌸🌱",
+      "language": "Python",
+      "stars_today": 226,
+      "total_stars": 0,
+      "url": "https://github.com/safety-research/bloom"
+    },
+    {
+      "source": "github",
+      "repo": "makeplane/plane",
+      "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
+      "language": "TypeScript",
+      "stars_today": 424,
+      "total_stars": 0,
+      "url": "https://github.com/makeplane/plane"
+    },
+    {
+      "source": "github",
+      "repo": "yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "language": "Python",
+      "stars_today": 399,
+      "total_stars": 0,
+      "url": "https://github.com/yichuan-w/LEANN"
+    },
+    {
+      "source": "github",
+      "repo": "danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "language": "Go",
+      "stars_today": 137,
+      "total_stars": 0,
+      "url": "https://github.com/danielmiessler/Fabric"
+    },
+    {
+      "source": "github",
+      "repo": "apurvsinghgautam/robin",
+      "description": "AI-Powered Dark Web OSINT Tool",
+      "language": "Python",
+      "stars_today": 147,
+      "total_stars": 0,
+      "url": "https://github.com/apurvsinghgautam/robin"
+    },
+    {
+      "source": "github",
+      "repo": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "language": "TypeScript",
+      "stars_today": 350,
+      "total_stars": 0,
+      "url": "https://github.com/langgenius/dify"
+    },
+    {
+      "source": "github",
+      "repo": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": 644,
+      "total_stars": 0,
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "source": "github",
+      "repo": "etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars_today": 23,
+      "total_stars": 0,
+      "url": "https://github.com/etcd-io/etcd"
+    },
+    {
+      "source": "github",
+      "repo": "facebookresearch/dinov3",
+      "description": "Reference PyTorch implementation and models for DINOv3",
+      "language": "Jupyter Notebook",
+      "stars_today": 40,
+      "total_stars": 0,
+      "url": "https://github.com/facebookresearch/dinov3"
+    },
+    {
+      "source": "github",
+      "repo": "vendure-ecommerce/vendure",
+      "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+      "language": "TypeScript",
+      "stars_today": 262,
+      "total_stars": 0,
+      "url": "https://github.com/vendure-ecommerce/vendure"
+    }
+  ],
+  "producthunt": [
+    {
+      "source": "producthunt",
+      "title": "WalletWallet",
+      "description": "Create Apple Wallet passes for unsupported cards",
+      "url": "https://www.producthunt.com/products/walletwallet",
+      "published": "2025-12-23T13:31:48-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "GitHired",
+      "description": "Find your next 10x Engineer by proof of work, not keywords",
+      "url": "https://www.producthunt.com/products/githired-2",
+      "published": "2025-12-01T23:52:24-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "ShipAddons",
+      "description": "Ship Google Workspace add-ons without the setup pain",
+      "url": "https://www.producthunt.com/products/shipaddons",
+      "published": "2025-12-23T05:30:48-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Spring Boot CRUD Generator",
+      "description": "Generate production-ready Spring Boot CRUD in seconds",
+      "url": "https://www.producthunt.com/products/jetbrains",
+      "published": "2025-12-23T08:19:48-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Nano Banana Playground",
+      "description": "Playground for Nano Banana image generation and editing",
+      "url": "https://www.producthunt.com/products/nano-banana-playground",
+      "published": "2025-12-23T04:47:16-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Vanderwaals: Personalized by AI",
+      "description": "AI Wallpaper App—Learns your style—100% On-Device & Open",
+      "url": "https://www.producthunt.com/products/vanderwaals",
+      "published": "2025-12-18T22:50:57-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "GitJin",
+      "description": "GitHub repos, issues, and PRs in one clear dashboard",
+      "url": "https://www.producthunt.com/products/gitjin",
+      "published": "2025-12-23T19:59:39-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Santa Videos",
+      "description": "Bring Santa to life with AI",
+      "url": "https://www.producthunt.com/products/creatorkit",
+      "published": "2025-12-23T23:46:02-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Lofi Desk",
+      "description": "Dynamic room & companion that changes based on your music",
+      "url": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats",
+      "published": "2025-12-23T22:52:12-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "SantaCalls.ai",
+      "description": "Free calls with AI Santa",
+      "url": "https://www.producthunt.com/products/santacalls-ai",
+      "published": "2025-12-24T07:14:44-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Typeless for iOS",
+      "description": "AI voice keyboard now on iPhone",
+      "url": "https://www.producthunt.com/products/typeless-2",
+      "published": "2025-12-17T06:12:16-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Launch Shots",
+      "description": "Create stunning App/Play Store screenshots in minutes",
+      "url": "https://www.producthunt.com/products/launch-shots",
+      "published": "2025-12-23T00:36:55-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Voice Studio Companion",
+      "description": "Drag & drop voice generator tool",
+      "url": "https://www.producthunt.com/products/voice-studio-companion",
+      "published": "2025-12-23T02:25:50-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "A2UI",
+      "description": "A safe way for AI to build UIs your app can render",
+      "url": "https://www.producthunt.com/products/google",
+      "published": "2025-12-23T19:27:55-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "ooml.io",
+      "description": "Offline-first Loom-like video recording app for macOS",
+      "url": "https://www.producthunt.com/products/ooml-io",
+      "published": "2025-12-23T04:35:41-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "/agent by Firecrawl",
+      "description": "Gather structured data wherever it lives on the web",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "published": "2025-12-22T07:08:30-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Embr",
+      "description": "Plan your path to debt freedom",
+      "url": "https://www.producthunt.com/products/embr",
+      "published": "2025-12-21T18:23:49-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Aident AI",
+      "description": "Build automations with natural language, not workflows",
+      "url": "https://www.producthunt.com/products/aident-ai",
+      "published": "2025-12-16T18:48:33-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "AbleMouse AI edition",
+      "description": "Open-source AI cursor control with computer vision",
+      "url": "https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch",
+      "published": "2025-12-22T05:53:45-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Apple Health Wrapped 2025",
+      "description": "Your Apple Health Data, Beautifully Visualized.",
+      "url": "https://www.producthunt.com/products/apple-health-wrapped",
+      "published": "2025-12-22T08:35:05-08:00"
+    }
+  ],
+  "trendshift": [
+    {
+      "source": "trendshift",
+      "repo": "rendercv/rendercv",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/rendercv/rendercv"
+    },
+    {
+      "source": "trendshift",
+      "repo": "sinaatalay/rendercv",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/sinaatalay/rendercv"
+    },
+    {
+      "source": "trendshift",
+      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "language": "",
+      "stars": "4",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "source": "trendshift",
+      "repo": "anthropics/skills",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "source": "trendshift",
+      "repo": "antvis/Infographic",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/antvis/Infographic"
+    },
+    {
+      "source": "trendshift",
+      "repo": "hotheadhacker/no-as-a-service",
+      "language": "JavaScript",
+      "stars": "",
+      "url": "https://github.com/hotheadhacker/no-as-a-service"
+    },
+    {
+      "source": "trendshift",
+      "repo": "twitter/the-algorithm",
+      "language": "Scala",
+      "stars": "",
+      "url": "https://github.com/twitter/the-algorithm"
+    },
+    {
+      "source": "trendshift",
+      "repo": "stan-smith/FossFLOW",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/stan-smith/FossFLOW"
+    },
+    {
+      "source": "trendshift",
+      "repo": "yichuan-w/LEANN",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/yichuan-w/LEANN"
+    },
+    {
+      "source": "trendshift",
+      "repo": "makeplane/plane",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/makeplane/plane"
+    },
+    {
+      "source": "trendshift",
+      "repo": "exo-explore/exo",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/exo-explore/exo"
+    },
+    {
+      "source": "trendshift",
+      "repo": "cloudcommunity/Free-Certifications",
+      "language": "",
+      "stars": "13",
+      "url": "https://github.com/cloudcommunity/Free-Certifications"
+    },
+    {
+      "source": "trendshift",
+      "repo": "codecrafters-io/build-your-own-x",
+      "language": "",
+      "stars": "14",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+      "source": "trendshift",
+      "repo": "google/langextract",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/google/langextract"
+    },
+    {
+      "source": "trendshift",
+      "repo": "home-assistant/core",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/home-assistant/core"
+    },
+    {
+      "source": "trendshift",
+      "repo": "davila7/claude-code-templates",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "source": "trendshift",
+      "repo": "DigitalPlatDev/FreeDomain",
+      "language": "HTML",
+      "stars": "",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "source": "trendshift",
+      "repo": "mlabonne/llm-course",
+      "language": "",
+      "stars": "19",
+      "url": "https://github.com/mlabonne/llm-course"
+    },
+    {
+      "source": "trendshift",
+      "repo": "open-webui/open-webui",
+      "language": "",
+      "stars": "20",
+      "url": "https://github.com/open-webui/open-webui"
+    },
+    {
+      "source": "trendshift",
+      "repo": "lintsinghua/DeepAudit",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/lintsinghua/DeepAudit"
+    }
+  ]
+}
