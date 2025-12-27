@@ -1,0 +1,1017 @@
+{
+  "date": "2025-12-27",
+  "generated_at": "2025-12-27T07:01:30.195130+07:00",
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "'Getting into DevOps'",
+      "score": 1040,
+      "num_comments": 154,
+      "url": "https://reddit.com/r/devops/comments/yjdscp/getting_into_devops/",
+      "created_utc": 1667321129.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "ASUS ROG Laptops are Broken by Design: A Forensic Deep Dive",
+      "score": 973,
+      "num_comments": 89,
+      "url": "https://reddit.com/r/programming/comments/1pw1vf1/asus_rog_laptops_are_broken_by_design_a_forensic/",
+      "created_utc": 1766747338.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "The Compiler Is Your Best Friend, Stop Lying to It",
+      "score": 483,
+      "num_comments": 149,
+      "url": "https://reddit.com/r/programming/comments/1pvjtcb/the_compiler_is_your_best_friend_stop_lying_to_it/",
+      "created_utc": 1766688192.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Logging Sucks - And here's how to make it better.",
+      "score": 348,
+      "num_comments": 66,
+      "url": "https://reddit.com/r/programming/comments/1pvfxpn/logging_sucks_and_heres_how_to_make_it_better/",
+      "created_utc": 1766677370.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "One Formula That Demystifies 3D Graphics",
+      "score": 336,
+      "num_comments": 40,
+      "url": "https://reddit.com/r/programming/comments/1pvbxtr/one_formula_that_demystifies_3d_graphics/",
+      "created_utc": 1766663973.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "US military adds Elon Musk’s controversial Grok to its ‘AI arsenal’",
+      "score": 230,
+      "num_comments": 64,
+      "url": "https://reddit.com/r/artificial/comments/1pve6qv/us_military_adds_elon_musks_controversial_grok_to/",
+      "created_utc": 1766671934.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Best papers of 2025",
+      "score": 209,
+      "num_comments": 30,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pvmrx9/d_best_papers_of_2025/",
+      "created_utc": 1766696516.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "One Formula That Demystifies 3D Graphics",
+      "score": 142,
+      "num_comments": 10,
+      "url": "https://reddit.com/r/programming/comments/1pw35n3/one_formula_that_demystifies_3d_graphics/",
+      "created_utc": 1766752072.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Make your PR process resilient to AI slop",
+      "score": 85,
+      "num_comments": 32,
+      "url": "https://reddit.com/r/programming/comments/1pvtq6l/make_your_pr_process_resilient_to_ai_slop/",
+      "created_utc": 1766717693.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "How Versioned Cache Keys Can Save You During Rolling Deployments",
+      "score": 70,
+      "num_comments": 16,
+      "url": "https://reddit.com/r/programming/comments/1pvomnn/how_versioned_cache_keys_can_save_you_during/",
+      "created_utc": 1766702008.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "How should this sub respond to reddit's api changes, part 2",
+      "score": 49,
+      "num_comments": 31,
+      "url": "https://reddit.com/r/devops/comments/14n6ghq/how_should_this_sub_respond_to_reddits_api/",
+      "created_utc": 1688145703.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "score": 37,
+      "num_comments": 9,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pb25zo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "created_utc": 1764559853.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[P] S2ID: Scale Invariant Image Diffuser - trained on standard MNIST, generates 1024x1024 digits and at arbitrary aspect ratios with almost no artifacts at 6.1M parameters (Drastic code change and architectural improvement)",
+      "score": 25,
+      "num_comments": 14,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pwd8su/p_s2id_scale_invariant_image_diffuser_trained_on/",
+      "created_utc": 1766778691.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[P] NOMA: Neural networks that realloc themselves during training (compile-time autodiff to LLVM IR)",
+      "score": 23,
+      "num_comments": 11,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pw4jco/p_noma_neural_networks_that_realloc_themselves/",
+      "created_utc": 1766756430.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "RoboCop – Breaking The Law. H0ffman Cracks RoboCop Arcade from DataEast",
+      "score": 22,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/programming/comments/1pwdnvc/robocop_breaking_the_law_h0ffman_cracks_robocop/",
+      "created_utc": 1766779731.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "CEO Swen Vincke promises an AMA to clear up Larian Studios's use of generative AI: \"You’ll get the opportunity to ask us any questions you have about Divinity and our dev process directly\" | Vincke kicked off an uproar earlier when he said that Larian makes use of generative AI \"to explore ideas.\"",
+      "score": 19,
+      "num_comments": 10,
+      "url": "https://reddit.com/r/artificial/comments/1pvhhbg/ceo_swen_vincke_promises_an_ama_to_clear_up/",
+      "created_utc": 1766681780.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "What checks do you run before deploying that tests and CI won’t catch?",
+      "score": 15,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/devops/comments/1pw5phr/what_checks_do_you_run_before_deploying_that/",
+      "created_utc": 1766759745.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Throwback 2025 - Securing Your OTel Collector",
+      "score": 13,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1pw15e0/throwback_2025_securing_your_otel_collector/",
+      "created_utc": 1766744568.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "Gibberish - A new style of parser-combinator with robust error handling built in",
+      "score": 10,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/programming/comments/1pwerc6/gibberish_a_new_style_of_parsercombinator_with/",
+      "created_utc": 1766782505.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "score": 10,
+      "num_comments": 59,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pbxkt2/d_selfpromotion_thread/",
+      "created_utc": 1764645329.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Scaling beyond basic VPS+nginx: Next steps for a growing Go backend?",
+      "score": 9,
+      "num_comments": 9,
+      "url": "https://reddit.com/r/devops/comments/1pw5uwx/scaling_beyond_basic_vpsnginx_next_steps_for_a/",
+      "created_utc": 1766760164.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Where to find realworld/production results &amp; experiences?",
+      "score": 8,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pvz3a0/d_where_to_find_realworldproduction_results/",
+      "created_utc": 1766736298.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "The State of DevOps Jobs in H2 2025",
+      "score": 8,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/devops/comments/1pwf717/the_state_of_devops_jobs_in_h2_2025/",
+      "created_utc": 1766783598.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "EngineAI T800: humanoid robot performs incredible martial arts moves",
+      "score": 5,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/artificial/comments/1pvv1dh/engineai_t800_humanoid_robot_performs_incredible/",
+      "created_utc": 1766721869.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "AI-powered police body cameras, once taboo, get tested on Canadian city's 'watch list' of faces",
+      "score": 4,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/artificial/comments/1pvlexa/aipowered_police_body_cameras_once_taboo_get/",
+      "created_utc": 1766692631.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Microsoft Replacing C++ with Rust – What Engineers Should Learn",
+      "score": 3,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/",
+      "created_utc": 1766784153.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Im creating new app that will help to new DevOps developers better understand concepts of DevOps and how it works",
+      "score": 3,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/devops/comments/1pwesig/im_creating_new_app_that_will_help_to_new_devops/",
+      "created_utc": 1766782585.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[R] How to decide between which theoretical result to present?",
+      "score": 2,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pwi8s3/r_how_to_decide_between_which_theoretical_result/",
+      "created_utc": 1766791461.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "[P] Zahaviel Structured Intelligence: A Recursive Cognitive Operating System for Externalized Thought (Paper)",
+      "score": 2,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/artificial/comments/1pvq9ri/p_zahaviel_structured_intelligence_a_recursive/",
+      "created_utc": 1766707006.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Migrating legacy GCE-based API stack to GKE",
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1pw7evz/migrating_legacy_gcebased_api_stack_to_gke/",
+      "created_utc": 1766764271.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[P] Canvas Agent for Gemini - Organized Image Generation Interface",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pwhivc/p_canvas_agent_for_gemini_organized_image/",
+      "created_utc": 1766789585.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Canvas Agent for Gemini - Organized image generation interface",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/artificial/comments/1pwho6k/canvas_agent_for_gemini_organized_image/",
+      "created_utc": 1766789967.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "Zero Width Characters (U+200B)",
+      "score": 1,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/artificial/comments/1pw9z12/zero_width_characters_u200b/",
+      "created_utc": 1766770593.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Do you use synthetic browser monitoring?",
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/devops/comments/1pwfgi8/do_you_use_synthetic_browser_monitoring/",
+      "created_utc": 1766784274.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "programming",
+      "title": "How to make a markdown viewer in java",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/programming/comments/1pwi2c4/how_to_make_a_markdown_viewer_in_java/",
+      "created_utc": 1766790983.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "ModelCypher: A toolkit for the geometry of LLMs (open source) [P]",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pwi8i6/modelcypher_a_toolkit_for_the_geometry_of_llms/",
+      "created_utc": 1766791441.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[R] Automated algorithmic optimization (AlphaEvolve)",
+      "score": 0,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/MachineLearning/comments/1pwguue/r_automated_algorithmic_optimization_alphaevolve/",
+      "created_utc": 1766787865.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "2025 \"Accelerators Towards the Singularity\" Top 19 (it's complicated) as determined by the AI roundtable",
+      "score": 0,
+      "num_comments": 6,
+      "url": "https://reddit.com/r/artificial/comments/1pwehjm/2025_accelerators_towards_the_singularity_top_19/",
+      "created_utc": 1766781812.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "artificial",
+      "title": "AI Trends to watch in 2026",
+      "score": 0,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/artificial/comments/1pw82h8/ai_trends_to_watch_in_2026/",
+      "created_utc": 1766765915.0
+    },
+    {
+      "source": "reddit",
+      "subreddit": "devops",
+      "title": "Building my Open-Source 11labs Ops Tool: Secure Backups + Team Access",
+      "score": 0,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/devops/comments/1pwb44y/building_my_opensource_11labs_ops_tool_secure/",
+      "created_utc": 1766773433.0
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "hackernews",
+      "title": "How uv got so fast",
+      "score": 444,
+      "num_comments": 151,
+      "url": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46393992",
+      "by": "zdw",
+      "time": 1766769187
+    },
+    {
+      "source": "hackernews",
+      "title": "The Best Things and Stuff of 2025",
+      "score": 64,
+      "num_comments": 9,
+      "url": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46365726",
+      "by": "adityaathalye",
+      "time": 1766501493
+    },
+    {
+      "source": "hackernews",
+      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
+      "score": 267,
+      "num_comments": 117,
+      "url": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
+      "hn_url": "https://news.ycombinator.com/item?id=46393936",
+      "by": "astronads",
+      "time": 1766768873
+    },
+    {
+      "source": "hackernews",
+      "title": "How Lewis Carroll computed determinants (2023)",
+      "score": 128,
+      "num_comments": 25,
+      "url": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+      "hn_url": "https://news.ycombinator.com/item?id=46395106",
+      "by": "tzury",
+      "time": 1766775812
+    },
+    {
+      "source": "hackernews",
+      "title": "Drawing with zero-width characters",
+      "score": 45,
+      "num_comments": 19,
+      "url": "https://zw.swerdlow.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=46395061",
+      "by": "benswerd",
+      "time": 1766775579
+    },
+    {
+      "source": "hackernews",
+      "title": "-tucky",
+      "score": 15,
+      "num_comments": 5,
+      "url": "https://languagelog.ldc.upenn.edu/nll/?p=58650",
+      "hn_url": "https://news.ycombinator.com/item?id=46372532",
+      "by": "benatkin",
+      "time": 1766551397
+    },
+    {
+      "source": "hackernews",
+      "title": "Package managers keep using Git as a database, it never works out",
+      "score": 549,
+      "num_comments": 316,
+      "url": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46391514",
+      "by": "birdculture",
+      "time": 1766753196
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Witr – Explain why a process is running on your Linux system",
+      "score": 151,
+      "num_comments": 20,
+      "url": "https://github.com/pranshuparmar/witr",
+      "hn_url": "https://news.ycombinator.com/item?id=46392910",
+      "by": "pranshuparmar",
+      "time": 1766762436
+    },
+    {
+      "source": "hackernews",
+      "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
+      "score": 265,
+      "num_comments": 94,
+      "url": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
+      "hn_url": "https://news.ycombinator.com/item?id=46395184",
+      "by": "davisr",
+      "time": 1766776402
+    },
+    {
+      "source": "hackernews",
+      "title": "LearnixOS",
+      "score": 189,
+      "num_comments": 67,
+      "url": "https://www.learnix-os.com",
+      "hn_url": "https://news.ycombinator.com/item?id=46391599",
+      "by": "gtirloni",
+      "time": 1766753996
+    },
+    {
+      "source": "hackernews",
+      "title": "Gaussian Splatting 3 Ways",
+      "score": 39,
+      "num_comments": 3,
+      "url": "https://github.com/NullandKale/NullSplats",
+      "hn_url": "https://news.ycombinator.com/item?id=46395273",
+      "by": "nullandkale",
+      "time": 1766777008
+    },
+    {
+      "source": "hackernews",
+      "title": "Parasites plagued Roman soldiers at Hadrian's Wall",
+      "score": 27,
+      "num_comments": 16,
+      "url": "https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/",
+      "hn_url": "https://news.ycombinator.com/item?id=46328725",
+      "by": "sipofwater",
+      "time": 1766166699
+    },
+    {
+      "source": "hackernews",
+      "title": "Perfect Aircrete, Kitchen Ingredients [video]",
+      "score": 65,
+      "num_comments": 22,
+      "url": "https://www.youtube.com/watch?v=z4_GxPHwqkA",
+      "hn_url": "https://news.ycombinator.com/item?id=46336743",
+      "by": "surprisetalk",
+      "time": 1766243582
+    },
+    {
+      "source": "hackernews",
+      "title": "FFmpeg has issued a DMCA takedown on GitHub",
+      "score": 348,
+      "num_comments": 97,
+      "url": "https://twitter.com/FFmpeg/status/2004599109559496984",
+      "hn_url": "https://news.ycombinator.com/item?id=46394327",
+      "by": "merlindru",
+      "time": 1766771305
+    },
+    {
+      "source": "hackernews",
+      "title": "Migrating my web analytics from Matomo to Umami",
+      "score": 30,
+      "num_comments": 3,
+      "url": "https://stanislas.blog/2025/12/migrating-matomo-to-umami-web-analytics/",
+      "hn_url": "https://news.ycombinator.com/item?id=46374524",
+      "by": "angristan",
+      "time": 1766574521
+    },
+    {
+      "source": "hackernews",
+      "title": "MongoBleed",
+      "score": 44,
+      "num_comments": 6,
+      "url": "https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py",
+      "hn_url": "https://news.ycombinator.com/item?id=46394620",
+      "by": "gpi",
+      "time": 1766773020
+    },
+    {
+      "source": "hackernews",
+      "title": "Grok and the Naked King: The Ultimate Argument Against AI Alignment",
+      "score": 31,
+      "num_comments": 12,
+      "url": "https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/",
+      "hn_url": "https://news.ycombinator.com/item?id=46395292",
+      "by": "ibrahimcesar",
+      "time": 1766777128
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What did you read in 2025?",
+      "score": 131,
+      "num_comments": 170,
+      "url": "https://news.ycombinator.com/item?id=46391572",
+      "hn_url": "https://news.ycombinator.com/item?id=46391572",
+      "by": "kwar13",
+      "time": 1766753716
+    },
+    {
+      "source": "hackernews",
+      "title": "How I think about Kubernetes",
+      "score": 57,
+      "num_comments": 33,
+      "url": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
+      "hn_url": "https://news.ycombinator.com/item?id=46396043",
+      "by": "todsacerdoti",
+      "time": 1766781868
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
+      "score": 79,
+      "num_comments": 16,
+      "url": "https://github.com/valdanylchuk/xcc700",
+      "hn_url": "https://news.ycombinator.com/item?id=46392736",
+      "by": "isitcontent",
+      "time": 1766761621
+    },
+    {
+      "source": "hackernews",
+      "title": "Unix \"find\" expressions compiled to bytecode",
+      "score": 94,
+      "num_comments": 13,
+      "url": "https://nullprogram.com/blog/2025/12/23/",
+      "hn_url": "https://news.ycombinator.com/item?id=46391448",
+      "by": "rcarmo",
+      "time": 1766752510
+    },
+    {
+      "source": "hackernews",
+      "title": "Rob Pike goes nuclear over GenAI",
+      "score": 1148,
+      "num_comments": 1438,
+      "url": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
+      "hn_url": "https://news.ycombinator.com/item?id=46392115",
+      "by": "christoph-heiss",
+      "time": 1766758127
+    },
+    {
+      "source": "hackernews",
+      "title": "Sandbox: Run untrusted AI code safely, fast",
+      "score": 47,
+      "num_comments": 13,
+      "url": "https://github.com/PwnFunction/sandbox",
+      "hn_url": "https://news.ycombinator.com/item?id=46326281",
+      "by": "vortex_ape",
+      "time": 1766154860
+    },
+    {
+      "source": "hackernews",
+      "title": "The Algebra of Loans in Rust",
+      "score": 179,
+      "num_comments": 87,
+      "url": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46357814",
+      "by": "g0xA52A2A",
+      "time": 1766431529
+    },
+    {
+      "source": "hackernews",
+      "title": "A Proclamation Regarding the Restoration of the Dash",
+      "score": 99,
+      "num_comments": 104,
+      "url": "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/",
+      "hn_url": "https://news.ycombinator.com/item?id=46394169",
+      "by": "BeetleB",
+      "time": 1766770171
+    },
+    {
+      "source": "hackernews",
+      "title": "What happened to all the gold Spain got from the New World? (1985)",
+      "score": 60,
+      "num_comments": 100,
+      "url": "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world",
+      "hn_url": "https://news.ycombinator.com/item?id=46352016",
+      "by": "titaniumtown",
+      "time": 1766387888
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago",
+      "score": 101,
+      "num_comments": 31,
+      "url": "https://acadlisp.de/noscript.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46393271",
+      "by": "holg",
+      "time": 1766764612
+    },
+    {
+      "source": "hackernews",
+      "title": "ZJIT is now available in Ruby 4.0",
+      "score": 76,
+      "num_comments": 24,
+      "url": "https://railsatscale.com/2025-12-24-launch-zjit/",
+      "hn_url": "https://news.ycombinator.com/item?id=46393906",
+      "by": "ibobev",
+      "time": 1766768682
+    },
+    {
+      "source": "hackernews",
+      "title": "Overlooked No More: Inge Lehmann, Who Discovered the Earth's Inner Core",
+      "score": 71,
+      "num_comments": 14,
+      "url": "https://www.nytimes.com/2025/12/20/obituaries/inge-lehmann-overlooked.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46360080",
+      "by": "Hooke",
+      "time": 1766443465
+    },
+    {
+      "source": "hackernews",
+      "title": "Joan Didion and Kurt Vonnegut had something to say. We have it on tape",
+      "score": 90,
+      "num_comments": 20,
+      "url": "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46351836",
+      "by": "tintinnabula",
+      "time": 1766384252
+    }
+  ],
+  "github": [
+    {
+      "source": "github",
+      "repo": "tw93/Mole",
+      "description": "🐹 Deep clean and optimize your Mac.",
+      "language": "Shell",
+      "stars_today": 3297,
+      "total_stars": 0,
+      "url": "https://github.com/tw93/Mole"
+    },
+    {
+      "source": "github",
+      "repo": "rendercv/rendercv",
+      "description": "CV/resume generator for academics and engineers, YAML to PDF",
+      "language": "Python",
+      "stars_today": 1861,
+      "total_stars": 0,
+      "url": "https://github.com/rendercv/rendercv"
+    },
+    {
+      "source": "github",
+      "repo": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "language": "TypeScript",
+      "stars_today": 283,
+      "total_stars": 0,
+      "url": "https://github.com/langgenius/dify"
+    },
+    {
+      "source": "github",
+      "repo": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_today": 93,
+      "total_stars": 0,
+      "url": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "source": "github",
+      "repo": "flowsurface-rs/flowsurface",
+      "description": "A native desktop charting platform for crypto markets",
+      "language": "Rust",
+      "stars_today": 139,
+      "total_stars": 0,
+      "url": "https://github.com/flowsurface-rs/flowsurface"
+    },
+    {
+      "source": "github",
+      "repo": "yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "language": "Python",
+      "stars_today": 352,
+      "total_stars": 0,
+      "url": "https://github.com/yichuan-w/LEANN"
+    },
+    {
+      "source": "github",
+      "repo": "apurvsinghgautam/robin",
+      "description": "AI-Powered Dark Web OSINT Tool",
+      "language": "Python",
+      "stars_today": 125,
+      "total_stars": 0,
+      "url": "https://github.com/apurvsinghgautam/robin"
+    }
+  ],
+  "producthunt": [
+    {
+      "source": "producthunt",
+      "title": "CrowdSynthetic",
+      "description": "Predict crowd congestion before it happens",
+      "url": "https://www.producthunt.com/products/crowdsynthetic-ai-crowd-safety",
+      "published": "2025-12-25T21:29:53-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Tubeletter",
+      "description": "Turn Youtube vides into newsletters",
+      "url": "https://www.producthunt.com/products/tubeletter",
+      "published": "2025-12-24T10:04:00-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Thordata",
+      "description": "Fuel AI training with high-quality, scaled data via proxies",
+      "url": "https://www.producthunt.com/products/thordata",
+      "published": "2025-12-10T23:07:21-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "NBot",
+      "description": "Personalized curators that surface what you care about",
+      "url": "https://www.producthunt.com/products/nbot",
+      "published": "2025-12-17T06:22:13-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Clarity",
+      "description": "Caffeine tracking to optimize your intake",
+      "url": "https://www.producthunt.com/products/clarity-17",
+      "published": "2025-12-19T11:39:49-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Erla",
+      "description": "Improve the way you master and understand languages",
+      "url": "https://www.producthunt.com/products/erla",
+      "published": "2025-12-24T01:19:16-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "DiffSense",
+      "description": "Local AI git commit generator for Apple Silicon",
+      "url": "https://www.producthunt.com/products/diffsense",
+      "published": "2025-12-22T05:21:38-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "ScreenREC",
+      "description": "Free online screen recorder | no download required",
+      "url": "https://www.producthunt.com/products/screenrec",
+      "published": "2025-12-13T00:07:06-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Dvina",
+      "description": "Private AI that connects 120+ apps and your live databases",
+      "url": "https://www.producthunt.com/products/dvina-2",
+      "published": "2025-12-23T16:09:47-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Reddit Summarizer",
+      "description": "Summarize long Reddit threads with one click",
+      "url": "https://www.producthunt.com/products/reddit-summarizer",
+      "published": "2025-12-24T12:48:07-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Buzz",
+      "description": "Chat with your Meta Ads and ask anything about the campaigns",
+      "url": "https://www.producthunt.com/products/buzz-chat-with-your-meta-ads",
+      "published": "2025-12-24T06:24:13-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Press Pitch",
+      "description": "Generate a ready-to-send pitch for journalists in seconds.",
+      "url": "https://www.producthunt.com/products/press-pitch",
+      "published": "2025-12-24T10:27:54-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "PurrrrrFocus Pomodoro",
+      "description": "Turn focus into a delightful journey with cute cat companion",
+      "url": "https://www.producthunt.com/products/purrrrrfocus-pomodoro",
+      "published": "2025-12-24T02:22:38-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Lofi Desk",
+      "description": "Dynamic room & companion that changes based on your music",
+      "url": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats",
+      "published": "2025-12-23T22:52:12-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Typeless for iOS",
+      "description": "AI voice keyboard now on iPhone",
+      "url": "https://www.producthunt.com/products/typeless-2",
+      "published": "2025-12-17T06:12:16-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Launch Shots",
+      "description": "Create stunning App/Play Store screenshots in minutes",
+      "url": "https://www.producthunt.com/products/launch-shots",
+      "published": "2025-12-23T00:36:55-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "WalletWallet",
+      "description": "Create Apple Wallet passes for unsupported cards",
+      "url": "https://www.producthunt.com/products/walletwallet",
+      "published": "2025-12-23T13:31:48-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "Nano Banana Playground",
+      "description": "Playground for Nano Banana image generation and editing",
+      "url": "https://www.producthunt.com/products/nano-banana-playground",
+      "published": "2025-12-23T04:47:16-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "A2UI",
+      "description": "A safe way for AI to build UIs your app can render",
+      "url": "https://www.producthunt.com/products/google",
+      "published": "2025-12-23T19:27:55-08:00"
+    },
+    {
+      "source": "producthunt",
+      "title": "ooml.io",
+      "description": "Offline-first Loom-like video recording app for macOS",
+      "url": "https://www.producthunt.com/products/ooml-io",
+      "published": "2025-12-23T04:35:41-08:00"
+    }
+  ],
+  "trendshift": [
+    {
+      "source": "trendshift",
+      "repo": "NdoleStudio/httpsms",
+      "language": "Go",
+      "stars": "",
+      "url": "https://github.com/NdoleStudio/httpsms"
+    },
+    {
+      "source": "trendshift",
+      "repo": "rendercv/rendercv",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/rendercv/rendercv"
+    },
+    {
+      "source": "trendshift",
+      "repo": "ruvnet/wifi-densepose",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/ruvnet/wifi-densepose"
+    },
+    {
+      "source": "trendshift",
+      "repo": "twitter/the-algorithm",
+      "language": "Scala",
+      "stars": "",
+      "url": "https://github.com/twitter/the-algorithm"
+    },
+    {
+      "source": "trendshift",
+      "repo": "akenshaw/flowsurface",
+      "language": "Rust",
+      "stars": "",
+      "url": "https://github.com/akenshaw/flowsurface"
+    },
+    {
+      "source": "trendshift",
+      "repo": "DigitalPlatDev/FreeDomain",
+      "language": "HTML",
+      "stars": "",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "source": "trendshift",
+      "repo": "makeplane/plane",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/makeplane/plane"
+    },
+    {
+      "source": "trendshift",
+      "repo": "facebookresearch/llm-transparency-tool",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/facebookresearch/llm-transparency-tool"
+    },
+    {
+      "source": "trendshift",
+      "repo": "mallahyari/system-design-visualizer",
+      "language": "JavaScript",
+      "stars": "",
+      "url": "https://github.com/mallahyari/system-design-visualizer"
+    },
+    {
+      "source": "trendshift",
+      "repo": "laylavish/uBlockOrigin-HUGE-AI-Blocklist",
+      "language": "",
+      "stars": "11",
+      "url": "https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist"
+    },
+    {
+      "source": "trendshift",
+      "repo": "flowsurface-rs/flowsurface",
+      "language": "Rust",
+      "stars": "",
+      "url": "https://github.com/flowsurface-rs/flowsurface"
+    },
+    {
+      "source": "trendshift",
+      "repo": "yichuan-w/LEANN",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/yichuan-w/LEANN"
+    },
+    {
+      "source": "trendshift",
+      "repo": "anthropics/skills",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "source": "trendshift",
+      "repo": "resemble-ai/chatterbox",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+      "source": "trendshift",
+      "repo": "vendure-ecommerce/vendure",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/vendure-ecommerce/vendure"
+    },
+    {
+      "source": "trendshift",
+      "repo": "gokapso/whatsapp-cloud-inbox",
+      "language": "TypeScript",
+      "stars": "",
+      "url": "https://github.com/gokapso/whatsapp-cloud-inbox"
+    },
+    {
+      "source": "trendshift",
+      "repo": "agrinman/tunnelto",
+      "language": "Rust",
+      "stars": "",
+      "url": "https://github.com/agrinman/tunnelto"
+    },
+    {
+      "source": "trendshift",
+      "repo": "Maxteabag/sqlit",
+      "language": "Python",
+      "stars": "",
+      "url": "https://github.com/Maxteabag/sqlit"
+    },
+    {
+      "source": "trendshift",
+      "repo": "dlvhdr/gh-dash",
+      "language": "Go",
+      "stars": "",
+      "url": "https://github.com/dlvhdr/gh-dash"
+    },
+    {
+      "source": "trendshift",
+      "repo": "codecrafters-io/build-your-own-x",
+      "language": "",
+      "stars": "21",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    }
+  ]
+}
